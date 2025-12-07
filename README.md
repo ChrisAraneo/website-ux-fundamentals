@@ -306,11 +306,102 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 - **Distinction**: No all-encompassing container or long sidebars (unlike multicolumn)
 - **Desktop to mobile**: Multiple columns collapse to single column
 
+## Takeways
+
+1. **Simplicity vs. Complexity:** Choose layout complexity based on content needs and screen size
+2. **Responsive Design:** Different layouts may be appropriate for different device sizes (single-column for mobile, multicolumn for desktop)
+3. **Visual Hierarchy:** All layouts should consider hierarchy, color, and variety in element organization
+4. **Focal Points:** Multicolumn and featured image layouts particularly benefit from clear focal points
+5. **Purpose-Driven Design:** Each layout serves specific purposes:
+   - Single-column: Reading and simplicity
+   - Multicolumn: Content variety and desktop optimization
+   - Box: Organization and categorization
+   - Featured image: Impact and emotion
+6. **Quality Matters:** Especially for featured image layouts, high-quality visuals are essential
+7. **Navigation Consistency:** Fixed/sticky navigation bars help maintain user orientation
+
 ## UX considerations
-- **Familiarity**: Users have expectations based on prior website experience
-- **Navigation**: Familiar layouts improve ease of use
-- **Trends vs. usability**: Choose layouts based on user needs and accessibility, not trends
-- **Evolution**: Layouts may change over time with user needs
+
+- Consider target devices and screen sizes
+- Match layout to content type and user goals
+- Maintain consistency within chosen layout system
+- Use established patterns users are familiar with
+- Prioritize visual quality, especially for image-heavy layouts
+- Balance aesthetics with functionality
+- Test layouts with actual users to validate effectiveness
+
+# Wireframes
+
+![Wireframes](/wireframes.png)
+
+## What is wireframe?
+A **wireframe** is an outline or sketch of a product/screen consisting of shapes, lines and minimal text.
+Wireframes help designers figure out the layout of the page. They act like blueprints for site structure.
+
+## Wireframing conventions
+- **Text** is represented by horizontal lines
+- **Icons/Images** are represented by squares with X overlay
+- **Call-to-action buttons (CTA)** are rectangles or circles
+- **Placeholders** are represented by shapes or lines holding space for future visual elements
+
+## Paper and digital wireframes
+
+Many UX designers start with paper wireframes and later switch to digital to balance speed of exploration with refinement.
+
+### Paper wireframing
+- Start sketching on paper
+- Allows working through many iterations faster
+- Easy to throw away wireframes that aren't working
+- Typical starting point for many UX designers
+
+### Digital wireframing
+- Create wireframes using digital tools
+- Switch to digital after paper exploration
+
+## Responsive design wireframes
+Implement layout changes based on device/screen size to improve user experience and accessibility across devices. Best practice is to create at least 5 versions of every important page.
+
+### Mobile wireframe
+- Draw smaller, portrait-oriented outline (narrower than desktop)
+- Use grid lines as placement guide
+- Scale desktop elements down (~1/3 size for mobile)
+- May span multiple A5 pages when sketching
+
+### Tablet wireframe
+- Draw outline larger than mobile, smaller than desktop
+- Still portrait-oriented
+- Scale elements proportionally using grid
+
+### Design considerations for smaller screens
+- **Remove** non-essential UI components
+- **Maintain** critical elements
+- **Shift** positions or change formats
+- **Space-saving elements**: Hamburger menus, cards, carousels
+- **Reduce clutter**: Prioritize usability and accessibility
+
+## Sketching paper wireframes
+
+### Preparation
+1. **List required information**: Document all elements needed on page (navigation, images, text descriptions)
+2. **Reference sitemap**: Use sitemap to determine page structure and element prioritization
+3. **Gather materials**: Grid paper (or template), pen/pencil
+
+### Drawing process - top-to-bottom approach
+1. **Create multiple variations**: Sketch 4-5 different layout versionss. Each version should have different design solutions.
+2. **Consider all device types**: Sketch wireframes for each device type and screen size.
+
+### Review and refinement
+1. **Identify best elements**: Mark favorite features from each wireframe
+2. **Combine marked elements**: Create final wireframe integrating best components
+3. **Repeat for all pages**: Apply same process to remaining website pages
+
+## Takeaways
+
+1. **Exploration over perfection**: Generate many ideas quickly
+2. **Iteration is essential**: Designs evolve throughout the process
+3. **Grid paper benefits**: Enables consistent scaling and element proportion
+4. **Industry standards**: Facilitate team communication and understanding
+5. **Progressive refinement**: Paper sketches → digital wireframes
 
 # Image attributions
 
