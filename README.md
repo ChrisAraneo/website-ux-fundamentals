@@ -457,6 +457,47 @@ Design approach:
 - Include full version of logo with library name
 - Use smaller logo version in header to save space
 
+### Multiple homepage wireframe options
+
+Best Practice is to create around 5 versions of important pages like homepage.
+
+**Option A:**
+- Large hero image with text next to it
+- Could introduce author or featured book collection
+
+**Option B:**
+- Really prominent search field in top right
+- Hero image of library in background
+
+**Option C:**
+- Logo, search, and navigation grouped in one floating box
+- Other images and text for books further down page
+
+**Option D:**
+- Simplified navigation
+- Discover, about, and donate areas as parts of actual homepage
+
+**Option E:**
+- "Outside the box" approach
+- Search super prominent (search engine style)
+
+### Selection process
+
+After creating multiple wireframes, identify features you like most by marking them with a star.
+Once you've identified the best parts, combine them into one new wireframe.
+
+## Takeaways
+
+1. **Exploration is critical** - Create multiple versions to find the best solution
+2. **Follow industry standards** - Use consistent visual conventions for clarity
+3. **Plan before drawing** - List required elements upfront
+4. **Think systematically** - Work through page sections logically (header → content → footer)
+5. **Above the fold matters** - Place important content where users see it immediately
+6. **Iterate and refine** - Identify best elements from multiple versions
+7. **Be creative** - Don't be afraid to try unconventional layouts
+8. **Combine strengths** - Final wireframe can merge best parts from all variations
+9. **Wireframes are only blueprints**: They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
+
 # Image attributions
 
 - Responsive design
