@@ -230,6 +230,8 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ![Example of a visual sitemap for a website that sells coffee products](https://api.backlinko.com/app/uploads/2025/05/sitemap-1280x1054.webp)
 
+(source: [https://backlinko.com/sitemap-examples](https://backlinko.com/sitemap-examples))
+
 ## Sitemap types by website size
 
 - **Flat sitemaps**: Small websites (under 100 pages) with maximum 4 vertical levels
