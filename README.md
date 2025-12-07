@@ -75,7 +75,7 @@ Information architecture (IA) organizes content to help users understand where t
 
 Information architecture is fundamentally about organizing content for excellent user flow. To create effective IA, designers must thoroughly understand their users' goals, behaviors, and expectations.
 
-## Key Foundation for IA
+## Key foundation for IA
 
 Effective information architecture should be informed by:
 
@@ -386,9 +386,10 @@ Implement layout changes based on device/screen size to improve user experience 
 2. **Reference sitemap**: Use sitemap to determine page structure and element prioritization
 3. **Gather materials**: Grid paper (or template), pen/pencil
 
-### Drawing process - top-to-bottom approach
+### Drawing process
 1. **Create multiple variations**: Sketch 4-5 different layout versionss. Each version should have different design solutions.
 2. **Consider all device types**: Sketch wireframes for each device type and screen size.
+3. **Top-to-bottom approach**: It is recommended to use *top-to-bottom* design approach. That is how users experience webpage.
 
 ### Review and refinement
 1. **Identify best elements**: Mark favorite features from each wireframe
@@ -402,6 +403,61 @@ Implement layout changes based on device/screen size to improve user experience 
 3. **Grid paper benefits**: Enables consistent scaling and element proportion
 4. **Industry standards**: Facilitate team communication and understanding
 5. **Progressive refinement**: Paper sketches → digital wireframes
+
+## Above the fold
+**"Above the fold"** is content on webpage that doesn't require scrolling to experience.
+
+## Example: library website homepage wireframe
+
+### Header area (top of page)
+
+#### Elements to include
+1. **Logo** (upper left corner)
+   - Add rectangle with word "logo"
+   - Makes purpose clear to yourself and reviewers
+2. **Navigation links** (next to logo)
+   - Search
+   - Discover
+   - Donate
+   - About pages
+   - Important hyperlinks for specific website type
+3. **Account & cart icons** (right side of header)
+   - Common design pattern in left-to-right reading languages
+   - Cart link typically furthest to the right
+4. **Hero Image** (below header)
+   - Takes up majority of header area (but not all)
+   - Include text next to image to explain content
+   - Could feature author or new book release
+   - Draw X in boxes to indicate image placeholder
+
+#### Above the fold
+In the "above the fold" area of the library homepage website wireframe:
+- Add rectangles with X inside (image placeholders)
+- Add lines for corresponding descriptions
+- Show latest books
+- Ensure users immediately notice content when landing on homepage
+
+#### Below the fold
+Include additional content for variety:
+- Create new section for more books
+- List six books in two groups of three rectangles
+- Add lines below each for:
+  - Book title
+  - Author name
+  - Other relevant information
+
+#### Footer Area
+Typical footer content:
+- Organization's social media pages
+- Terms and conditions
+- Career opportunities
+- Privacy policy
+- Other useful navigation links
+
+Design approach:
+- Add lines to indicate hyperlinks
+- Include full version of logo with library name
+- Use smaller logo version in header to save space
 
 # Image attributions
 
