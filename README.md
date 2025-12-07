@@ -1,6 +1,8 @@
-# website-ux-fundamentals
+# Website UX Fundamentals
 
 # Responsive design
+
+![Responsive design](/responsive-design.png)
 
 ## What is responsive design?
 
@@ -62,3 +64,59 @@ Responsive web design allows a website to automatically adapt its appearance bas
 ### Summary
 
 Both approaches have their place in UX design. Understanding the trade-offs helps designers choose the right solution based on user needs, project constraints, and business goals.
+
+# Information architecture
+
+## What is information architecture (IA)?
+
+Information architecture (IA) organizes content to help users understand where they are in a product and where the information they want is. It serves as the roadmap for users to navigate and find everything they need from your website.
+
+Information architecture is fundamentally about organizing content for excellent user flow. To create effective IA, designers must thoroughly understand their users' goals, behaviors, and expectations.
+
+## Key Foundation for IA
+
+Effective information architecture should be informed by:
+
+- **User research** - Understanding user goals, behaviors, and expectations
+- **Competitive audits** - Examining how existing products are structured
+- **User knowledge** - Deep understanding of who you're designing for
+
+## Why information architecture matters?
+
+### 1. **Organizes and defines website structure**
+- Creates easy navigation for users
+- Establishes clear organizational patterns
+
+### 2. **Provides high-level product view**
+- Shows how website elements fit together
+- Clarifies relationships between different parts
+- Improves overall design process
+
+### 3. **Facilitates stakeholder review**
+- Enables stakeholders to evaluate content appropriateness
+- Helps assess if content placement aligns with business goals
+- Supports product goal achievement
+
+### 4. **Supports engineering development**
+- Helps engineers understand data organization
+- Ensures development matches visual designs
+- Makes colleagues' jobs easier
+
+### 5. **Saves development time**
+- Prevents messy architecture that delays web development
+- Reduces costly mistakes and rework
+
+### 6. **Enables design iteration**
+- Allows ideas to grow and evolve
+- Supports adaptation at different project stages
+- Key skill for UX designers
+
+## Common website structures
+
+Understanding the four common website structures is essential for organizing content effectively and building information architecture that meets user needs.
+
+# Image attributions
+
+- Responsive design
+  - https://www.pexels.com/pl-pl/zdjecie/osoba-korzystajaca-z-i-phone-a-1194760/
+  - https://www.pexels.com/pl-pl/zdjecie/laptop-na-biurku-w-poblizu-bujnej-rosliny-doniczkowej-5797997/
