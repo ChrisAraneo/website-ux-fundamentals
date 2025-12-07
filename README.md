@@ -166,17 +166,17 @@ Common website structures help users browse more efficiently by providing famili
 - Can go beyond these models for unique brand requirements
 - **Critical**: Users must be able to easily and effectively navigate the website
 
-## Sitemaps
+# Sitemaps
 
 ![Sitemaps](/sitemaps.png)
 
-### Sitemap
+## Sitemap
 
 A **sitemap** is a diagram showing how pages are prioritized, linked, and labeled in a website or app.
 
 Sitemaps are essential tools for planning website architecture and ensuring all users can successfully navigate the design. Clear organizational structure through sitemaps is essential for user navigation and successful website design. Sitemaps serve as foundational planning tools for web architecture.
 
-### Benefits of using sitemaps
+## Benefits of using sitemaps
 
 1. **Clear organizational path**: Helps visualize site structure in early planning stages
 2. **Identifies connectivity needs**: Shows which areas require elaborate connections
@@ -185,7 +185,7 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 5. **Search engine indexing**: Helps Google and other search engines understand site content
 6. **Accessibility**: Creates organized flow for all users, especially those using assistive technology
 
-### Sitemap Structure (hierarchical example)
+## Sitemap Structure (hierarchical example)
 
 - **Top rectangle**: Homepage (user entry point)
 - **Row of rectangles below**: Main categories connected to homepage
