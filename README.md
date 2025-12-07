@@ -168,6 +168,8 @@ Common website structures help users browse more efficiently by providing famili
 
 ## Sitemaps
 
+[Sitemaps](/sitemaps.png)
+
 ### Sitemap
 
 A **sitemap** is a diagram showing how pages are prioritized, linked, and labeled in a website or app.
@@ -242,3 +244,5 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
   - https://www.pexels.com/pl-pl/zdjecie/kolekcja-japonskich-plakatow-sciennych-w-stylu-vintage-35089102/
 - Common website structures
   - https://www.pexels.com/pl-pl/zdjecie/symetryczna-perspektywa-stalowego-mostu-kolejowego-35064415/
+- Sitemaps
+  - https://www.pexels.com/pl-pl/zdjecie/edukacja-mapa-strony-widok-z-gory-15835241/
