@@ -168,7 +168,7 @@ Common website structures help users browse more efficiently by providing famili
 
 ## Sitemaps
 
-[Sitemaps](/sitemaps.png)
+![Sitemaps](/sitemaps.png)
 
 ### Sitemap
 
@@ -228,7 +228,7 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ## Example sitemap
 
-[Example of a visual sitemap for a website that sells coffee products](https://api.backlinko.com/app/uploads/2025/05/sitemap-1280x1054.webp)
+![Example of a visual sitemap for a website that sells coffee products](https://api.backlinko.com/app/uploads/2025/05/sitemap-1280x1054.webp)
 
 ## Sitemap types by website size
 
