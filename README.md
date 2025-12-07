@@ -323,3 +323,5 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
   - https://www.pexels.com/pl-pl/zdjecie/symetryczna-perspektywa-stalowego-mostu-kolejowego-35064415/
 - Sitemaps
   - https://www.pexels.com/pl-pl/zdjecie/edukacja-mapa-strony-widok-z-gory-15835241/
+- Home layouts
+  - https://www.pexels.com/pl-pl/zdjecie/krajobraz-domy-znane-miejsce-podroz-21631486/
