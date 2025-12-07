@@ -67,6 +67,8 @@ Both approaches have their place in UX design. Understanding the trade-offs help
 
 # Information architecture
 
+![Information architecture](/information-architecture.png)
+
 ## What is information architecture (IA)?
 
 Information architecture (IA) organizes content to help users understand where they are in a product and where the information they want is. It serves as the roadmap for users to navigate and find everything they need from your website.
@@ -120,3 +122,5 @@ Understanding the four common website structures is essential for organizing con
 - Responsive design
   - https://www.pexels.com/pl-pl/zdjecie/osoba-korzystajaca-z-i-phone-a-1194760/
   - https://www.pexels.com/pl-pl/zdjecie/laptop-na-biurku-w-poblizu-bujnej-rosliny-doniczkowej-5797997/
+- Information architecture
+  - https://www.pexels.com/pl-pl/zdjecie/kolekcja-japonskich-plakatow-sciennych-w-stylu-vintage-35089102/
