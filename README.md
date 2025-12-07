@@ -410,8 +410,6 @@ Implement layout changes based on device/screen size to improve user experience 
 ## Example: library website homepage wireframe
 
 ### Header area (top of page)
-
-#### Elements to include
 1. **Logo** (upper left corner)
    - Add rectangle with word "logo"
    - Makes purpose clear to yourself and reviewers
@@ -430,14 +428,14 @@ Implement layout changes based on device/screen size to improve user experience 
    - Could feature author or new book release
    - Draw X in boxes to indicate image placeholder
 
-#### Above the fold
+### Above the fold
 In the "above the fold" area of the library homepage website wireframe:
 - Add rectangles with X inside (image placeholders)
 - Add lines for corresponding descriptions
 - Show latest books
 - Ensure users immediately notice content when landing on homepage
 
-#### Below the fold
+### Below the fold
 Include additional content for variety:
 - Create new section for more books
 - List six books in two groups of three rectangles
@@ -446,7 +444,7 @@ Include additional content for variety:
   - Author name
   - Other relevant information
 
-#### Footer Area
+### Footer area
 Typical footer content:
 - Organization's social media pages
 - Terms and conditions
