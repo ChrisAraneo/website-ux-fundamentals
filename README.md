@@ -113,9 +113,58 @@ Effective information architecture should be informed by:
 - Supports adaptation at different project stages
 - Key skill for UX designers
 
+# Common website structures
+
+![Common website structures](/common-website-structures.png)
+
 ## Common website structures
 
-Understanding the four common website structures is essential for organizing content effectively and building information architecture that meets user needs.
+### 1. **Hierarchical model** (most popular)
+- **Structure**: Top-down approach with parent and child levels, similar to a family tree
+- **Components**:
+  - Homepage at the top
+  - Parent pages (main categories) in navigation bar
+  - Child pages (subcategories) under each parent
+- **Example**: HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
+- **Key concept**: Organizes content by importance—what's most/least important and how content connects
+
+### 2. **Sequential model**
+- **Structure**: Leads users through step-by-step linear process
+- **Navigation**: Users move from starting page to endpoint in order
+- **Limitations**: Cannot skip pages or navigate out of order in true sequential structures
+- **Example**: Car insurance quote forms, online surveys
+- **Purpose**: Move users toward an end goal through sequential steps
+
+### 3. **Matrix model** (Web Model)
+- **Structure**: Content linked in multiple ways, allowing users to follow their own path
+- **Navigation**: Users can access any page while still reaching all other pages
+- **Features**: Free exploration with interconnected content
+- **Example**: News websites with navigation menus, featured content, and hyperlinked related articles
+- **Caution**: Considered outdated by some UX designers; can be difficult to navigate without clear direction
+- **Use Case**: Websites wanting users to interact with lots of content rather than following a specific journey
+
+### 4. **Database model**
+- **Structure**: Combines organized information database with search functionality
+- **Features**: Advanced filtering and search capabilities
+- **Dynamic Experience**: Content categorized with tags for easy searching
+- **Examples**: Social media networks (location tags), Google Maps (searchable addresses and categories)
+
+## Advantages of using common website structures
+
+Common website structures help users browse more efficiently by providing familiar information architecture patterns. Understanding the four common website structures is essential for organizing content effectively and building information architecture that meets user needs.
+
+- **Meets User Expectations**: Users have prior experience with these structures across different websites
+- **Improves Navigation**: Adds organization and logical cues to orient and direct users
+- **Proven Effectiveness**: Tested over time and evolved based on user and designer feedback
+- **Efficient Development**: Saves time by providing starting frameworks rather than building from scratch
+
+## Choosing the right structure
+
+- Depends on website and user needs
+- Most websites use **combinations** of multiple structures
+- Flexibility to blend structures for specific project requirements
+- Can go beyond these models for unique brand requirements
+- **Critical**: Users must be able to easily and effectively navigate the website
 
 # Image attributions
 
@@ -124,3 +173,5 @@ Understanding the four common website structures is essential for organizing con
   - https://www.pexels.com/pl-pl/zdjecie/staroswiecki-vintage-klasyczny-ekran-12752566/
 - Information architecture
   - https://www.pexels.com/pl-pl/zdjecie/kolekcja-japonskich-plakatow-sciennych-w-stylu-vintage-35089102/
+- Common website structures
+  - https://www.pexels.com/pl-pl/zdjecie/symetryczna-perspektywa-stalowego-mostu-kolejowego-35064415/
