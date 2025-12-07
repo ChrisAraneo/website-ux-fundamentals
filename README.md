@@ -120,7 +120,7 @@ Understanding the four common website structures is essential for organizing con
 # Image attributions
 
 - Responsive design
-  - https://www.pexels.com/pl-pl/zdjecie/osoba-korzystajaca-z-i-phone-a-1194760/
-  - https://www.pexels.com/pl-pl/zdjecie/laptop-na-biurku-w-poblizu-bujnej-rosliny-doniczkowej-5797997/
+  - https://www.pexels.com/pl-pl/zdjecie/szary-telefon-obrotowy-209716/
+  - https://www.pexels.com/pl-pl/zdjecie/staroswiecki-vintage-klasyczny-ekran-12752566/
 - Information architecture
   - https://www.pexels.com/pl-pl/zdjecie/kolekcja-japonskich-plakatow-sciennych-w-stylu-vintage-35089102/
