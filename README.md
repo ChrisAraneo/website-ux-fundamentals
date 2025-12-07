@@ -239,6 +239,8 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 # Homepage layouts
 
+![Homepage layouts](/homepage-layouts.png)
+
 ## Homepage layouts
 
 Homepages serve as the entry point and central navigation hub for websites. Proper layout organization guides users and helps them find information quickly.
