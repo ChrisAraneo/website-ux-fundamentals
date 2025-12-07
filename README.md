@@ -498,6 +498,10 @@ Once you've identified the best parts, combine them into one new wireframe.
 8. **Combine strengths** - Final wireframe can merge best parts from all variations
 9. **Wireframes are only blueprints**: They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
 
+## Transition to digital versions
+
+After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping.
+
 # Image attributions
 
 - Responsive design
