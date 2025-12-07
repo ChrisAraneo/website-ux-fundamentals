@@ -224,9 +224,9 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 - Example for Books category: Recent Releases, Most Popular, Recommendations
 - Continue for all main categories
 
-## Example
+## Example sitemap
 
-TODO
+[Example of a visual sitemap for a website that sells coffee products](https://api.backlinko.com/app/uploads/2025/05/sitemap-1280x1054.webp)
 
 ## Sitemap types by website size
 
