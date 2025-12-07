@@ -237,6 +237,79 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 - **Flat sitemaps**: Small websites (under 100 pages) with maximum 4 vertical levels
 - **Deep sitemaps**: Large websites (1,000+ pages) with 5 or more vertical levels
 
+# Homepage layouts
+
+## Homepage layouts
+
+Homepages serve as the entry point and central navigation hub for websites. Proper layout organization guides users and helps them find information quickly.
+
+Always select the layout that best serves your users and project goals rather than following current trends. The UX design industry constantly evolves, and what's trending may not reflect optimal usability or accessibility.
+
+# Common homepage layouts
+
+### 1. Single-column
+- **Structure**: One vertical column for content
+- **Characteristics**: Simplest layout option with logical top-to-bottom stacking (navigation → content → footer)
+- **Best for**: Mobile websites, reading-focused content, emphasizing one main element
+- **Advantage**: Easy scrolling and focus on text
+
+### 2. Multicolumn
+- **Structure**: Two or more columns for content
+- **Key element**: Clear **focal point** (specific area capturing user attention)
+- **Content distribution**: Supporting content occupies 25-45% of page
+- **Design principle**: Uses visual weight and hierarchy
+- **Common use**: Desktop websites, above-the-fold content display
+- **Pro tip**: One column often reserved for ad space
+
+### 3. Box
+- **Structure**: Boxes/squares of varying sizes and proportions
+- **Visual equality**: Same-sized, evenly-spaced boxes = equal importance
+- **Emphasis technique**: Larger or separated boxes draw attention
+- **Common applications**: E-commerce homepages (e.g., Amazon), UX portfolios, seasonal content rotation
+- **Advantage**: Easy content swapping
+
+### 4. Featured image (Single image)
+- **Structure**: Single dominant image/video occupying entire page
+- **Purpose**: Create strong first impression and emotional connection
+- **Requirements**: High-quality, message-relevant imagery
+- **Navigation**: Often includes sticky/fixed menu bar
+- **Best for**: Product pages, brand storytelling
+
+### 5. Asymmetrical
+Purposefully imbalanced designs emphasizing specific elements through natural eye-tracking patterns:
+
+#### **F-Shape Eye-Tracking Pattern**
+- **User behavior**: Browse content following F-shape
+- **Best for**: Text-heavy pages, search results
+- **Design priority**: Most important information at top
+- **User tendency**: Won't read to bottom
+
+#### **Z-Shape Eye-Tracking Pattern**
+- **User behavior**: Left to right → diagonal left → right again
+- **Natural pattern**: Mimics Western left-to-right, top-to-bottom reading
+- **Best for**: Sites with less content
+- **Accessibility note**: Users with visual impairments follow same patterns with assistive technology
+
+### 6. Grid of Cards
+- **Structure**: Series of uniform-sized rectangular cards previewing content
+- **Distinction from box layout**: Cards are interrelated within same list (vs. independent boxes)
+- **Technical features**: Card/list view switching, lazy loading
+- **Responsive design**: Card size adapts to screen size
+- **Common applications**: Recipe blogs, streaming services (YouTube, Pinterest, TED)
+
+### 7. Tiered Layer Cake
+- **Structure**: Stacked horizontal rows with varying column counts per layer
+- **Flexibility**: Inconsistent column numbers across layers
+- **Responsive design advantage**: Layers easily rearranged or swapped for different screen sizes
+- **Distinction**: No all-encompassing container or long sidebars (unlike multicolumn)
+- **Desktop to mobile**: Multiple columns collapse to single column
+
+## UX considerations
+- **Familiarity**: Users have expectations based on prior website experience
+- **Navigation**: Familiar layouts improve ease of use
+- **Trends vs. usability**: Choose layouts based on user needs and accessibility, not trends
+- **Evolution**: Layouts may change over time with user needs
+
 # Image attributions
 
 - Responsive design
