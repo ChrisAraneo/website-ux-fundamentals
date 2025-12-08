@@ -354,6 +354,12 @@ Many UX designers start with paper wireframes and later switch to digital to bal
 - Easy to throw away wireframes that aren't working
 - Typical starting point for many UX designers
 
+### Grid paper
+- Helps maintain proportions
+- Assists with alignment
+- Provides consistent scaling
+- Makes comparison easier across versions
+
 ### Digital wireframing
 - Create wireframes using digital tools
 - Switch to digital after paper exploration
@@ -396,19 +402,20 @@ Implement layout changes based on device/screen size to improve user experience 
 2. **Combine marked elements**: Create final wireframe integrating best components
 3. **Repeat for all pages**: Apply same process to remaining website pages
 
-## Takeaways
-
-1. **Exploration over perfection**: Generate many ideas quickly
-2. **Iteration is essential**: Designs evolve throughout the process
-3. **Grid paper benefits**: Enables consistent scaling and element proportion
-4. **Industry standards**: Facilitate team communication and understanding
-5. **Progressive refinement**: Paper sketches → digital wireframes
-
 ## Above the fold
 **"Above the fold"** is content on webpage that doesn't require scrolling to experience.
 
 ## Transition to digital versions
-After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping.
+After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping. At this point placeholders should be filled with images or components.
+
+## Best practices
+1. **Focus on structure, not aesthetics** - Detailed design comes later
+2. **Iteration is essential**: Designs evolve throughout the process
+3. **Grid paper benefits**: Enables consistent scaling and element proportion
+4. **Industry standards**: Facilitate team communication and understanding
+5. **Progressive refinement**: Paper sketches → digital wireframes
+6. **Use standard visual conventions** - Improves communication with team members
+7. **Always reference sitemap** - Ensures all required elements are included
 
 # Example wireframe
 
