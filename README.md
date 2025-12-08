@@ -10,20 +10,35 @@ Responsive web design allows a website to automatically adapt its appearance bas
 
 ## Why responsive design matters?
 
-**User Statistics (2019)**:
+**User statistics (2019)**:
 - 74% of US adults own a desktop or laptop computer
 - 81% of US adults own a smartphone
 - Users expect consistent functionality across all devices
 
-**Market Demand**:
+**Market demand**:
 - 185+ million active websites on the internet (2019)
 - New websites created every second
 - High demand for multi-device compatible designs
 
-**UX Designer Job Market**:
+**UX designer job market**:
 - 90% of UX designers work on websites or web-based applications
 - 76% work on mobile apps
 - Responsive web design skills make portfolios more attractive to employers
+
+**Easy screen adaptation**
+- Layouts adapt seamlessly to any screen size
+- Increases usability across all devices
+- Creates consistent good user experience
+
+**Mobile traffic optimization**
+- Not everyone visits websites from desktop computers
+- Layout must work for users regardless of device
+- Captures broader audience across platforms
+
+**Time and cost efficiency**
+- No need to design separate websites for every device size
+- Single responsive design serves all platforms
+- Reduces development and maintenance costs
 
 ## Native mobile apps & responsive web apps
 
@@ -367,6 +382,15 @@ Many UX designers start with paper wireframes and later switch to digital to bal
 ## Responsive design wireframes
 Implement layout changes based on device/screen size to improve user experience and accessibility across devices. Best practice is to create at least 5 versions of every important page.
 
+### Responsive design strategy: largest to smallest
+- Assume the desktop homepage wireframe is the **largest screen** to design for
+- Create progressively smaller versions by asking:
+  - "What would a medium version look like?"
+  - "What would a small version look like?"
+  - "Which components will be **removed**?"
+  - "Which will **stay**?"
+  - "Which will **shift position** or **change format**?"
+
 ### Mobile wireframe
 - Draw smaller, portrait-oriented outline (narrower than desktop)
 - Use grid lines as placement guide
@@ -512,6 +536,16 @@ Once you've identified the best parts, combine them into one new wireframe.
 7. **Be creative** - Don't be afraid to try unconventional layouts
 8. **Combine strengths** - Final wireframe can merge best parts from all variations
 9. **Wireframes are only blueprints**: They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
+
+# Common website UI components
+
+### Common space-saving elements
+
+| Element | Description | Use Case |
+|---------|-------------|----------|
+| **Hamburger Menus** | Collapsible navigation with three-line icon | Condenses navigation lists for small screens |
+| **Cards** | Surfaces containing content about a single subject | Organizes information in scannable, stackable units |
+| **Carousels** | Scrollable feeds of images or cards | Displays multiple items in limited horizontal space |
 
 # Image attributions
 
