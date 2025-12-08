@@ -407,9 +407,17 @@ Implement layout changes based on device/screen size to improve user experience 
 ## Above the fold
 **"Above the fold"** is content on webpage that doesn't require scrolling to experience.
 
-## Example: library website homepage wireframe
+## Transition to digital versions
+After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping.
 
-### Header area (top of page)
+# Example wireframe
+
+![Example wireframe](/example-wireframe.png)
+
+## Library homepage wireframe
+This section covers creating an example wireframe for a library homepage.
+
+## Header area (top of page)
 1. **Logo** (upper left corner)
    - Add rectangle with word "logo"
    - Makes purpose clear to yourself and reviewers
@@ -428,14 +436,14 @@ Implement layout changes based on device/screen size to improve user experience 
    - Could feature author or new book release
    - Draw X in boxes to indicate image placeholder
 
-### Above the fold
+## Above the fold
 In the "above the fold" area of the library homepage website wireframe:
 - Add rectangles with X inside (image placeholders)
 - Add lines for corresponding descriptions
 - Show latest books
 - Ensure users immediately notice content when landing on homepage
 
-### Below the fold
+## Below the fold
 Include additional content for variety:
 - Create new section for more books
 - List six books in two groups of three rectangles
@@ -444,7 +452,7 @@ Include additional content for variety:
   - Author name
   - Other relevant information
 
-### Footer area
+## Footer area
 Typical footer content:
 - Organization's social media pages
 - Terms and conditions
@@ -457,9 +465,9 @@ Design approach:
 - Include full version of logo with library name
 - Use smaller logo version in header to save space
 
-### Multiple homepage wireframe options
+## Multiple homepage wireframe options
 
-Best Practice is to create around 5 versions of important pages like homepage.
+Best practice is to create around 5 versions of important pages like homepage.
 
 **Option A:**
 - Large hero image with text next to it
@@ -481,7 +489,7 @@ Best Practice is to create around 5 versions of important pages like homepage.
 - "Outside the box" approach
 - Search super prominent (search engine style)
 
-### Selection process
+## Selection process
 
 After creating multiple wireframes, identify features you like most by marking them with a star.
 Once you've identified the best parts, combine them into one new wireframe.
@@ -498,10 +506,6 @@ Once you've identified the best parts, combine them into one new wireframe.
 8. **Combine strengths** - Final wireframe can merge best parts from all variations
 9. **Wireframes are only blueprints**: They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
 
-## Transition to digital versions
-
-After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping.
-
 # Image attributions
 
 - Responsive design
@@ -515,3 +519,7 @@ After completing paper wireframes for all screen sizes, transition to digital wi
   - https://www.pexels.com/pl-pl/zdjecie/edukacja-mapa-strony-widok-z-gory-15835241/
 - Home layouts
   - https://www.pexels.com/pl-pl/zdjecie/krajobraz-domy-znane-miejsce-podroz-21631486/
+- Wireframes
+  - https://www.pexels.com/pl-pl/zdjecie/bialy-papier-do-drukarki-196645/
+- Example wireframe
+  - https://www.pexels.com/pl-pl/zdjecie/partie-ksiazek-na-drewnianej-polce-1565245/
