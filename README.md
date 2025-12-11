@@ -42,6 +42,8 @@ Responsive web design allows a website to automatically adapt its appearance bas
 
 ## Native mobile apps & responsive web apps
 
+Both approaches have their place in UX design. Understanding the trade-offs helps designers choose the right solution based on user needs, project constraints, and business goals.
+
 ### Dedicated mobile apps
 
 **Native mobile app** is an app downloaded to device, accessed via home screen icon.
@@ -76,9 +78,47 @@ Responsive web design allows a website to automatically adapt its appearance bas
 - Challenging to maintain across all screen sizes
 - May be difficult to access for users in remote areas
 
-### Summary
+## Responsive design mistakes
+- Buttons that can't be seen
+- Graphics that go off the side of the screen
+- Content cut off or inaccessible
+- Poor usability on certain devices
 
-Both approaches have their place in UX design. Understanding the trade-offs helps designers choose the right solution based on user needs, project constraints, and business goals.
+Example of bad UX is an image showing content extending beyond screen boundaries, causing usability issues.
+
+## Breakpoints
+
+**Breakpoints** are visual limits that determine when a responsive layout should change to fit all elements and components properly.
+
+Live example:
+- Adjust shape of browser window on computer to vertical rectangle
+- Website will eventually **shift to mobile version** of site
+- Transition happens automatically at breakpoint
+- Triggered by code behind the website
+
+With breakpoints you **don't** have to create a different design for every potential device and screen size. You design for a **few key sizes**.
+
+## Above the fold
+**"Above the fold"** is content on webpage that doesn't require scrolling to experience.
+
+## Critical design questions
+
+When plotting different screen sizes, ask:
+
+1. **Element location**
+   - Do elements on the page need to move location?
+   - Which parts need to stay **above the fold** on smaller screens?
+   - Which can move **below the fold**?
+
+2. **Image scaling**
+   - How do images need to be scaled?
+   - Are there certain images (like **hero images**) that need to remain large across all screen sizes?
+   - What's the minimum acceptable size for each image type?
+
+3. **Navigation adjustments**
+   - How will navigation elements adjust as screen size changes?
+   - Example: Moving from **top navigation bar** to **hamburger menu**
+   - What interactive elements need to change format?
 
 # Information architecture
 
@@ -402,6 +442,13 @@ Implement layout changes based on device/screen size to improve user experience 
 - Still portrait-oriented
 - Scale elements proportionally using grid
 
+## Usability, accessibility and visual clutter
+When adapting for responsive layouts, verify:
+
+- **Did I think about usability** when designing for smaller screen sizes?
+- **Did I consider accessibility** when designing for new screen sizes?
+- **Did I try to reduce clutter** and save space when designing for new screen sizes?
+
 ### Design considerations for smaller screens
 - **Remove** non-essential UI components
 - **Maintain** critical elements
@@ -541,11 +588,13 @@ Once you've identified the best parts, combine them into one new wireframe.
 
 ### Common space-saving elements
 
+Following elements solve the challenge of fitting desktop-sized content onto limited screen space without overwhelming users. The key concept is progressive disclosure - showing users only essential information initially, with the ability to access more when needed. This prevents cluttered interfaces on smaller screens while maintaining full functionality.
+
 | Element | Description | Use Case |
 |---------|-------------|----------|
-| **Hamburger Menus** | Collapsible navigation with three-line icon | Condenses navigation lists for small screens |
-| **Cards** | Surfaces containing content about a single subject | Organizes information in scannable, stackable units |
-| **Carousels** | Scrollable feeds of images or cards | Displays multiple items in limited horizontal space |
+| **Hamburger Menus** | Collapsible navigation with three-line icon. Hide full navigation lists behind a clickable icon, revealing them only when needed (vs. showing all navigation links at once) | Condenses navigation lists for small screens |
+| **Cards** | Surfaces containing content about a single subject. Fit related information into compact, stackable units that can be arranged efficiently in vertical columns on narrow screens | Organizes information in scannable, stackable units |
+| **Carousels** | Scrollable feeds of images or cards. Allow multiple images/items to occupy the same horizontal space by letting users swipe through them sequentially (vs. displaying all items side-by-side) | Displays multiple items in limited horizontal space |
 
 # Image attributions
 
