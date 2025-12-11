@@ -2,7 +2,7 @@
 
 # Responsive design
 
-![Responsive design](/responsive-design.png)
+![Responsive design](/images/responsive-design.png)
 
 ## What is responsive design?
 
@@ -122,7 +122,7 @@ When plotting different screen sizes, ask:
 
 # Information architecture
 
-![Information architecture](/information-architecture.png)
+![Information architecture](/images/information-architecture.png)
 
 ## What is information architecture (IA)?
 
@@ -170,7 +170,7 @@ Effective information architecture should be informed by:
 
 # Common website structures
 
-![Common website structures](/common-website-structures.png)
+![Common website structures](/images/common-website-structures.png)
 
 ## Common website structures
 
@@ -223,7 +223,7 @@ Common website structures help users browse more efficiently by providing famili
 
 # Sitemaps
 
-![Sitemaps](/sitemaps.png)
+![Sitemaps](/images/sitemaps.png)
 
 ## Sitemap
 
@@ -294,7 +294,7 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 # Homepage layouts
 
-![Homepage layouts](/homepage-layouts.png)
+![Homepage layouts](/images/homepage-layouts.png)
 
 ## Homepage layouts
 
@@ -387,7 +387,7 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 
 # Wireframes
 
-![Wireframes](/wireframes.png)
+![Wireframes](/images/wireframes.png)
 
 ## What is wireframe?
 A **wireframe** is an outline or sketch of a product/screen consisting of shapes, lines and minimal text.
@@ -490,7 +490,7 @@ After completing paper wireframes for all screen sizes, transition to digital wi
 
 # Example wireframe
 
-![Example wireframe](/example-wireframe.png)
+![Example wireframe](/images/example-wireframe.png)
 
 ## Library homepage wireframe
 This section covers creating an example wireframe for a library homepage.
