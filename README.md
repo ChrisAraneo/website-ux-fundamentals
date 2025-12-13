@@ -6,39 +6,29 @@
 
 ## What is responsive design?
 
-Responsive web design allows a website to automatically adapt its appearance based on the device's screen size. This involves more than just resizing-elements may change position and organization to optimize the user experience across different devices.
+Responsive web design allows a website to automatically adapt its appearance based on the device's screen size. This involves more than just resizing-elements. May change position and organization to optimize the user experience across different devices.
 
 ## Why responsive design matters?
 
-**User statistics (2019)**:
-- 74% of US adults own a desktop or laptop computer
-- 81% of US adults own a smartphone
-- Users expect consistent functionality across all devices
-
-**Market demand**:
-- 185+ million active websites on the internet (2019)
-- New websites created every second
-- High demand for multi-device compatible designs
-
-**UX designer job market**:
-- 90% of UX designers work on websites or web-based applications
-- 76% work on mobile apps
-- Responsive web design skills make portfolios more attractive to employers
-
-**Easy screen adaptation**
-- Layouts adapt seamlessly to any screen size
-- Increases usability across all devices
-- Creates consistent good user experience
-
-**Mobile traffic optimization**
-- Not everyone visits websites from desktop computers
-- Layout must work for users regardless of device
-- Captures broader audience across platforms
-
-**Time and cost efficiency**
-- No need to design separate websites for every device size
-- Single responsive design serves all platforms
-- Reduces development and maintenance costs
+1. **Market demand**
+   - 74% of US adults own a desktop or laptop computer
+   - 81% of US adults own a smartphone
+   - Users expect consistent functionality across all devices
+   - 185+ million active websites on the internet (2019)
+   - New websites created every second
+   - High demand for multi-device compatible designs
+2. **UX designer job market**
+   - 90% of UX designers work on websites or web-based applications
+   - 76% work on mobile apps
+   - WResponsive web design skills make portfolios more attractive to employers
+3. **Easy screen adaptation**
+   - Layouts adapt seamlessly to any screen size
+   - Increases usability across all devices
+   - Creates consistent good user experience
+4. **Time and cost efficiency**
+   - No need to design separate websites for every device size
+   - Single responsive design serves all platforms
+   - Reduces development and maintenance costs
 
 ## Native mobile apps & responsive web apps
 
@@ -79,6 +69,7 @@ Both approaches have their place in UX design. Understanding the trade-offs help
 - May be difficult to access for users in remote areas
 
 ## Responsive design mistakes
+
 - Buttons that can't be seen
 - Graphics that go off the side of the screen
 - Content cut off or inaccessible
@@ -99,6 +90,7 @@ Live example:
 With breakpoints you **don't** have to create a different design for every potential device and screen size. You design for a **few key sizes**.
 
 ## Above the fold
+
 **"Above the fold"** is content on webpage that doesn't require scrolling to experience.
 
 ## Critical design questions
@@ -109,12 +101,10 @@ When plotting different screen sizes, ask:
    - Do elements on the page need to move location?
    - Which parts need to stay **above the fold** on smaller screens?
    - Which can move **below the fold**?
-
 2. **Image scaling**
    - How do images need to be scaled?
    - Are there certain images (like **hero images**) that need to remain large across all screen sizes?
    - What's the minimum acceptable size for each image type?
-
 3. **Navigation adjustments**
    - How will navigation elements adjust as screen size changes?
    - Example: Moving from **top navigation bar** to **hamburger menu**
@@ -140,33 +130,28 @@ Effective information architecture should be informed by:
 
 ## Why information architecture matters?
 
-### 1. **Organizes and defines website structure**
-- Creates easy navigation for users
-- Establishes clear organizational patterns
-
-### 2. **Provides high-level product view**
-- Shows how website elements fit together
-- Clarifies relationships between different parts
-- Improves overall design process
-
-### 3. **Facilitates stakeholder review**
-- Enables stakeholders to evaluate content appropriateness
-- Helps assess if content placement aligns with business goals
-- Supports product goal achievement
-
-### 4. **Supports engineering development**
-- Helps engineers understand data organization
-- Ensures development matches visual designs
-- Makes colleagues' jobs easier
-
-### 5. **Saves development time**
-- Prevents messy architecture that delays web development
-- Reduces costly mistakes and rework
-
-### 6. **Enables design iteration**
-- Allows ideas to grow and evolve
-- Supports adaptation at different project stages
-- Key skill for UX designers
+1. **Organizes and defines website structure**
+   - Creates easy navigation for users
+   - Establishes clear organizational patterns
+2. **Provides high-level product view**
+   - Shows how website elements fit together
+   - Clarifies relationships between different parts
+   - Improves overall design process
+3. **Facilitates stakeholder review**
+   - Enables stakeholders to evaluate content appropriateness
+   - Helps assess if content placement aligns with business goals
+   - Supports product goal achievement
+4. **Supports engineering development**
+   - Helps engineers understand data organization
+   - Ensures development matches visual designs
+   - Makes colleagues' jobs easier
+5. **Saves development time**
+   - Prevents messy architecture that delays web development
+   - Reduces costly mistakes and rework
+6. **Enables design iteration**
+   - Allows ideas to grow and evolve
+   - Supports adaptation at different project stages
+   - Key skill for UX designers
 
 # Common website structures
 
@@ -175,6 +160,7 @@ Effective information architecture should be informed by:
 ## Common website structures
 
 ### 1. **Hierarchical model** (most popular)
+
 - **Structure**: Top-down approach with parent and child levels, similar to a family tree
 - **Components**:
   - Homepage at the top
@@ -184,6 +170,7 @@ Effective information architecture should be informed by:
 - **Key concept**: Organizes content by importance-what's most/least important and how content connects
 
 ### 2. **Sequential model**
+
 - **Structure**: Leads users through step-by-step linear process
 - **Navigation**: Users move from starting page to endpoint in order
 - **Limitations**: Cannot skip pages or navigate out of order in true sequential structures
@@ -191,6 +178,7 @@ Effective information architecture should be informed by:
 - **Purpose**: Move users toward an end goal through sequential steps
 
 ### 3. **Matrix model** (Web Model)
+
 - **Structure**: Content linked in multiple ways, allowing users to follow their own path
 - **Navigation**: Users can access any page while still reaching all other pages
 - **Features**: Free exploration with interconnected content
@@ -199,6 +187,7 @@ Effective information architecture should be informed by:
 - **Use Case**: Websites wanting users to interact with lots of content rather than following a specific journey
 
 ### 4. **Database model**
+
 - **Structure**: Combines organized information database with search functionality
 - **Features**: Advanced filtering and search capabilities
 - **Dynamic Experience**: Content categorized with tags for easy searching
@@ -304,13 +293,15 @@ Always select the layout that best serves your users and project goals rather th
 
 # Common homepage layouts
 
-### 1. Single-column
+## 1. Single-column
+
 - **Structure**: One vertical column for content
 - **Characteristics**: Simplest layout option with logical top-to-bottom stacking (navigation → content → footer)
 - **Best for**: Mobile websites, reading-focused content, emphasizing one main element
 - **Advantage**: Easy scrolling and focus on text
 
-### 2. Multicolumn
+## 2. Multicolumn
+
 - **Structure**: Two or more columns for content
 - **Key element**: Clear **focal point** (specific area capturing user attention)
 - **Content distribution**: Supporting content occupies 25-45% of page
@@ -318,43 +309,46 @@ Always select the layout that best serves your users and project goals rather th
 - **Common use**: Desktop websites, above-the-fold content display
 - **Pro tip**: One column often reserved for ad space
 
-### 3. Box
+## 3. Box
+
 - **Structure**: Boxes/squares of varying sizes and proportions
 - **Visual equality**: Same-sized, evenly-spaced boxes = equal importance
 - **Emphasis technique**: Larger or separated boxes draw attention
 - **Common applications**: E-commerce homepages (e.g., Amazon), UX portfolios, seasonal content rotation
 - **Advantage**: Easy content swapping
 
-### 4. Featured image (Single image)
+## 4. Featured image (Single image)
+
 - **Structure**: Single dominant image/video occupying entire page
 - **Purpose**: Create strong first impression and emotional connection
 - **Requirements**: High-quality, message-relevant imagery
 - **Navigation**: Often includes sticky/fixed menu bar
 - **Best for**: Product pages, brand storytelling
 
-### 5. Asymmetrical
+## 5. Asymmetrical
+
 Purposefully imbalanced designs emphasizing specific elements through natural eye-tracking patterns:
 
-#### **F-Shape Eye-Tracking Pattern**
+### **F-Shape Eye-Tracking Pattern**
 - **User behavior**: Browse content following F-shape
 - **Best for**: Text-heavy pages, search results
 - **Design priority**: Most important information at top
 - **User tendency**: Won't read to bottom
 
-#### **Z-Shape Eye-Tracking Pattern**
+### **Z-Shape Eye-Tracking Pattern**
 - **User behavior**: Left to right → diagonal left → right again
 - **Natural pattern**: Mimics Western left-to-right, top-to-bottom reading
 - **Best for**: Sites with less content
 - **Accessibility note**: Users with visual impairments follow same patterns with assistive technology
 
-### 6. Grid of Cards
+## 6. Grid of Cards
 - **Structure**: Series of uniform-sized rectangular cards previewing content
 - **Distinction from box layout**: Cards are interrelated within same list (vs. independent boxes)
 - **Technical features**: Card/list view switching, lazy loading
 - **Responsive design**: Card size adapts to screen size
 - **Common applications**: Recipe blogs, streaming services (YouTube, Pinterest, TED)
 
-### 7. Tiered Layer Cake
+## 7. Tiered Layer Cake
 - **Structure**: Stacked horizontal rows with varying column counts per layer
 - **Flexibility**: Inconsistent column numbers across layers
 - **Responsive design advantage**: Layers easily rearranged or swapped for different screen sizes
@@ -390,10 +384,12 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 ![Wireframes](/images/wireframes.png)
 
 ## What is wireframe?
+
 A **wireframe** is an outline or sketch of a product/screen consisting of shapes, lines and minimal text.
 Wireframes help designers figure out the layout of the page. They act like blueprints for site structure.
 
 ## Wireframing conventions
+
 - **Text** is represented by horizontal lines
 - **Icons/Images** are represented by squares with X overlay
 - **Call-to-action buttons (CTA)** are rectangles or circles
@@ -404,25 +400,30 @@ Wireframes help designers figure out the layout of the page. They act like bluep
 Many UX designers start with paper wireframes and later switch to digital to balance speed of exploration with refinement.
 
 ### Paper wireframing
+
 - Start sketching on paper
 - Allows working through many iterations faster
 - Easy to throw away wireframes that aren't working
 - Typical starting point for many UX designers
 
 ### Grid paper
+
 - Helps maintain proportions
 - Assists with alignment
 - Provides consistent scaling
 - Makes comparison easier across versions
 
 ### Digital wireframing
+
 - Create wireframes using digital tools
 - Switch to digital after paper exploration
 
 ## Responsive design wireframes
+
 Implement layout changes based on device/screen size to improve user experience and accessibility across devices. Best practice is to create at least 5 versions of every important page.
 
-### Responsive design strategy: largest to smallest
+### Design strategy: largest to smallest
+
 - Assume the desktop homepage wireframe is the **largest screen** to design for
 - Create progressively smaller versions by asking:
   - "What would a medium version look like?"
@@ -432,17 +433,20 @@ Implement layout changes based on device/screen size to improve user experience 
   - "Which will **shift position** or **change format**?"
 
 ### Mobile wireframe
+
 - Draw smaller, portrait-oriented outline (narrower than desktop)
 - Use grid lines as placement guide
 - Scale desktop elements down (~1/3 size for mobile)
 - May span multiple A5 pages when sketching
 
 ### Tablet wireframe
+
 - Draw outline larger than mobile, smaller than desktop
 - Still portrait-oriented
 - Scale elements proportionally using grid
 
 ## Usability, accessibility and visual clutter
+
 When adapting for responsive layouts, verify:
 
 - **Did I think about usability** when designing for smaller screen sizes?
@@ -450,6 +454,7 @@ When adapting for responsive layouts, verify:
 - **Did I try to reduce clutter** and save space when designing for new screen sizes?
 
 ### Design considerations for smaller screens
+
 - **Remove** non-essential UI components
 - **Maintain** critical elements
 - **Shift** positions or change formats
@@ -459,27 +464,39 @@ When adapting for responsive layouts, verify:
 ## Sketching paper wireframes
 
 ### Preparation
-1. **List required information**: Document all elements needed on page (navigation, images, text descriptions)
-2. **Reference sitemap**: Use sitemap to determine page structure and element prioritization
-3. **Gather materials**: Grid paper (or template), pen/pencil
+
+1. **List required information**: document all elements needed on page (navigation, images, text descriptions)
+2. **Reference sitemap**: use sitemap to determine page structure and element prioritization
+3. **Gather materials**: grid paper (or template), pen/pencil
 
 ### Drawing process
-1. **Create multiple variations**: Sketch 4-5 different layout versionss. Each version should have different design solutions.
-2. **Consider all device types**: Sketch wireframes for each device type and screen size.
-3. **Top-to-bottom approach**: It is recommended to use *top-to-bottom* design approach. That is how users experience webpage.
+
+1. **Create multiple variations**: sketch 4-5 different layout versionss. Each version should have different design solutions.
+2. **Consider all device types**: sketch wireframes for each device type and screen size.
+3. **Top-to-bottom approach**: it is recommended to use *top-to-bottom* design approach. That is how users experience webpage.
 
 ### Review and refinement
+
 1. **Identify best elements**: Mark favorite features from each wireframe
 2. **Combine marked elements**: Create final wireframe integrating best components
 3. **Repeat for all pages**: Apply same process to remaining website pages
 
+### Documentation
+
+1. **Note design decisions**: note reasoning behind breakpoint decisions, element positions on different devices
+2. **Document wireframe progression for portfolio**
+3. **Document takeaways**: write down what you have learned
+
 ## Above the fold
+
 **"Above the fold"** is content on webpage that doesn't require scrolling to experience.
 
 ## Transition to digital versions
+
 After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping. At this point placeholders should be filled with images or components.
 
 ## Best practices
+
 1. **Focus on structure, not aesthetics** - Detailed design comes later
 2. **Iteration is essential**: Designs evolve throughout the process
 3. **Grid paper benefits**: Enables consistent scaling and element proportion
@@ -493,9 +510,11 @@ After completing paper wireframes for all screen sizes, transition to digital wi
 ![Example wireframe](/images/example-wireframe.png)
 
 ## Library homepage wireframe
+
 This section covers creating an example wireframe for a library homepage.
 
 ## Header area (top of page)
+
 1. **Logo** (upper left corner)
    - Add rectangle with word "logo"
    - Makes purpose clear to yourself and reviewers
@@ -515,6 +534,7 @@ This section covers creating an example wireframe for a library homepage.
    - Draw X in boxes to indicate image placeholder
 
 ## Above the fold
+
 In the "above the fold" area of the library homepage website wireframe:
 - Add rectangles with X inside (image placeholders)
 - Add lines for corresponding descriptions
@@ -522,6 +542,7 @@ In the "above the fold" area of the library homepage website wireframe:
 - Ensure users immediately notice content when landing on homepage
 
 ## Below the fold
+
 Include additional content for variety:
 - Create new section for more books
 - List six books in two groups of three rectangles
@@ -531,6 +552,7 @@ Include additional content for variety:
   - Other relevant information
 
 ## Footer area
+
 Typical footer content:
 - Organization's social media pages
 - Terms and conditions
@@ -586,6 +608,8 @@ Once you've identified the best parts, combine them into one new wireframe.
 
 # Common website UI components
 
+![Common website UI components](/images/common-website-components.png)
+
 ### Common space-saving elements
 
 Following elements solve the challenge of fitting desktop-sized content onto limited screen space without overwhelming users. The key concept is progressive disclosure - showing users only essential information initially, with the ability to access more when needed. This prevents cluttered interfaces on smaller screens while maintaining full functionality.
@@ -613,3 +637,5 @@ Following elements solve the challenge of fitting desktop-sized content onto lim
   - https://www.pexels.com/pl-pl/zdjecie/bialy-papier-do-drukarki-196645/
 - Example wireframe
   - https://www.pexels.com/pl-pl/zdjecie/partie-ksiazek-na-drewnianej-polce-1565245/
+- Common website UI components
+  - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/
