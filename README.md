@@ -330,18 +330,21 @@ Always select the layout that best serves your users and project goals rather th
 Purposefully imbalanced designs emphasizing specific elements through natural eye-tracking patterns:
 
 ### **F-Shape Eye-Tracking Pattern**
+
 - **User behavior**: Browse content following F-shape
 - **Best for**: Text-heavy pages, search results
 - **Design priority**: Most important information at top
 - **User tendency**: Won't read to bottom
 
 ### **Z-Shape Eye-Tracking Pattern**
+
 - **User behavior**: Left to right → diagonal left → right again
 - **Natural pattern**: Mimics Western left-to-right, top-to-bottom reading
 - **Best for**: Sites with less content
 - **Accessibility note**: Users with visual impairments follow same patterns with assistive technology
 
 ## 6. Grid of Cards
+
 - **Structure**: Series of uniform-sized rectangular cards previewing content
 - **Distinction from box layout**: Cards are interrelated within same list (vs. independent boxes)
 - **Technical features**: Card/list view switching, lazy loading
@@ -349,6 +352,7 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 - **Common applications**: Recipe blogs, streaming services (YouTube, Pinterest, TED)
 
 ## 7. Tiered Layer Cake
+
 - **Structure**: Stacked horizontal rows with varying column counts per layer
 - **Flexibility**: Inconsistent column numbers across layers
 - **Responsive design advantage**: Layers easily rearranged or swapped for different screen sizes
