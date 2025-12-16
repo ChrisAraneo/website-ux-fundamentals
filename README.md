@@ -783,6 +783,60 @@ Critical information (may be missed), content requiring comparison, forms or int
 **Common types:**
 Image carousel, content carousel, product carousel, testimonial carousel, banner carousel
 
+## Call-to-action buttons
+
+### Purpose
+
+Call-to-action (CTA) buttons prompt users to take specific, desired actions that drive conversions and achieve business goals. They guide users through the customer journey by providing clear next steps and reducing decision paralysis.
+
+Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, navigation to key pages, and lead generation.
+
+### Visual characteristics
+
+**Container:** Rectangular shape with rounded corners (4-8px), solid background color (high contrast with page), clear padding (12-16px vertical, 24-48px horizontal)
+
+**Typography:** Bold or medium weight (500-700), larger than body text (16-18px minimum), sentence case or title case, action-oriented verbs
+
+**Colors:** Primary brand color for main CTA, high contrast with background (4.5:1 minimum), secondary/tertiary CTAs use outline or muted colors
+
+**States:** Default (solid color), hover (darker shade or elevation), active (pressed appearance), focus (visible outline), disabled (grayed out, reduced opacity)
+
+### Functionality
+
+**Primary actions:**
+- **Submit forms**: Complete purchases, registrations, or data submissions
+- **Navigate**: Direct users to landing pages, product details, or key sections
+- **Download**: Trigger file downloads or app installations
+- **Share/Save**: Enable social sharing or content bookmarking
+- **Contact**: Open contact forms, chat, or email clients
+
+**Interaction behavior:** Single click/tap triggers action, provides immediate feedback (loading states, confirmation messages), prevents double-submission, accessible via keyboard (Enter/Space)
+
+**Features:** Clear action text (2-5 words), sense of urgency when appropriate ("Get Started Now", "Limited Offer"), tooltip on hover for additional context, icon support for visual reinforcement
+
+### Placement and usage
+
+**Strategic placement:**
+- **Hero section**: Primary CTA above the fold for maximum visibility
+- **End of content**: After value proposition or product description
+- **Navigation bar**: Top-right corner for persistent access
+- **Modals/Forms**: Bottom-right or centered for form submission
+- **Cards**: Bottom or top-right within card boundaries
+
+**Best practices:**
+- One primary CTA per section to avoid confusion
+- Use action verbs ("Buy", "Start", "Join", "Download", "Learn")
+- Create visual hierarchy (size, color, position)
+- Ensure minimum touch target size (44x44px)
+- Place where users naturally look (F-pattern, Z-pattern)
+- Test with A/B testing for optimal performance
+
+**When to use:** Driving conversions, guiding user flow, highlighting primary actions, completing transactions
+
+**When to avoid:** Overusing multiple CTAs that compete for attention, unclear value proposition, premature asks before establishing trust
+
+**Common types:** Primary CTA (most important action), secondary CTA (alternative action), tertiary CTA (low-priority action), floating/sticky CTA (persistent visibility)
+
 # Image attributions
 
 - Responsive design
