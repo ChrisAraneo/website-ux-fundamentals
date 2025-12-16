@@ -837,6 +837,28 @@ Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, na
 
 **Common types:** Primary CTA (most important action), secondary CTA (alternative action), tertiary CTA (low-priority action), floating/sticky CTA (persistent visibility)
 
+## Choosing components for your project
+
+1. **Navigation Needs**
+   - How many navigation items?
+   - Will they fit horizontally on mobile?
+   - Consider: Hamburger menu
+
+2. **Content Volume**
+   - Lots of similar items to display?
+   - Need scannable organization?
+   - Consider: Cards
+
+3. **Visual Content**
+   - Multiple images to showcase?
+   - Limited screen space?
+   - Consider: Carousel
+
+4. **User Actions**
+   - Key actions users should take?
+   - Need to drive conversions?
+   - Consider: CTA buttons
+
 # Image attributions
 
 - Responsive design
