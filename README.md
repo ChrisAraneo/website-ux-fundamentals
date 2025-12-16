@@ -614,15 +614,121 @@ Once you've identified the best parts, combine them into one new wireframe.
 
 ![Common website UI components](/images/common-website-components.png)
 
-### Common space-saving elements
+## Common space-saving elements
 
 Following elements solve the challenge of fitting desktop-sized content onto limited screen space without overwhelming users. The key concept is progressive disclosure - showing users only essential information initially, with the ability to access more when needed. This prevents cluttered interfaces on smaller screens while maintaining full functionality.
+
+## Quick reference table
 
 | Element | Description | Use Case |
 |---------|-------------|----------|
 | **Hamburger Menus** | Collapsible navigation with three-line icon. Hide full navigation lists behind a clickable icon, revealing them only when needed (vs. showing all navigation links at once) | Condenses navigation lists for small screens |
 | **Cards** | Surfaces containing content about a single subject. Fit related information into compact, stackable units that can be arranged efficiently in vertical columns on narrow screens | Organizes information in scannable, stackable units |
 | **Carousels** | Scrollable feeds of images or cards. Allow multiple images/items to occupy the same horizontal space by letting users swipe through them sequentially (vs. displaying all items side-by-side) | Displays multiple items in limited horizontal space |
+
+## Hamburger menu
+
+### Purpose
+
+The hamburger menu icon serves as a navigation toggle for hidden or collapsed menus, particularly in responsive web design. Its primary purpose is to:
+
+- **Save screen space** by hiding navigation options until needed
+- **Maintain clean interfaces** by reducing visual clutter
+- **Enable responsive design** by providing a standard solution for mobile and small-screen navigation
+- **Provide universal recognition** as a symbol for hidden menu content
+
+### Visual characteristics
+
+The hamburger menu icon consists of three distinct visual elements:
+
+- **Three horizontal lines** stacked vertically with equal spacing
+- **Uniform line thickness** across all three bars
+- **Equal length** for all lines (typically)
+- **Minimal design** that is simple and unambiguous
+- **Monochromatic appearance** usually matching the site's color scheme
+- **Square or near-square aspect ratio** (approximately 1:1)
+- **Typical size**: 24x24px to 48x48px depending on device and context
+
+Common variations include:
+- Lines with rounded ends
+- Lines with slight gaps or connection to a container
+- Animated versions that transform into an "X" or arrow when activated
+
+### Functionality
+
+The hamburger menu icon provides the following interactive functionality:
+
+#### Primary interaction
+
+- **Tap/Click action**: Opens or reveals the hidden navigation menu
+- **State change**: Often transforms visually when menu is open (e.g., rotates to become an X)
+- **Menu display**: Triggers slide-out panel, dropdown, overlay, or full-screen navigation
+
+#### User expectations
+
+- Users expect the menu to appear near or from the same side as the icon
+- A second tap/click should close the menu
+- The icon should provide visual feedback on hover (desktop) or tap (mobile)
+- Menu content should be organized and scrollable if necessary
+
+#### Accessibility
+- Should include proper ARIA labels (e.g., `aria-label="Menu"` or `aria-label="Toggle navigation"`)
+- Must be keyboard accessible (Tab + Enter/Space)
+- Should announce state changes to screen readers
+- Requires sufficient touch target size (minimum 44x44px recommended)
+
+### Placement and Usage
+
+#### Optimal placement
+
+**Mobile Devices:**
+- **Top-left corner**: Most common, aligns with left-to-right reading patterns and thumb reach
+- **Top-right corner**: Alternative placement, common in right-to-left language interfaces
+- **Fixed position**: Often remains visible while scrolling for consistent access
+
+**Desktop/Tablet:**
+- Used less frequently on larger screens where full navigation can be displayed
+- When used, typically appears in the header/navigation bar
+- May replace full navigation at specific breakpoints (e.g., tablet portrait mode)
+
+#### Best practices for usage
+
+**When to Use:**
+- Mobile-first responsive websites
+- Applications with extensive navigation options
+- Interfaces prioritizing content over navigation
+- Progressive web apps (PWAs)
+
+**When to Avoid:**
+- Sites with only 3-5 main navigation items on desktop
+- When primary navigation is crucial to user goals
+- E-commerce sites where visible navigation increases discoverability
+- If your target audience is unfamiliar with the pattern
+
+#### Implementation Guidelines
+
+1. **Consistency**: Use the same icon style throughout the site
+2. **Visibility**: Ensure sufficient color contrast (WCAG AA minimum: 4.5:1)
+3. **Positioning**: Keep placement consistent across pages
+4. **Context**: Consider pairing with "Menu" label for clarity, especially for older demographics
+5. **Performance**: Ensure menu opens quickly (< 300ms) with smooth animation
+6. **Fallback**: Provide alternative navigation method if JavaScript fails
+
+#### Common Usage Patterns
+
+- **Slide-out drawer**: Menu slides in from the side
+- **Full-screen overlay**: Menu expands to cover entire screen
+- **Dropdown panel**: Menu drops down below the icon
+- **Push content**: Menu pushes main content aside
+
+#### User research findings
+
+Studies have shown:
+- Recognition is high among users under 45
+- Conversion rates may decrease if primary CTAs are hidden behind the menu
+- Pairing the icon with the word "Menu" increases usability by 20%
+- Visible navigation typically outperforms hamburger menus for engagement
+- However, hamburger menus are often necessary for mobile due to space constraints
 
 # Image attributions
 
