@@ -839,22 +839,22 @@ Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, na
 
 ## Choosing components for your project
 
-1. **Navigation Needs**
+1. **Navigation needs**
    - How many navigation items?
    - Will they fit horizontally on mobile?
    - Consider: Hamburger menu
 
-2. **Content Volume**
+2. **Content volume**
    - Lots of similar items to display?
    - Need scannable organization?
    - Consider: Cards
 
-3. **Visual Content**
+3. **Visual content**
    - Multiple images to showcase?
    - Limited screen space?
    - Consider: Carousel
 
-4. **User Actions**
+4. **User actions**
    - Key actions users should take?
    - Need to drive conversions?
    - Consider: CTA buttons
