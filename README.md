@@ -614,10 +614,6 @@ Once you've identified the best parts, combine them into one new wireframe.
 
 ![Common website UI components](/images/common-website-components.png)
 
-## Common space-saving elements
-
-Following elements solve the challenge of fitting desktop-sized content onto limited screen space without overwhelming users. The key concept is progressive disclosure - showing users only essential information initially, with the ability to access more when needed. This prevents cluttered interfaces on smaller screens while maintaining full functionality.
-
 ## Quick reference table
 
 | Element | Description | Use Case |
