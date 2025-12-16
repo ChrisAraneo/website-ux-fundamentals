@@ -626,109 +626,165 @@ Following elements solve the challenge of fitting desktop-sized content onto lim
 | **Cards** | Surfaces containing content about a single subject. Fit related information into compact, stackable units that can be arranged efficiently in vertical columns on narrow screens | Organizes information in scannable, stackable units |
 | **Carousels** | Scrollable feeds of images or cards. Allow multiple images/items to occupy the same horizontal space by letting users swipe through them sequentially (vs. displaying all items side-by-side) | Displays multiple items in limited horizontal space |
 
-## Hamburger menu
+## Hamburger menu icon
 
 ### Purpose
 
-The hamburger menu icon serves as a navigation toggle for hidden or collapsed menus, particularly in responsive web design. Its primary purpose is to:
-
-- **Save screen space** by hiding navigation options until needed
-- **Maintain clean interfaces** by reducing visual clutter
-- **Enable responsive design** by providing a standard solution for mobile and small-screen navigation
-- **Provide universal recognition** as a symbol for hidden menu content
+The hamburger menu icon toggles hidden navigation menus, primarily for responsive web design. It saves screen space, maintains clean interfaces, and provides a universally recognized symbol for collapsed navigation on mobile and small screens.
 
 ### Visual characteristics
 
-The hamburger menu icon consists of three distinct visual elements:
+**Structure:**
+- Three horizontal lines stacked vertically with equal spacing
+- Uniform line thickness and equal length
+- Minimal, unambiguous design
+- Monochromatic, matching site color scheme
+- Square aspect ratio (approximately 1:1)
+- Typical size: 24x24px to 48x48px
 
-- **Three horizontal lines** stacked vertically with equal spacing
-- **Uniform line thickness** across all three bars
-- **Equal length** for all lines (typically)
-- **Minimal design** that is simple and unambiguous
-- **Monochromatic appearance** usually matching the site's color scheme
-- **Square or near-square aspect ratio** (approximately 1:1)
-- **Typical size**: 24x24px to 48x48px depending on device and context
-
-Common variations include:
-- Lines with rounded ends
-- Lines with slight gaps or connection to a container
-- Animated versions that transform into an "X" or arrow when activated
+**Variations:** Rounded ends, animated transformations to "X" or arrow when activated
 
 ### Functionality
 
-The hamburger menu icon provides the following interactive functionality:
+**Primary interaction:**
+- Tap/click opens hidden navigation menu
+- Often transforms visually when active (e.g., rotates to "X")
+- Triggers slide-out panel, dropdown, overlay, or full-screen navigation
+- Second tap/click closes the menu
 
-#### Primary interaction
-
-- **Tap/Click action**: Opens or reveals the hidden navigation menu
-- **State change**: Often transforms visually when menu is open (e.g., rotates to become an X)
-- **Menu display**: Triggers slide-out panel, dropdown, overlay, or full-screen navigation
-
-#### User expectations
-
-- Users expect the menu to appear near or from the same side as the icon
-- A second tap/click should close the menu
-- The icon should provide visual feedback on hover (desktop) or tap (mobile)
-- Menu content should be organized and scrollable if necessary
-
-#### Accessibility
-- Should include proper ARIA labels (e.g., `aria-label="Menu"` or `aria-label="Toggle navigation"`)
+**Accessibility:**
+- Include ARIA labels (`aria-label="Menu"` or `aria-label="Toggle navigation"`)
 - Must be keyboard accessible (Tab + Enter/Space)
-- Should announce state changes to screen readers
-- Requires sufficient touch target size (minimum 44x44px recommended)
+- Announce state changes to screen readers
+- Minimum touch target: 44x44px
 
-### Placement and Usage
+### Placement and usage
 
-#### Optimal placement
-
-**Mobile Devices:**
-- **Top-left corner**: Most common, aligns with left-to-right reading patterns and thumb reach
-- **Top-right corner**: Alternative placement, common in right-to-left language interfaces
-- **Fixed position**: Often remains visible while scrolling for consistent access
-
-**Desktop/Tablet:**
-- Used less frequently on larger screens where full navigation can be displayed
-- When used, typically appears in the header/navigation bar
-- May replace full navigation at specific breakpoints (e.g., tablet portrait mode)
-
-#### Best practices for usage
+**Optimal placement:**
+- **Mobile**: Top-left corner (most common) or top-right corner (RTL interfaces)
+- **Desktop/Tablet**: Less common; used in header when full navigation doesn't fit
+- **Fixed position**: Often remains visible while scrolling
 
 **When to Use:**
 - Mobile-first responsive websites
 - Applications with extensive navigation options
 - Interfaces prioritizing content over navigation
-- Progressive web apps (PWAs)
 
-**When to Avoid:**
-- Sites with only 3-5 main navigation items on desktop
-- When primary navigation is crucial to user goals
-- E-commerce sites where visible navigation increases discoverability
-- If your target audience is unfamiliar with the pattern
+**Best practices:**
+- Maintain consistent placement across pages
+- Ensure sufficient color contrast (4.5:1 minimum)
+- Consider pairing with "Menu" label for clarity
+- Provide visual feedback on hover/tap
+- Open menu quickly (< 300ms) with smooth animation
 
-#### Implementation Guidelines
+## Cards
 
-1. **Consistency**: Use the same icon style throughout the site
-2. **Visibility**: Ensure sufficient color contrast (WCAG AA minimum: 4.5:1)
-3. **Positioning**: Keep placement consistent across pages
-4. **Context**: Consider pairing with "Menu" label for clarity, especially for older demographics
-5. **Performance**: Ensure menu opens quickly (< 300ms) with smooth animation
-6. **Fallback**: Provide alternative navigation method if JavaScript fails
+### Purpose
 
-#### Common Usage Patterns
+Cards are container components that group related content and actions into digestible units. They organize information into scannable sections, provide clickable surfaces for navigation, and adapt responsively to different screen sizes.
 
-- **Slide-out drawer**: Menu slides in from the side
-- **Full-screen overlay**: Menu expands to cover entire screen
-- **Dropdown panel**: Menu drops down below the icon
-- **Push content**: Menu pushes main content aside
+Common uses: product listings, article previews, user profiles, dashboard widgets, and feature highlights.
 
-#### User research findings
+### Visual characteristics
 
-Studies have shown:
-- Recognition is high among users under 45
-- Conversion rates may decrease if primary CTAs are hidden behind the menu
-- Pairing the icon with the word "Menu" increases usability by 20%
-- Visible navigation typically outperforms hamburger menus for engagement
-- However, hamburger menus are often necessary for mobile due to space constraints
+**Container:** Defined boundaries with white/light background, subtle drop shadows (1-8dp elevation), rounded corners (2-8px), internal padding (16-24px)
+
+**Structure:** Header (title, icon), media area (image/video, optional), body content (text, data), footer (buttons, metadata)
+
+**Typography:** Title (18-24px), body (14-16px), metadata (12-14px)
+
+**States:** Default, hover (elevated shadow), active (scale reduction), focus (visible outline), disabled (reduced opacity)
+
+### Functionality
+
+**Interaction types:**
+- **Clickable**: Entire card navigates to detail page
+- **Action-based**: Multiple buttons for specific actions
+- **Informational**: Display-only with possible interactive elements
+- **Expandable**: Reveals additional content on interaction
+- **Selectable**: Multi-select with checkboxes
+
+**Features:** Dynamic updates, lazy loading, filtering/sorting, keyboard navigation, screen reader support, semantic HTML with ARIA labels, minimum touch targets (44x44px)
+
+### Placement and usage
+
+**Layout patterns:**
+- **Grid**: Responsive columns (1 mobile, 2-3 tablet, 3-4 desktop) with 16-32px gaps
+- **List/Feed**: Single column, full-width stacked vertically
+- **Masonry**: Variable heights for dynamic layouts
+- **Dashboard**: Mixed sizes (1x1, 2x1, 2x2) for metrics
+
+**Best practices:**
+- Keep content concise and scannable
+- Use high-quality, optimized images
+- Maintain consistent styling (padding, shadows, typography)
+- Stack vertically on mobile with proper breakpoints
+- Ensure 4.5:1 color contrast for accessibility
+
+**When to use:**
+Collections of similar content, browsable catalogs, content previews
+
+**When to avoid:**
+Simple lists, dense data tables, sequential forms, long-form reading content
+
+**Common types:**
+Product cards, article cards, profile cards, media cards, statistic cards, action cards
+
+## Carousel
+
+### Purpose
+
+Carousels are interactive components that display multiple content items in a rotating slideshow format. They maximize screen space by showing one item at a time while allowing users to browse through a collection sequentially or automatically.
+
+Common uses: featured content highlights, product showcases, image galleries, testimonials, and promotional banners.
+
+### Visual characteristics
+
+**Container:** Fixed-width/height viewport with overflow hidden, displaying one slide at a time
+
+**Structure:** Content slides (images, text, or mixed), navigation arrows (left/right), indicator dots/thumbnails, optional auto-play controls
+
+**Transitions:** Slide, fade, or custom animations (typically 300-600ms duration)
+
+**States:** Active slide (fully visible), inactive slides (hidden or partially visible), hover (reveals controls), focus (keyboard navigation indicators)
+
+### Functionality
+
+**Navigation methods:**
+- **Arrow buttons**: Previous/next controls on left/right edges
+- **Indicator dots**: Clickable position markers below carousel
+- **Touch gestures**: Swipe left/right on mobile devices
+- **Keyboard**: Arrow keys for navigation, Tab for focus
+- **Auto-play**: Automatic rotation with configurable interval (3-5 seconds typical)
+
+**Features:** Infinite loop (cycles back to start), pause on hover/interaction, lazy loading for performance, responsive resizing, optional thumbnails preview
+
+**Accessibility:** ARIA roles (`role="region"`, `aria-roledescription="carousel"`), keyboard navigation, pause controls, screen reader announcements for slide changes
+
+### Placement and usage
+
+**Layout patterns:**
+- **Hero section**: Full-width at top of page for featured content
+- **Product gallery**: Product detail pages with image carousel
+- **Content showcase**: Homepage sections highlighting features or offerings
+- **Testimonials**: Customer reviews or quotes rotation
+
+**Best practices:**
+- Limit to 3-7 slides for optimal engagement
+- Use clear, visible navigation controls
+- Provide pause/play controls for accessibility
+- Ensure touch targets minimum 44x44px
+- Include alternative navigation (not carousel-only)
+- Avoid auto-play for text-heavy content
+
+**When to use:**
+Featured content rotation, image galleries, space-constrained showcases
+
+**When to avoid:**
+Critical information (may be missed), content requiring comparison, forms or interactive elements within slides, more than 7-10 slides
+
+**Common types:**
+Image carousel, content carousel, product carousel, testimonial carousel, banner carousel
 
 # Image attributions
 
