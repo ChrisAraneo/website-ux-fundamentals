@@ -478,13 +478,13 @@ When adapting for responsive layouts, verify:
 
 ## Best practices
 
-1. **Focus on structure, not aesthetics** - Detailed design comes later
-2. **Iteration is essential** - Designs evolve throughout the process
-3. **Grid paper benefits** - Enables consistent scaling and element proportion
-4. **Industry standards** - Facilitate team communication and understanding
-5. **Progressive refinement** - Paper sketches → digital wireframes
-6. **Use standard visual conventions** - Improves communication with team members
-7. **Always reference sitemap** - Ensures all required elements are included
+1. **Focus on structure, not aesthetics** - detailed design comes later
+2. **Iteration is essential** - designs evolve throughout the process
+3. **Grid paper benefits** - enables consistent scaling and element proportion
+4. **Industry standards** - facilitate team communication and understanding
+5. **Progressive refinement** - paper sketches → digital wireframes
+6. **Use standard visual conventions** - improves communication with team members
+7. **Always reference sitemap** - ensures all required elements are included
 
 ## Transition to digital versions
 
