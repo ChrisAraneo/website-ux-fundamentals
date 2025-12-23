@@ -161,46 +161,46 @@ Effective information architecture should be informed by:
 
 ### 1. **Hierarchical model** (most popular)
 
-- **Structure**: top-down approach with parent and child levels, similar to a family tree
+- **Structure** - top-down approach with parent and child levels, similar to a family tree
 - **Components**:
   - Homepage at the top
   - Parent pages (main categories) in navigation bar
   - Child pages (subcategories) under each parent
-- **Example**: HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
-- **Key concept**: organizes content by importance-what's most/least important and how content connects
+- **Example** - HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
+- **Key concept** - organizes content by importance-what's most/least important and how content connects
 
 ### 2. **Sequential model**
 
-- **Structure**: leads users through step-by-step linear process
-- **Navigation**: users move from starting page to endpoint in order
-- **Limitations**: cannot skip pages or navigate out of order in true sequential structures
-- **Example**: car insurance quote forms, online surveys
-- **Purpose**: move users toward an end goal through sequential steps
+- **Structure** - leads users through step-by-step linear process
+- **Navigation** - users move from starting page to endpoint in order
+- **Limitations** - cannot skip pages or navigate out of order in true sequential structures
+- **Example** - car insurance quote forms, online surveys
+- **Purpose** - move users toward an end goal through sequential steps
 
 ### 3. **Matrix model** (Web model)
 
-- **Structure**: content linked in multiple ways, allowing users to follow their own path
-- **Navigation**: users can access any page while still reaching all other pages
-- **Features**: free exploration with interconnected content
-- **Example**: news websites with navigation menus, featured content, and hyperlinked related articles
-- **Caution**: considered outdated by some UX designers; can be difficult to navigate without clear direction
-- **Use Case**: websites wanting users to interact with lots of content rather than following a specific journey
+- **Structure** - content linked in multiple ways, allowing users to follow their own path
+- **Navigation** - users can access any page while still reaching all other pages
+- **Features** - free exploration with interconnected content
+- **Example** - news websites with navigation menus, featured content, and hyperlinked related articles
+- **Caution** - considered outdated by some UX designers; can be difficult to navigate without clear direction
+- **Use Case** - websites wanting users to interact with lots of content rather than following a specific journey
 
 ### 4. **Database model**
 
-- **Structure**: combines organized information database with search functionality
-- **Features**: advanced filtering and search capabilities
-- **Dynamic Experience**: content categorized with tags for easy searching
-- **Examples**: social media networks (location tags), Google Maps (searchable addresses and categories)
+- **Structure** - combines organized information database with search functionality
+- **Features** - advanced filtering and search capabilities
+- **Dynamic Experience** - content categorized with tags for easy searching
+- **Examples** - social media networks (location tags), Google Maps (searchable addresses and categories)
 
 ## Advantages of using common website structures
 
 Common website structures help users browse more efficiently by providing familiar information architecture patterns. Understanding the four common website structures is essential for organizing content effectively and building information architecture that meets user needs.
 
-- **Meets User Expectations**: users have prior experience with these structures across different websites
-- **Improves Navigation**: adds organization and logical cues to orient and direct users
-- **Proven Effectiveness**: tested over time and evolved based on user and designer feedback
-- **Efficient Development**: saves time by providing starting frameworks rather than building from scratch
+- **Meets User Expectations** - users have prior experience with these structures across different websites
+- **Improves Navigation** - adds organization and logical cues to orient and direct users
+- **Proven Effectiveness** - tested over time and evolved based on user and designer feedback
+- **Efficient Development** - saves time by providing starting frameworks rather than building from scratch
 
 ## Choosing the right structure
 
@@ -208,7 +208,7 @@ Common website structures help users browse more efficiently by providing famili
 - Most websites use **combinations** of multiple structures
 - Flexibility to blend structures for specific project requirements
 - Can go beyond these models for unique brand requirements
-- **Critical**: users must be able to easily and effectively navigate the website
+- **Critical** - users must be able to easily and effectively navigate the website
 
 # Sitemaps
 
@@ -222,18 +222,18 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ## Benefits of using sitemaps
 
-1. **Clear organizational path**: Helps visualize site structure in early planning stages
-2. **Identifies connectivity needs**: Shows which areas require elaborate connections
-3. **Comprehensive overview**: See all pages in the order they appear to users
-4. **Catch mistakes early**: Spot forgotten pages or opportunities to condense content
-5. **Search engine indexing**: Helps Google and other search engines understand site content
-6. **Accessibility**: Creates organized flow for all users, especially those using assistive technology
+1. **Clear organizational path** - Helps visualize site structure in early planning stages
+2. **Identifies connectivity needs** - Shows which areas require elaborate connections
+3. **Comprehensive overview** - See all pages in the order they appear to users
+4. **Catch mistakes early** - Spot forgotten pages or opportunities to condense content
+5. **Search engine indexing** - Helps Google and other search engines understand site content
+6. **Accessibility** - Creates organized flow for all users, especially those using assistive technology
 
 ## Sitemap structure (hierarchical example)
 
-- **Top rectangle**: homepage (user entry point)
-- **Row of rectangles below**: main categories connected to homepage
-- **Columns below categories**: subcategories for each main category
+- **Top rectangle** - homepage (user entry point)
+- **Row of rectangles below** - main categories connected to homepage
+- **Columns below categories** - subcategories for each main category
 
 ## Building a sitemap
 
@@ -253,7 +253,7 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 - Select from: hierarchical, sequential, matrix, or database
 - Can use combination of structures
 - Example: Library website uses hierarchical structure (homepage with connected pages)
-- **Pro Tip**: use templates based on common structures to jumpstart process
+- **Pro Tip** - use templates based on common structures to jumpstart process
 
 ### Step 4: Start with homepage
 - Homepage is the access point and first user experience
@@ -278,8 +278,8 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ## Sitemap types by website size
 
-- **Flat sitemaps**: small websites (under 100 pages) with maximum 4 vertical levels
-- **Deep sitemaps**: large websites (1,000+ pages) with 5 or more vertical levels
+- **Flat sitemaps** - small websites (under 100 pages) with maximum 4 vertical levels
+- **Deep sitemaps** - large websites (1,000+ pages) with 5 or more vertical levels
 
 # Homepage layouts
 
@@ -293,35 +293,35 @@ Always select the layout that best serves your users and project goals rather th
 
 ## 1. Single-column
 
-- **Structure**: one vertical column for content
-- **Characteristics**: simplest layout option with logical top-to-bottom stacking (navigation → content → footer)
-- **Best for**: mobile websites, reading-focused content, emphasizing one main element
-- **Advantage**: easy scrolling and focus on text
+- **Structure** - one vertical column for content
+- **Characteristics** - simplest layout option with logical top-to-bottom stacking (navigation → content → footer)
+- **Best for** - mobile websites, reading-focused content, emphasizing one main element
+- **Advantage** - easy scrolling and focus on text
 
 ## 2. Multicolumn
 
-- **Structure**: two or more columns for content
-- **Key element**: clear **focal point** (specific area capturing user attention)
-- **Content distribution**: supporting content occupies 25-45% of page
-- **Design principle**: uses visual weight and hierarchy
-- **Common use**: desktop websites, above-the-fold content display
-- **Pro tip**: one column often reserved for ad space
+- **Structure** - two or more columns for content
+- **Key element** - clear **focal point** (specific area capturing user attention)
+- **Content distribution** - supporting content occupies 25-45% of page
+- **Design principle** - uses visual weight and hierarchy
+- **Common use** - desktop websites, above-the-fold content display
+- **Pro tip** - one column often reserved for ad space
 
 ## 3. Box
 
-- **Structure**: boxes/squares of varying sizes and proportions
-- **Visual equality**: same-sized, evenly-spaced boxes = equal importance
-- **Emphasis technique**: larger or separated boxes draw attention
-- **Common applications**: e-commerce homepages (e.g., Amazon), UX portfolios, seasonal content rotation
-- **Advantage**: easy content swapping
+- **Structure** - boxes/squares of varying sizes and proportions
+- **Visual equality** - same-sized, evenly-spaced boxes = equal importance
+- **Emphasis technique** - larger or separated boxes draw attention
+- **Common applications** - e-commerce homepages (e.g., Amazon), UX portfolios, seasonal content rotation
+- **Advantage** - easy content swapping
 
 ## 4. Featured image (Single image)
 
-- **Structure**: single dominant image/video occupying entire page
-- **Purpose**: create strong first impression and emotional connection
-- **Requirements**: high-quality, message-relevant imagery
-- **Navigation**: often includes sticky/fixed menu bar
-- **Best for**: product pages, brand storytelling
+- **Structure** - single dominant image/video occupying entire page
+- **Purpose** - create strong first impression and emotional connection
+- **Requirements** - high-quality, message-relevant imagery
+- **Navigation** - often includes sticky/fixed menu bar
+- **Best for** - product pages, brand storytelling
 
 ## 5. Asymmetrical
 
@@ -329,33 +329,33 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 
 ### **F-Shape Eye-Tracking Pattern**
 
-- **User behavior**: browse content following F-shape
-- **Best for**: text-heavy pages, search results
-- **Design priority**: most important information at top
-- **User tendency**: won't read to bottom
+- **User behavior** - browse content following F-shape
+- **Best for** - text-heavy pages, search results
+- **Design priority** - most important information at top
+- **User tendency** - won't read to bottom
 
 ### **Z-Shape Eye-Tracking Pattern**
 
-- **User behavior**: left to right → diagonal left → right again
-- **Natural pattern**: mimics Western left-to-right, top-to-bottom reading
-- **Best for**: sites with less content
-- **Accessibility note**: users with visual impairments follow same patterns with assistive technology
+- **User behavior** - left to right → diagonal left → right again
+- **Natural pattern** - mimics Western left-to-right, top-to-bottom reading
+- **Best for** - sites with less content
+- **Accessibility note** - users with visual impairments follow same patterns with assistive technology
 
 ## 6. Grid of Cards
 
-- **Structure**: series of uniform-sized rectangular cards previewing content
-- **Distinction from box layout**: cards are interrelated within same list (vs. independent boxes)
-- **Technical features**: card/list view switching, lazy loading
-- **Responsive design**: card size adapts to screen size
-- **Common applications**: recipe blogs, streaming services (YouTube, Pinterest, TED)
+- **Structure** - series of uniform-sized rectangular cards previewing content
+- **Distinction from box layout** - cards are interrelated within same list (vs. independent boxes)
+- **Technical features** - card/list view switching, lazy loading
+- **Responsive design** - card size adapts to screen size
+- **Common applications** - recipe blogs, streaming services (YouTube, Pinterest, TED)
 
 ## 7. Tiered Layer Cake
 
-- **Structure**: stacked horizontal rows with varying column counts per layer
-- **Flexibility**: inconsistent column numbers across layers
-- **Responsive design advantage**: layers easily rearranged or swapped for different screen sizes
-- **Distinction**: no all-encompassing container or long sidebars (unlike multicolumn)
-- **Desktop to mobile**: multiple columns collapse to single column
+- **Structure** - stacked horizontal rows with varying column counts per layer
+- **Flexibility** - inconsistent column numbers across layers
+- **Responsive design advantage** - layers easily rearranged or swapped for different screen sizes
+- **Distinction** - no all-encompassing container or long sidebars (unlike multicolumn)
+- **Desktop to mobile** - multiple columns collapse to single column
 
 ## Takeways
 
@@ -460,34 +460,34 @@ When adapting for responsive layouts, verify:
 - **Remove** non-essential UI components
 - **Maintain** critical elements
 - **Shift** positions or change formats
-- **Space-saving elements**: hamburger menus, cards, carousels
-- **Reduce clutter**: prioritize usability and accessibility
+- **Space-saving elements** - hamburger menus, cards, carousels
+- **Reduce clutter** - prioritize usability and accessibility
 
 ## Sketching paper wireframes
 
 ### Preparation
 
-1. **List required information**: document all elements needed on page (navigation, images, text descriptions)
-2. **Reference sitemap**: use sitemap to determine page structure and element prioritization
-3. **Gather materials**: grid paper (or template), pen/pencil
+1. **List required information** - document all elements needed on page (navigation, images, text descriptions)
+2. **Reference sitemap** - use sitemap to determine page structure and element prioritization
+3. **Gather materials** - grid paper (or template), pen/pencil
 
 ### Drawing process
 
-1. **Create multiple variations**: sketch 4-5 different layout versionss. Each version should have different design solutions.
-2. **Consider all device types**: sketch wireframes for each device type and screen size.
-3. **Top-to-bottom approach**: it is recommended to use *top-to-bottom* design approach. That is how users experience webpage.
+1. **Create multiple variations** - sketch 4-5 different layout versionss. Each version should have different design solutions.
+2. **Consider all device types** - sketch wireframes for each device type and screen size.
+3. **Top-to-bottom approach** - it is recommended to use *top-to-bottom* design approach. That is how users experience webpage.
 
 ### Review and refinement
 
-1. **Identify best elements**: Mark favorite features from each wireframe
-2. **Combine marked elements**: Create final wireframe integrating best components
-3. **Repeat for all pages**: Apply same process to remaining website pages
+1. **Identify best elements** - Mark favorite features from each wireframe
+2. **Combine marked elements** - Create final wireframe integrating best components
+3. **Repeat for all pages** - Apply same process to remaining website pages
 
 ### Documentation
 
-1. **Note design decisions**: note reasoning behind breakpoint decisions, element positions on different devices
+1. **Note design decisions** - note reasoning behind breakpoint decisions, element positions on different devices
 2. **Document wireframe progression for portfolio**
-3. **Document takeaways**: write down what you have learned
+3. **Document takeaways** - write down what you have learned
 
 ## Above the fold
 
@@ -504,10 +504,10 @@ Icon placeholders are visual markers used in wireframes to indicate where icons 
 ## Best practices
 
 1. **Focus on structure, not aesthetics** - Detailed design comes later
-2. **Iteration is essential**: Designs evolve throughout the process
-3. **Grid paper benefits**: Enables consistent scaling and element proportion
-4. **Industry standards**: Facilitate team communication and understanding
-5. **Progressive refinement**: Paper sketches → digital wireframes
+2. **Iteration is essential** - Designs evolve throughout the process
+3. **Grid paper benefits** - Enables consistent scaling and element proportion
+4. **Industry standards** - Facilitate team communication and understanding
+5. **Progressive refinement** - Paper sketches → digital wireframes
 6. **Use standard visual conventions** - Improves communication with team members
 7. **Always reference sitemap** - Ensures all required elements are included
 
@@ -658,7 +658,7 @@ Once you've identified the best parts, combine them into one new wireframe.
 6. **Iterate and refine** - Identify best elements from multiple versions
 7. **Be creative** - Don't be afraid to try unconventional layouts
 8. **Combine strengths** - Final wireframe can merge best parts from all variations
-9. **Wireframes are only blueprints**: They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
+9. **Wireframes are only blueprints** - They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
 
 # Common components
 
@@ -707,10 +707,10 @@ Headings are titles or subtitles that organize website content into clear sectio
 ### Placement and usage
 
 **Heading hierarchy:**
-- **H1**: main page title (one per page)
-- **H2**: major section headings
-- **H3**: subsections within H2 sections
-- **H4-H6**: further nested subsections as needed
+- **H1** - main page title (one per page)
+- **H2** - major section headings
+- **H3** - subsections within H2 sections
+- **H4-H6** - further nested subsections as needed
 
 **Best practices:**
 - Never skip heading levels (H1 → H2 → H3, not H1 → H3)
@@ -755,9 +755,9 @@ The hamburger menu icon toggles hidden navigation menus, primarily for responsiv
 ### Placement and usage
 
 **Optimal placement:**
-- **Mobile**: top-left corner (most common) or top-right corner (RTL interfaces)
-- **Desktop/Tablet**: less common; used in header when full navigation doesn't fit
-- **Fixed position**: often remains visible while scrolling
+- **Mobile** - top-left corner (most common) or top-right corner (RTL interfaces)
+- **Desktop/Tablet** - less common; used in header when full navigation doesn't fit
+- **Fixed position** - often remains visible while scrolling
 
 **When to Use:**
 - Mobile-first responsive websites
@@ -792,21 +792,21 @@ Common uses: product listings, article previews, user profiles, dashboard widget
 ### Functionality
 
 **Interaction types:**
-- **Clickable**: entire card navigates to detail page
-- **Action-based**: multiple buttons for specific actions
-- **Informational**: display-only with possible interactive elements
-- **Expandable**: reveals additional content on interaction
-- **Selectable**: multi-select with checkboxes
+- **Clickable** - entire card navigates to detail page
+- **Action-based** - multiple buttons for specific actions
+- **Informational** - display-only with possible interactive elements
+- **Expandable** - reveals additional content on interaction
+- **Selectable** - multi-select with checkboxes
 
 **Features:** Dynamic updates, lazy loading, filtering/sorting, keyboard navigation, screen reader support, semantic HTML with ARIA labels, minimum touch targets (44x44px)
 
 ### Placement and usage
 
 **Layout patterns:**
-- **Grid**: responsive columns (1 mobile, 2-3 tablet, 3-4 desktop) with 16-32px gaps
-- **List/Feed**: single column, full-width stacked vertically
-- **Masonry**: variable heights for dynamic layouts
-- **Dashboard**: mixed sizes (1x1, 2x1, 2x2) for metrics
+- **Grid** - responsive columns (1 mobile, 2-3 tablet, 3-4 desktop) with 16-32px gaps
+- **List/Feed** - single column, full-width stacked vertically
+- **Masonry** - variable heights for dynamic layouts
+- **Dashboard** - mixed sizes (1x1, 2x1, 2x2) for metrics
 
 **Best practices:**
 - Keep content concise and scannable
@@ -845,11 +845,11 @@ Common uses: featured content highlights, product showcases, image galleries, te
 ### Functionality
 
 **Navigation methods:**
-- **Arrow buttons**: previous/next controls on left/right edges
-- **Indicator dots**: clickable position markers below carousel
-- **Touch gestures**: swipe left/right on mobile devices
-- **Keyboard**: arrow keys for navigation, Tab for focus
-- **Auto-play**: automatic rotation with configurable interval (3-5 seconds typical)
+- **Arrow buttons** - previous/next controls on left/right edges
+- **Indicator dots** - clickable position markers below carousel
+- **Touch gestures** - swipe left/right on mobile devices
+- **Keyboard** - arrow keys for navigation, Tab for focus
+- **Auto-play** - automatic rotation with configurable interval (3-5 seconds typical)
 
 **Features:** Infinite loop (cycles back to start), pause on hover/interaction, lazy loading for performance, responsive resizing, optional thumbnails preview
 
@@ -858,10 +858,10 @@ Common uses: featured content highlights, product showcases, image galleries, te
 ### Placement and usage
 
 **Layout patterns:**
-- **Hero section**: full-width at top of page for featured content
-- **Product gallery**: product detail pages with image carousel
-- **Content showcase**: homepage sections highlighting features or offerings
-- **Testimonials**: customer reviews or quotes rotation
+- **Hero section** - full-width at top of page for featured content
+- **Product gallery** - product detail pages with image carousel
+- **Content showcase** - homepage sections highlighting features or offerings
+- **Testimonials** - customer reviews or quotes rotation
 
 **Best practices:**
 - Limit to 3-7 slides for optimal engagement
@@ -901,11 +901,11 @@ Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, na
 ### Functionality
 
 **Primary actions:**
-- **Submit forms**: complete purchases, registrations, or data submissions
-- **Navigate**: direct users to landing pages, product details, or key sections
-- **Download**: trigger file downloads or app installations
-- **Share/Save**: enable social sharing or content bookmarking
-- **Contact**: open contact forms, chat, or email clients
+- **Submit forms** - complete purchases, registrations, or data submissions
+- **Navigate** - direct users to landing pages, product details, or key sections
+- **Download** - trigger file downloads or app installations
+- **Share/Save** - enable social sharing or content bookmarking
+- **Contact** - open contact forms, chat, or email clients
 
 **Interaction behavior:** Single click/tap triggers action, provides immediate feedback (loading states, confirmation messages), prevents double-submission, accessible via keyboard (Enter/Space)
 
@@ -914,11 +914,11 @@ Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, na
 ### Placement and usage
 
 **Strategic placement:**
-- **Hero section**: primary CTA above the fold for maximum visibility
-- **End of content**: after value proposition or product description
-- **Navigation bar**: top-right corner for persistent access
-- **Modals/Forms**: bottom-right or centered for form submission
-- **Cards**: bottom or top-right within card boundaries
+- **Hero section** - primary CTA above the fold for maximum visibility
+- **End of content** - after value proposition or product description
+- **Navigation bar** - top-right corner for persistent access
+- **Modals/Forms** - bottom-right or centered for form submission
+- **Cards** - bottom or top-right within card boundaries
 
 **Best practices:**
 - One primary CTA per section to avoid confusion
@@ -970,9 +970,9 @@ Search → magnifying glass, Shopping Cart → cart, User Account → person/ava
 ### Placement and usage
 
 **Optimal placement:**
-- **Top navigation**: primary actions (search, cart, account) right-aligned
-- **Bottom navigation**: 3-5 main sections as icon-only tabs
-- **Floating action buttons**: primary action icon prominently displayed
+- **Top navigation** - primary actions (search, cart, account) right-aligned
+- **Bottom navigation** - 3-5 main sections as icon-only tabs
+- **Floating action buttons** - primary action icon prominently displayed
 
 **When to use icons:** Screen width under 768px, universally recognized actions, repeated actions across screens, status indicators requiring minimal space
 
@@ -1022,16 +1022,16 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## Why they matter?
 
-- **Reduces cognitive load**: helps users process information faster by leveraging natural perception patterns
-- **Improves usability**: creates intuitive interfaces that feel natural to navigate
-- **Enhances visual hierarchy**: guides user attention to important elements
-- **Increases comprehension**: makes complex information easier to understand
-- **Strengthens communication**: ensures design intent matches user perception
-- **Creates visual harmony**: produces aesthetically pleasing, organized layouts
+- **Reduces cognitive load** - helps users process information faster by leveraging natural perception patterns
+- **Improves usability** - creates intuitive interfaces that feel natural to navigate
+- **Enhances visual hierarchy** - guides user attention to important elements
+- **Increases comprehension** - makes complex information easier to understand
+- **Strengthens communication** - ensures design intent matches user perception
+- **Creates visual harmony** - produces aesthetically pleasing, organized layouts
 
 ## 1. Proximity
 
-**Definition**: Elements close to each other are perceived as related or belonging to the same group.
+**Definition** - Elements close to each other are perceived as related or belonging to the same group.
 
 **How it works:**
 - Spatial distance indicates relationships between elements
@@ -1044,7 +1044,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Separate content blocks with white space
 - Position related buttons together (e.g., "Save" and "Cancel")
 
-**Example**: Navigation menus group related links together with spacing between different categories.
+**Example** - Navigation menus group related links together with spacing between different categories.
 
 **Best practices:**
 - Use consistent spacing within groups
@@ -1053,7 +1053,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 2. Similarity
 
-**Definition**: Elements sharing visual characteristics (color, shape, size, orientation) are perceived as related or part of the same group.
+**Definition** - Elements sharing visual characteristics (color, shape, size, orientation) are perceived as related or part of the same group.
 
 **How it works:**
 - Similar visual appearance suggests similar function or category
@@ -1066,7 +1066,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Match card designs for similar content types
 - Unify icon styles throughout interface
 
-**Example**: All primary CTA buttons share the same color and style, making them instantly recognizable.
+**Example** - All primary CTA buttons share the same color and style, making them instantly recognizable.
 
 **Best practices:**
 - Maintain consistent styling for same element types
@@ -1075,7 +1075,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 3. Closure
 
-**Definition**: People mentally complete incomplete shapes or patterns, filling in missing information to perceive whole objects.
+**Definition** - People mentally complete incomplete shapes or patterns, filling in missing information to perceive whole objects.
 
 **How it works:**
 - Brain fills gaps to see complete forms
@@ -1088,7 +1088,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Design logos with negative space
 - Employ progress indicators with partial fills
 
-**Example**: Hamburger menu icon (three lines) suggests a complete menu without showing all elements.
+**Example** - Hamburger menu icon (three lines) suggests a complete menu without showing all elements.
 
 **Best practices:**
 - Ensure missing parts are predictable
@@ -1097,7 +1097,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 4. Continuity (Continuation)
 
-**Definition**: Elements arranged on a line or curve are perceived as related and following a path, and the eye naturally follows continuous lines.
+**Definition** - Elements arranged on a line or curve are perceived as related and following a path, and the eye naturally follows continuous lines.
 
 **How it works:**
 - Eyes follow smooth paths rather than jumping between disconnected elements
@@ -1110,7 +1110,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Connect related elements with lines or arrows
 - Design step indicators showing sequential progress
 
-**Example**: Breadcrumb navigation creates continuous path showing user location.
+**Example** - Breadcrumb navigation creates continuous path showing user location.
 
 **Best practices:**
 - Align elements along clear paths (horizontal, vertical, curved)
@@ -1119,7 +1119,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 5. Figure/Ground (Figure-Ground)
 
-**Definition**: People instinctively separate visual elements into foreground (figure) and background (ground), distinguishing objects from their surroundings.
+**Definition** - People instinctively separate visual elements into foreground (figure) and background (ground), distinguishing objects from their surroundings.
 
 **How it works:**
 - Creates depth and focal hierarchy
@@ -1132,7 +1132,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Design hero sections with contrasting foreground text
 - Employ color contrast to highlight interactive elements
 
-**Example**: Modal dialogs appear as figures over dimmed background, focusing user attention.
+**Example** - Modal dialogs appear as figures over dimmed background, focusing user attention.
 
 **Best practices:**
 - Ensure sufficient contrast between figure and ground (4.5:1 for text)
@@ -1141,7 +1141,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 6. Common fate
 
-**Definition**: Elements moving in the same direction, at the same speed, or changing together are perceived as a unified group.
+**Definition** - Elements moving in the same direction, at the same speed, or changing together are perceived as a unified group.
 
 **How it works:**
 - Synchronized movement creates perceived relationship
@@ -1154,7 +1154,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Show grouped items responding to same interaction
 - Transition card sets simultaneously
 
-**Example**: Notification cards dismissing together when "Clear All" is clicked.
+**Example** - Notification cards dismissing together when "Clear All" is clicked.
 
 **Best practices:**
 - Use consistent animation timing for related elements
@@ -1163,7 +1163,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 7. Symmetry
 
-**Definition**: Symmetrical elements are perceived as belonging together and forming coherent, stable shapes, even when separated by distance.
+**Definition** - Symmetrical elements are perceived as belonging together and forming coherent, stable shapes, even when separated by distance.
 
 **How it works:**
 - Creates sense of balance and order
@@ -1176,7 +1176,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Design balanced grid layouts
 - Use symmetrical icon designs
 
-**Example**: Login forms with vertically symmetrical input fields create organized, balanced appearance.
+**Example** - Login forms with vertically symmetrical input fields create organized, balanced appearance.
 
 **Best practices:**
 - Use symmetry for formal, professional designs
@@ -1185,7 +1185,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 8. Common region
 
-**Definition**: Elements enclosed within the same boundary (border, background color, container) are perceived as grouped together.
+**Definition** - Elements enclosed within the same boundary (border, background color, container) are perceived as grouped together.
 
 **How it works:**
 - Visible boundaries create strong grouping
@@ -1198,7 +1198,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Apply background colors to distinguish content areas
 - Design panels or containers for widgets
 
-**Example**: Dashboard widgets enclosed in bordered cards clearly separate different data sets.
+**Example** - Dashboard widgets enclosed in bordered cards clearly separate different data sets.
 
 **Best practices:**
 - Use subtle borders or backgrounds (avoid heavy visual weight)
@@ -1209,23 +1209,23 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 Effective UX design typically combines multiple Gestalt principles simultaneously:
 
-- **Navigation menus**: proximity (grouped items) + Similarity (consistent styling) + Common Region (bordered containers)
-- **Form design**: proximity (labels near inputs) + Common Region (fieldsets) + Continuity (vertical flow)
-- **Card layouts**: common Region (borders) + Similarity (uniform cards) + Proximity (grouped within sections)
+- **Navigation menus** - proximity (grouped items) + Similarity (consistent styling) + Common Region (bordered containers)
+- **Form design** - proximity (labels near inputs) + Common Region (fieldsets) + Continuity (vertical flow)
+- **Card layouts** - common Region (borders) + Similarity (uniform cards) + Proximity (grouped within sections)
 
-1. **Audit existing designs**: Identify which principles are (or aren't) being applied
-2. **Plan visual groupings**: Decide which elements should be perceived together
-3. **Use consistent patterns**: Apply principles consistently across entire interface
-4. **Test with users**: Verify that perceived groupings match intended organization
-5. **Iterate based on feedback**: Adjust spacing, styling, and organization as needed
+1. **Audit existing designs** - Identify which principles are (or aren't) being applied
+2. **Plan visual groupings** - Decide which elements should be perceived together
+3. **Use consistent patterns** - Apply principles consistently across entire interface
+4. **Test with users** - Verify that perceived groupings match intended organization
+5. **Iterate based on feedback** - Adjust spacing, styling, and organization as needed
 
 ## Common mistakes to avoid
 
-- **Inconsistent spacing**: undermines proximity principle
-- **Too many visual styles**: confuses similarity-based groupings
-- **Overcrowding**: prevents clear figure/ground separation
-- **Breaking expected patterns**: disrupts continuity and flow
-- **Over-reliance on single principle**: combine multiple principles for clarity
+- **Inconsistent spacing** - undermines proximity principle
+- **Too many visual styles** - confuses similarity-based groupings
+- **Overcrowding** - prevents clear figure/ground separation
+- **Breaking expected patterns** - disrupts continuity and flow
+- **Over-reliance on single principle** - combine multiple principles for clarity
 
 # Image attributions
 
