@@ -291,8 +291,6 @@ Homepages serve as the entry point and central navigation hub for websites. Prop
 
 Always select the layout that best serves your users and project goals rather than following current trends. The UX design industry constantly evolves, and what's trending may not reflect optimal usability or accessibility.
 
-# Common homepage layouts
-
 ## 1. Single-column
 
 - **Structure**: one vertical column for content
@@ -662,9 +660,9 @@ Once you've identified the best parts, combine them into one new wireframe.
 8. **Combine strengths** - Final wireframe can merge best parts from all variations
 9. **Wireframes are only blueprints**: They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
 
-# Common website UI components
+# Common components
 
-![Common website UI components](/images/common-website-components.png)
+![Common components](/images/common-website-components.png)
 
 ## Quick reference table
 
@@ -1246,7 +1244,7 @@ Effective UX design typically combines multiple Gestalt principles simultaneousl
   - https://www.pexels.com/pl-pl/zdjecie/bialy-papier-do-drukarki-196645/
 - Example wireframe
   - https://www.pexels.com/pl-pl/zdjecie/partie-ksiazek-na-drewnianej-polce-1565245/
-- Common website UI components
+- Common components
   - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/
 - Gestalt principles
   - https://unsplash.com/photos/N7G5xtR28fo
