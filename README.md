@@ -6,35 +6,17 @@
 
 ## What is responsive design?
 
-Responsive web design allows a website to automatically adapt its appearance based on the device's screen size. This involves more than just resizing-elements. May change position and organization to optimize the user experience across different devices.
+Responsive web design allows a website to automatically adapt its appearance based on the device's screen size. This involves more than just resizing-elements. Components may change position and organization to optimize the user experience across different devices.
 
 ## Why responsive design matters?
 
-1. **Market demand**
-   - 74% of US adults own a desktop or laptop computer
-   - 81% of US adults own a smartphone
-   - Users expect consistent functionality across all devices
-   - 185+ million active websites on the internet (2019)
-   - New websites created every second
-   - High demand for multi-device compatible designs
-2. **UX designer job market**
-   - 90% of UX designers work on websites or web-based applications
-   - 76% work on mobile apps
-   - Responsive web design skills make portfolios more attractive to employers
-3. **Easy screen adaptation**
-   - Layouts adapt seamlessly to any screen size
-   - Increases usability across all devices
-   - Creates consistent good user experience
-4. **Time and cost efficiency**
-   - No need to design separate websites for every device size
-   - Single responsive design serves all platforms
-   - Reduces development and maintenance costs
+Responsive web design is important because most people use multiple devices (74% have computers, 81% have smartphones) and expect websites to work well on all of them. Since the vast majority of UX designers (90%) focus on web-based projects, mastering responsive design is crucial for professional growth in the industry. It also saves time and money because you only need to build one website that works on every device instead of making separate versions for each screen size.
 
 ## Native mobile apps & responsive web apps
 
 Both approaches have their place in UX design. Understanding the trade-offs helps designers choose the right solution based on user needs, project constraints, and business goals.
 
-### Dedicated mobile apps
+### Native mobile apps
 
 **Native mobile app** is an app downloaded to device, accessed via home screen icon.
 
@@ -91,11 +73,11 @@ With breakpoints you **don't** have to create a different design for every poten
 
 ## Above the fold
 
-**"Above the fold"** is content on webpage that doesn't require scrolling to experience.
+**Above the fold** is content on webpage that doesn't require scrolling to experience.
 
 ## Critical design questions
 
-When plotting different screen sizes, ask:
+When designing across different screen sizes, consider:
 
 1. **Element location**
    - Do elements on the page need to move location?
@@ -118,40 +100,17 @@ When plotting different screen sizes, ask:
 
 Information architecture (IA) organizes content to help users understand where they are in a product and where the information they want is. It serves as the roadmap for users to navigate and find everything they need from your website.
 
-Information architecture is fundamentally about organizing content for excellent user flow. To create effective IA, designers must thoroughly understand their users' goals, behaviors, and expectations.
+## Why information architecture matters?
+
+Good information architecture creates clear navigation and shows how all website parts connect. It helps stakeholders review content and engineers understand how to build the site correctly. IA saves development time by preventing messy mistakes and allows designers to improve their ideas at different project stages.
 
 ## Key foundation for IA
 
 Effective information architecture should be informed by:
 
-- **User research** - Understanding user goals, behaviors, and expectations
-- **Competitive audits** - Examining how existing products are structured
-- **User knowledge** - Deep understanding of who you're designing for
-
-## Why information architecture matters?
-
-1. **Organizes and defines website structure**
-   - Creates easy navigation for users
-   - Establishes clear organizational patterns
-2. **Provides high-level product view**
-   - Shows how website elements fit together
-   - Clarifies relationships between different parts
-   - Improves overall design process
-3. **Facilitates stakeholder review**
-   - Enables stakeholders to evaluate content appropriateness
-   - Helps assess if content placement aligns with business goals
-   - Supports product goal achievement
-4. **Supports engineering development**
-   - Helps engineers understand data organization
-   - Ensures development matches visual designs
-   - Makes colleagues' jobs easier
-5. **Saves development time**
-   - Prevents messy architecture that delays web development
-   - Reduces costly mistakes and rework
-6. **Enables design iteration**
-   - Allows ideas to grow and evolve
-   - Supports adaptation at different project stages
-   - Key skill for UX designers
+- **User research** - understanding user goals, behaviors, and expectations
+- **Competitive audits** - examining how existing products are structured
+- **User knowledge** - deep understanding of who you're designing for
 
 # Common website structures
 
@@ -161,46 +120,62 @@ Effective information architecture should be informed by:
 
 ### 1. **Hierarchical model** (most popular)
 
-- **Structure** - top-down approach with parent and child levels, similar to a family tree
-- **Components**:
-  - Homepage at the top
-  - Parent pages (main categories) in navigation bar
-  - Child pages (subcategories) under each parent
-- **Example** - HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
-- **Key concept** - organizes content by importance-what's most/least important and how content connects
+***Top-down approach with parent and child levels, similar to a family tree.***
+
+***Organizes content by importance-what's most/least important and how content connects.***
+
+- Homepage at the top
+- Parent pages (main categories) in navigation bar
+- Child pages (subcategories) under each parent
+
+**Example:**
+
+HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
 
 ### 2. **Sequential model**
 
-- **Structure** - leads users through step-by-step linear process
+***Leads users through step-by-step linear process.***
+
 - **Navigation** - users move from starting page to endpoint in order
 - **Limitations** - cannot skip pages or navigate out of order in true sequential structures
-- **Example** - car insurance quote forms, online surveys
 - **Purpose** - move users toward an end goal through sequential steps
+
+**Example:**
+
+Car insurance quote forms, online surveys.
 
 ### 3. **Matrix model** (Web model)
 
-- **Structure** - content linked in multiple ways, allowing users to follow their own path
+***Content linked in multiple ways, allowing users to follow their own path.***
+
 - **Navigation** - users can access any page while still reaching all other pages
 - **Features** - free exploration with interconnected content
-- **Example** - news websites with navigation menus, featured content, and hyperlinked related articles
 - **Caution** - considered outdated by some UX designers; can be difficult to navigate without clear direction
-- **Use Case** - websites wanting users to interact with lots of content rather than following a specific journey
+- **Use case** - websites wanting users to interact with lots of content rather than following a specific journey
+
+**Example:**
+
+News websites with navigation menus, featured content, and hyperlinked related articles.
 
 ### 4. **Database model**
 
-- **Structure** - combines organized information database with search functionality
+***Combines organized information database with search functionality.***
+
 - **Features** - advanced filtering and search capabilities
-- **Dynamic Experience** - content categorized with tags for easy searching
-- **Examples** - social media networks (location tags), Google Maps (searchable addresses and categories)
+- **Dynamic experience** - content categorized with tags for easy searching
+
+**Example:**
+
+Social media networks (location tags), Google Maps (searchable addresses and categories).
 
 ## Advantages of using common website structures
 
 Common website structures help users browse more efficiently by providing familiar information architecture patterns. Understanding the four common website structures is essential for organizing content effectively and building information architecture that meets user needs.
 
-- **Meets User Expectations** - users have prior experience with these structures across different websites
-- **Improves Navigation** - adds organization and logical cues to orient and direct users
-- **Proven Effectiveness** - tested over time and evolved based on user and designer feedback
-- **Efficient Development** - saves time by providing starting frameworks rather than building from scratch
+- **Meets user expectations** - users have prior experience with these structures across different websites
+- **Improves navigation** - adds organization and logical cues to orient and direct users
+- **Proven effectiveness** - tested over time and evolved based on user and designer feedback
+- **Efficient development** - saves time by providing starting frameworks rather than building from scratch
 
 ## Choosing the right structure
 
@@ -208,7 +183,7 @@ Common website structures help users browse more efficiently by providing famili
 - Most websites use **combinations** of multiple structures
 - Flexibility to blend structures for specific project requirements
 - Can go beyond these models for unique brand requirements
-- **Critical** - users must be able to easily and effectively navigate the website
+- **Users must be able to easily and effectively navigate the website**
 
 # Sitemaps
 
@@ -222,18 +197,24 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ## Benefits of using sitemaps
 
-1. **Clear organizational path** - Helps visualize site structure in early planning stages
-2. **Identifies connectivity needs** - Shows which areas require elaborate connections
-3. **Comprehensive overview** - See all pages in the order they appear to users
-4. **Catch mistakes early** - Spot forgotten pages or opportunities to condense content
-5. **Search engine indexing** - Helps Google and other search engines understand site content
-6. **Accessibility** - Creates organized flow for all users, especially those using assistive technology
+1. **Clear organizational path** - helps visualize site structure in early planning stages
+2. **Identifies connectivity needs** - shows which areas require elaborate connections
+3. **Comprehensive overview** - see all pages in the order they appear to users
+4. **Catch mistakes early** - spot forgotten pages or opportunities to condense content
+5. **Search engine indexing** - helps Google and other search engines understand site content
+6. **Accessibility** - creates organized flow for all users, especially those using assistive technology
 
-## Sitemap structure (hierarchical example)
+## Sitemap structure
 
 - **Top rectangle** - homepage (user entry point)
 - **Row of rectangles below** - main categories connected to homepage
 - **Columns below categories** - subcategories for each main category
+
+## Example sitemap
+
+![Example of a visual sitemap for a website that sells coffee products](https://api.backlinko.com/app/uploads/2025/05/sitemap-1280x1054.webp)
+
+(source: [https://backlinko.com/sitemap-examples](https://backlinko.com/sitemap-examples))
 
 ## Building a sitemap
 
@@ -270,12 +251,6 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 - Example for Books category: Recent Releases, Most Popular, Recommendations
 - Continue for all main categories
 
-## Example sitemap
-
-![Example of a visual sitemap for a website that sells coffee products](https://api.backlinko.com/app/uploads/2025/05/sitemap-1280x1054.webp)
-
-(source: [https://backlinko.com/sitemap-examples](https://backlinko.com/sitemap-examples))
-
 ## Sitemap types by website size
 
 - **Flat sitemaps** - small websites (under 100 pages) with maximum 4 vertical levels
@@ -287,9 +262,9 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ## Homepage layouts
 
-Homepages serve as the entry point and central navigation hub for websites. Proper layout organization guides users and helps them find information quickly.
+Homepages serve as the entry point for websites. Good layout guides users and helps them find information quickly.
 
-Always select the layout that best serves your users and project goals rather than following current trends. The UX design industry constantly evolves, and what's trending may not reflect optimal usability or accessibility.
+Always select the layout that best serves your users rather than following current trends. The UX design industry constantly evolves, and what's trending may not reflect best usability or accessibility.
 
 ## 1. Single-column
 
@@ -359,17 +334,17 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 
 ## Takeways
 
-1. **Simplicity vs. Complexity:** Choose layout complexity based on content needs and screen size
-2. **Responsive Design:** Different layouts may be appropriate for different device sizes (single-column for mobile, multicolumn for desktop)
-3. **Visual Hierarchy:** All layouts should consider hierarchy, color, and variety in element organization
-4. **Focal Points:** Multicolumn and featured image layouts particularly benefit from clear focal points
-5. **Purpose-Driven Design:** Each layout serves specific purposes:
-   - Single-column: Reading and simplicity
-   - Multicolumn: Content variety and desktop optimization
-   - Box: Organization and categorization
-   - Featured image: Impact and emotion
-6. **Quality Matters:** Especially for featured image layouts, high-quality visuals are essential
-7. **Navigation Consistency:** Fixed/sticky navigation bars help maintain user orientation
+1. **Simplicity vs. Complexity** - choose layout complexity based on content needs and screen size
+2. **Responsive design** - different layouts may be appropriate for different device sizes (single-column for mobile, multicolumn for desktop)
+3. **Visual hierarchy** - all layouts should consider hierarchy, color, and variety in element organization
+4. **Focal points** - multicolumn and featured image layouts particularly benefit from clear focal points
+5. **Purpose-driven design** - each layout serves specific purposes:
+   - Single-column: reading and simplicity
+   - Multicolumn: content variety and desktop optimization
+   - Box: organization and categorization
+   - Featured image: impact and emotion
+6. **Quality matters** - especially for featured image layouts, high-quality visuals are essential
+7. **Navigation consistency** - fixed/sticky navigation bars help maintain user orientation
 
 ## UX considerations
 
@@ -396,6 +371,18 @@ Wireframes help designers figure out the layout of the page. They act like bluep
 - **Icons/Images** are represented by squares with X overlay
 - **Call-to-action buttons (CTA)** are rectangles or circles
 - **Placeholders** are represented by shapes or lines holding space for future visual elements
+
+## Above the fold
+
+**Above the fold** is content on webpage that doesn't require scrolling to experience.
+
+## Lorem Ipsum
+
+**Lorem Ipsum** is placeholder text used in design to fill space where real content will eventually go. Lorem ipsum allows designers to visualize text-heavy areas without being distracted by actual content meaning.
+
+## Icon placeholders
+
+Icon placeholders are visual markers used in wireframes to indicate where icons will appear in the final design. They help designers plan layout and spacing for functional icons without committing to specific icon designs during the wireframing phase.
 
 ## Paper and digital wireframes
 
@@ -488,18 +475,6 @@ When adapting for responsive layouts, verify:
 1. **Note design decisions** - note reasoning behind breakpoint decisions, element positions on different devices
 2. **Document wireframe progression for portfolio**
 3. **Document takeaways** - write down what you have learned
-
-## Above the fold
-
-**"Above the fold"** is content on webpage that doesn't require scrolling to experience.
-
-## Lorem Ipsum
-
-**Lorem Ipsum** is placeholder text used in design to fill space where real content will eventually go. Lorem ipsum allows designers to visualize text-heavy areas without being distracted by actual content meaning.
-
-## Icon placeholders
-
-Icon placeholders are visual markers used in wireframes to indicate where icons will appear in the final design. They help designers plan layout and spacing for functional icons without committing to specific icon designs during the wireframing phase.
 
 ## Best practices
 
