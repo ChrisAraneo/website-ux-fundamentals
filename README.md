@@ -161,46 +161,46 @@ Effective information architecture should be informed by:
 
 ### 1. **Hierarchical model** (most popular)
 
-- **Structure**: Top-down approach with parent and child levels, similar to a family tree
+- **Structure**: top-down approach with parent and child levels, similar to a family tree
 - **Components**:
   - Homepage at the top
   - Parent pages (main categories) in navigation bar
   - Child pages (subcategories) under each parent
 - **Example**: HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
-- **Key concept**: Organizes content by importance-what's most/least important and how content connects
+- **Key concept**: organizes content by importance-what's most/least important and how content connects
 
 ### 2. **Sequential model**
 
-- **Structure**: Leads users through step-by-step linear process
-- **Navigation**: Users move from starting page to endpoint in order
-- **Limitations**: Cannot skip pages or navigate out of order in true sequential structures
-- **Example**: Car insurance quote forms, online surveys
-- **Purpose**: Move users toward an end goal through sequential steps
+- **Structure**: leads users through step-by-step linear process
+- **Navigation**: users move from starting page to endpoint in order
+- **Limitations**: cannot skip pages or navigate out of order in true sequential structures
+- **Example**: car insurance quote forms, online surveys
+- **Purpose**: move users toward an end goal through sequential steps
 
 ### 3. **Matrix model** (Web model)
 
-- **Structure**: Content linked in multiple ways, allowing users to follow their own path
-- **Navigation**: Users can access any page while still reaching all other pages
-- **Features**: Free exploration with interconnected content
-- **Example**: News websites with navigation menus, featured content, and hyperlinked related articles
-- **Caution**: Considered outdated by some UX designers; can be difficult to navigate without clear direction
-- **Use Case**: Websites wanting users to interact with lots of content rather than following a specific journey
+- **Structure**: content linked in multiple ways, allowing users to follow their own path
+- **Navigation**: users can access any page while still reaching all other pages
+- **Features**: free exploration with interconnected content
+- **Example**: news websites with navigation menus, featured content, and hyperlinked related articles
+- **Caution**: considered outdated by some UX designers; can be difficult to navigate without clear direction
+- **Use Case**: websites wanting users to interact with lots of content rather than following a specific journey
 
 ### 4. **Database model**
 
-- **Structure**: Combines organized information database with search functionality
-- **Features**: Advanced filtering and search capabilities
-- **Dynamic Experience**: Content categorized with tags for easy searching
-- **Examples**: Social media networks (location tags), Google Maps (searchable addresses and categories)
+- **Structure**: combines organized information database with search functionality
+- **Features**: advanced filtering and search capabilities
+- **Dynamic Experience**: content categorized with tags for easy searching
+- **Examples**: social media networks (location tags), Google Maps (searchable addresses and categories)
 
 ## Advantages of using common website structures
 
 Common website structures help users browse more efficiently by providing familiar information architecture patterns. Understanding the four common website structures is essential for organizing content effectively and building information architecture that meets user needs.
 
-- **Meets User Expectations**: Users have prior experience with these structures across different websites
-- **Improves Navigation**: Adds organization and logical cues to orient and direct users
-- **Proven Effectiveness**: Tested over time and evolved based on user and designer feedback
-- **Efficient Development**: Saves time by providing starting frameworks rather than building from scratch
+- **Meets User Expectations**: users have prior experience with these structures across different websites
+- **Improves Navigation**: adds organization and logical cues to orient and direct users
+- **Proven Effectiveness**: tested over time and evolved based on user and designer feedback
+- **Efficient Development**: saves time by providing starting frameworks rather than building from scratch
 
 ## Choosing the right structure
 
@@ -208,7 +208,7 @@ Common website structures help users browse more efficiently by providing famili
 - Most websites use **combinations** of multiple structures
 - Flexibility to blend structures for specific project requirements
 - Can go beyond these models for unique brand requirements
-- **Critical**: Users must be able to easily and effectively navigate the website
+- **Critical**: users must be able to easily and effectively navigate the website
 
 # Sitemaps
 
@@ -231,9 +231,9 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ## Sitemap structure (hierarchical example)
 
-- **Top rectangle**: Homepage (user entry point)
-- **Row of rectangles below**: Main categories connected to homepage
-- **Columns below categories**: Subcategories for each main category
+- **Top rectangle**: homepage (user entry point)
+- **Row of rectangles below**: main categories connected to homepage
+- **Columns below categories**: subcategories for each main category
 
 ## Building a sitemap
 
@@ -253,7 +253,7 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 - Select from: hierarchical, sequential, matrix, or database
 - Can use combination of structures
 - Example: Library website uses hierarchical structure (homepage with connected pages)
-- **Pro Tip**: Use templates based on common structures to jumpstart process
+- **Pro Tip**: use templates based on common structures to jumpstart process
 
 ### Step 4: Start with homepage
 - Homepage is the access point and first user experience
@@ -278,8 +278,8 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 
 ## Sitemap types by website size
 
-- **Flat sitemaps**: Small websites (under 100 pages) with maximum 4 vertical levels
-- **Deep sitemaps**: Large websites (1,000+ pages) with 5 or more vertical levels
+- **Flat sitemaps**: small websites (under 100 pages) with maximum 4 vertical levels
+- **Deep sitemaps**: large websites (1,000+ pages) with 5 or more vertical levels
 
 # Homepage layouts
 
@@ -295,35 +295,35 @@ Always select the layout that best serves your users and project goals rather th
 
 ## 1. Single-column
 
-- **Structure**: One vertical column for content
-- **Characteristics**: Simplest layout option with logical top-to-bottom stacking (navigation → content → footer)
-- **Best for**: Mobile websites, reading-focused content, emphasizing one main element
-- **Advantage**: Easy scrolling and focus on text
+- **Structure**: one vertical column for content
+- **Characteristics**: simplest layout option with logical top-to-bottom stacking (navigation → content → footer)
+- **Best for**: mobile websites, reading-focused content, emphasizing one main element
+- **Advantage**: easy scrolling and focus on text
 
 ## 2. Multicolumn
 
-- **Structure**: Two or more columns for content
-- **Key element**: Clear **focal point** (specific area capturing user attention)
-- **Content distribution**: Supporting content occupies 25-45% of page
-- **Design principle**: Uses visual weight and hierarchy
-- **Common use**: Desktop websites, above-the-fold content display
-- **Pro tip**: One column often reserved for ad space
+- **Structure**: two or more columns for content
+- **Key element**: clear **focal point** (specific area capturing user attention)
+- **Content distribution**: supporting content occupies 25-45% of page
+- **Design principle**: uses visual weight and hierarchy
+- **Common use**: desktop websites, above-the-fold content display
+- **Pro tip**: one column often reserved for ad space
 
 ## 3. Box
 
-- **Structure**: Boxes/squares of varying sizes and proportions
-- **Visual equality**: Same-sized, evenly-spaced boxes = equal importance
-- **Emphasis technique**: Larger or separated boxes draw attention
-- **Common applications**: E-commerce homepages (e.g., Amazon), UX portfolios, seasonal content rotation
-- **Advantage**: Easy content swapping
+- **Structure**: boxes/squares of varying sizes and proportions
+- **Visual equality**: same-sized, evenly-spaced boxes = equal importance
+- **Emphasis technique**: larger or separated boxes draw attention
+- **Common applications**: e-commerce homepages (e.g., Amazon), UX portfolios, seasonal content rotation
+- **Advantage**: easy content swapping
 
 ## 4. Featured image (Single image)
 
-- **Structure**: Single dominant image/video occupying entire page
-- **Purpose**: Create strong first impression and emotional connection
-- **Requirements**: High-quality, message-relevant imagery
-- **Navigation**: Often includes sticky/fixed menu bar
-- **Best for**: Product pages, brand storytelling
+- **Structure**: single dominant image/video occupying entire page
+- **Purpose**: create strong first impression and emotional connection
+- **Requirements**: high-quality, message-relevant imagery
+- **Navigation**: often includes sticky/fixed menu bar
+- **Best for**: product pages, brand storytelling
 
 ## 5. Asymmetrical
 
@@ -331,33 +331,33 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 
 ### **F-Shape Eye-Tracking Pattern**
 
-- **User behavior**: Browse content following F-shape
-- **Best for**: Text-heavy pages, search results
-- **Design priority**: Most important information at top
-- **User tendency**: Won't read to bottom
+- **User behavior**: browse content following F-shape
+- **Best for**: text-heavy pages, search results
+- **Design priority**: most important information at top
+- **User tendency**: won't read to bottom
 
 ### **Z-Shape Eye-Tracking Pattern**
 
-- **User behavior**: Left to right → diagonal left → right again
-- **Natural pattern**: Mimics Western left-to-right, top-to-bottom reading
-- **Best for**: Sites with less content
-- **Accessibility note**: Users with visual impairments follow same patterns with assistive technology
+- **User behavior**: left to right → diagonal left → right again
+- **Natural pattern**: mimics Western left-to-right, top-to-bottom reading
+- **Best for**: sites with less content
+- **Accessibility note**: users with visual impairments follow same patterns with assistive technology
 
 ## 6. Grid of Cards
 
-- **Structure**: Series of uniform-sized rectangular cards previewing content
-- **Distinction from box layout**: Cards are interrelated within same list (vs. independent boxes)
-- **Technical features**: Card/list view switching, lazy loading
-- **Responsive design**: Card size adapts to screen size
-- **Common applications**: Recipe blogs, streaming services (YouTube, Pinterest, TED)
+- **Structure**: series of uniform-sized rectangular cards previewing content
+- **Distinction from box layout**: cards are interrelated within same list (vs. independent boxes)
+- **Technical features**: card/list view switching, lazy loading
+- **Responsive design**: card size adapts to screen size
+- **Common applications**: recipe blogs, streaming services (YouTube, Pinterest, TED)
 
 ## 7. Tiered Layer Cake
 
-- **Structure**: Stacked horizontal rows with varying column counts per layer
-- **Flexibility**: Inconsistent column numbers across layers
-- **Responsive design advantage**: Layers easily rearranged or swapped for different screen sizes
-- **Distinction**: No all-encompassing container or long sidebars (unlike multicolumn)
-- **Desktop to mobile**: Multiple columns collapse to single column
+- **Structure**: stacked horizontal rows with varying column counts per layer
+- **Flexibility**: inconsistent column numbers across layers
+- **Responsive design advantage**: layers easily rearranged or swapped for different screen sizes
+- **Distinction**: no all-encompassing container or long sidebars (unlike multicolumn)
+- **Desktop to mobile**: multiple columns collapse to single column
 
 ## Takeways
 
@@ -462,8 +462,8 @@ When adapting for responsive layouts, verify:
 - **Remove** non-essential UI components
 - **Maintain** critical elements
 - **Shift** positions or change formats
-- **Space-saving elements**: Hamburger menus, cards, carousels
-- **Reduce clutter**: Prioritize usability and accessibility
+- **Space-saving elements**: hamburger menus, cards, carousels
+- **Reduce clutter**: prioritize usability and accessibility
 
 ## Sketching paper wireframes
 
@@ -709,10 +709,10 @@ Headings are titles or subtitles that organize website content into clear sectio
 ### Placement and usage
 
 **Heading hierarchy:**
-- **H1**: Main page title (one per page)
-- **H2**: Major section headings
-- **H3**: Subsections within H2 sections
-- **H4-H6**: Further nested subsections as needed
+- **H1**: main page title (one per page)
+- **H2**: major section headings
+- **H3**: subsections within H2 sections
+- **H4-H6**: further nested subsections as needed
 
 **Best practices:**
 - Never skip heading levels (H1 → H2 → H3, not H1 → H3)
@@ -757,9 +757,9 @@ The hamburger menu icon toggles hidden navigation menus, primarily for responsiv
 ### Placement and usage
 
 **Optimal placement:**
-- **Mobile**: Top-left corner (most common) or top-right corner (RTL interfaces)
-- **Desktop/Tablet**: Less common; used in header when full navigation doesn't fit
-- **Fixed position**: Often remains visible while scrolling
+- **Mobile**: top-left corner (most common) or top-right corner (RTL interfaces)
+- **Desktop/Tablet**: less common; used in header when full navigation doesn't fit
+- **Fixed position**: often remains visible while scrolling
 
 **When to Use:**
 - Mobile-first responsive websites
@@ -794,21 +794,21 @@ Common uses: product listings, article previews, user profiles, dashboard widget
 ### Functionality
 
 **Interaction types:**
-- **Clickable**: Entire card navigates to detail page
-- **Action-based**: Multiple buttons for specific actions
-- **Informational**: Display-only with possible interactive elements
-- **Expandable**: Reveals additional content on interaction
-- **Selectable**: Multi-select with checkboxes
+- **Clickable**: entire card navigates to detail page
+- **Action-based**: multiple buttons for specific actions
+- **Informational**: display-only with possible interactive elements
+- **Expandable**: reveals additional content on interaction
+- **Selectable**: multi-select with checkboxes
 
 **Features:** Dynamic updates, lazy loading, filtering/sorting, keyboard navigation, screen reader support, semantic HTML with ARIA labels, minimum touch targets (44x44px)
 
 ### Placement and usage
 
 **Layout patterns:**
-- **Grid**: Responsive columns (1 mobile, 2-3 tablet, 3-4 desktop) with 16-32px gaps
-- **List/Feed**: Single column, full-width stacked vertically
-- **Masonry**: Variable heights for dynamic layouts
-- **Dashboard**: Mixed sizes (1x1, 2x1, 2x2) for metrics
+- **Grid**: responsive columns (1 mobile, 2-3 tablet, 3-4 desktop) with 16-32px gaps
+- **List/Feed**: single column, full-width stacked vertically
+- **Masonry**: variable heights for dynamic layouts
+- **Dashboard**: mixed sizes (1x1, 2x1, 2x2) for metrics
 
 **Best practices:**
 - Keep content concise and scannable
@@ -847,11 +847,11 @@ Common uses: featured content highlights, product showcases, image galleries, te
 ### Functionality
 
 **Navigation methods:**
-- **Arrow buttons**: Previous/next controls on left/right edges
-- **Indicator dots**: Clickable position markers below carousel
-- **Touch gestures**: Swipe left/right on mobile devices
-- **Keyboard**: Arrow keys for navigation, Tab for focus
-- **Auto-play**: Automatic rotation with configurable interval (3-5 seconds typical)
+- **Arrow buttons**: previous/next controls on left/right edges
+- **Indicator dots**: clickable position markers below carousel
+- **Touch gestures**: swipe left/right on mobile devices
+- **Keyboard**: arrow keys for navigation, Tab for focus
+- **Auto-play**: automatic rotation with configurable interval (3-5 seconds typical)
 
 **Features:** Infinite loop (cycles back to start), pause on hover/interaction, lazy loading for performance, responsive resizing, optional thumbnails preview
 
@@ -860,10 +860,10 @@ Common uses: featured content highlights, product showcases, image galleries, te
 ### Placement and usage
 
 **Layout patterns:**
-- **Hero section**: Full-width at top of page for featured content
-- **Product gallery**: Product detail pages with image carousel
-- **Content showcase**: Homepage sections highlighting features or offerings
-- **Testimonials**: Customer reviews or quotes rotation
+- **Hero section**: full-width at top of page for featured content
+- **Product gallery**: product detail pages with image carousel
+- **Content showcase**: homepage sections highlighting features or offerings
+- **Testimonials**: customer reviews or quotes rotation
 
 **Best practices:**
 - Limit to 3-7 slides for optimal engagement
@@ -903,11 +903,11 @@ Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, na
 ### Functionality
 
 **Primary actions:**
-- **Submit forms**: Complete purchases, registrations, or data submissions
-- **Navigate**: Direct users to landing pages, product details, or key sections
-- **Download**: Trigger file downloads or app installations
-- **Share/Save**: Enable social sharing or content bookmarking
-- **Contact**: Open contact forms, chat, or email clients
+- **Submit forms**: complete purchases, registrations, or data submissions
+- **Navigate**: direct users to landing pages, product details, or key sections
+- **Download**: trigger file downloads or app installations
+- **Share/Save**: enable social sharing or content bookmarking
+- **Contact**: open contact forms, chat, or email clients
 
 **Interaction behavior:** Single click/tap triggers action, provides immediate feedback (loading states, confirmation messages), prevents double-submission, accessible via keyboard (Enter/Space)
 
@@ -916,11 +916,11 @@ Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, na
 ### Placement and usage
 
 **Strategic placement:**
-- **Hero section**: Primary CTA above the fold for maximum visibility
-- **End of content**: After value proposition or product description
-- **Navigation bar**: Top-right corner for persistent access
-- **Modals/Forms**: Bottom-right or centered for form submission
-- **Cards**: Bottom or top-right within card boundaries
+- **Hero section**: primary CTA above the fold for maximum visibility
+- **End of content**: after value proposition or product description
+- **Navigation bar**: top-right corner for persistent access
+- **Modals/Forms**: bottom-right or centered for form submission
+- **Cards**: bottom or top-right within card boundaries
 
 **Best practices:**
 - One primary CTA per section to avoid confusion
@@ -972,9 +972,9 @@ Search → magnifying glass, Shopping Cart → cart, User Account → person/ava
 ### Placement and usage
 
 **Optimal placement:**
-- **Top navigation**: Primary actions (search, cart, account) right-aligned
+- **Top navigation**: primary actions (search, cart, account) right-aligned
 - **Bottom navigation**: 3-5 main sections as icon-only tabs
-- **Floating action buttons**: Primary action icon prominently displayed
+- **Floating action buttons**: primary action icon prominently displayed
 
 **When to use icons:** Screen width under 768px, universally recognized actions, repeated actions across screens, status indicators requiring minimal space
 
@@ -1012,6 +1012,221 @@ Desktop (text + icons), Tablet (selective mix), Mobile (icon-only for secondary 
    - Need to drive conversions?
    - Consider: CTA buttons
 
+# Gestalt principles
+
+## What are Gestalt principles?
+
+Originating from Gestalt psychology in the 1920s, these principles explain how people naturally group visual elements, recognize patterns, and simplify complex images into organized, meaningful wholes.
+
+Gestalt principles guide how UX designers organize interface elements to create intuitive, visually coherent experiences that align with natural human perception patterns.
+
+## Why they matter?
+
+- **Reduces cognitive load**: helps users process information faster by leveraging natural perception patterns
+- **Improves usability**: creates intuitive interfaces that feel natural to navigate
+- **Enhances visual hierarchy**: guides user attention to important elements
+- **Increases comprehension**: makes complex information easier to understand
+- **Strengthens communication**: ensures design intent matches user perception
+- **Creates visual harmony**: produces aesthetically pleasing, organized layouts
+
+## 1. Proximity
+
+**Definition**: Elements close to each other are perceived as related or belonging to the same group.
+
+**How it works:**
+- Spatial distance indicates relationships between elements
+- Closer elements = stronger perceived connection
+- White space separates unrelated groups
+
+**UX applications:**
+- Group form labels with their input fields
+- Cluster navigation items into logical sections
+- Separate content blocks with white space
+- Position related buttons together (e.g., "Save" and "Cancel")
+
+**Example**: Navigation menus group related links together with spacing between different categories.
+
+**Best practices:**
+- Use consistent spacing within groups
+- Increase spacing between unrelated elements (at least 1.5x internal spacing)
+- Don't rely on proximity alone for critical relationships
+
+## 2. Similarity
+
+**Definition**: Elements sharing visual characteristics (color, shape, size, orientation) are perceived as related or part of the same group.
+
+**How it works:**
+- Similar visual appearance suggests similar function or category
+- Works across multiple attributes: color, shape, size, texture, typography
+- Overrides proximity when strong enough
+
+**UX applications:**
+- Use consistent button styles for similar actions
+- Apply same color to all clickable links
+- Match card designs for similar content types
+- Unify icon styles throughout interface
+
+**Example**: All primary CTA buttons share the same color and style, making them instantly recognizable.
+
+**Best practices:**
+- Maintain consistent styling for same element types
+- Use visual differences to indicate different functions
+- Don't make unrelated elements look similar
+
+## 3. Closure
+
+**Definition**: People mentally complete incomplete shapes or patterns, filling in missing information to perceive whole objects.
+
+**How it works:**
+- Brain fills gaps to see complete forms
+- Works with interrupted lines, partial shapes, negative space
+- Allows simplified, minimal designs
+
+**UX applications:**
+- Use incomplete circles for loading indicators
+- Create icons with minimal lines that suggest full shapes
+- Design logos with negative space
+- Employ progress indicators with partial fills
+
+**Example**: Hamburger menu icon (three lines) suggests a complete menu without showing all elements.
+
+**Best practices:**
+- Ensure missing parts are predictable
+- Don't make users work too hard to complete the image
+- Test with users to verify recognizability
+
+## 4. Continuity (Continuation)
+
+**Definition**: Elements arranged on a line or curve are perceived as related and following a path, and the eye naturally follows continuous lines.
+
+**How it works:**
+- Eyes follow smooth paths rather than jumping between disconnected elements
+- Prefers continuous, flowing arrangements
+- Creates visual flow and direction
+
+**UX applications:**
+- Design navigation bars with linear arrangement
+- Create visual flow through page layouts (F-pattern, Z-pattern)
+- Connect related elements with lines or arrows
+- Design step indicators showing sequential progress
+
+**Example**: Breadcrumb navigation creates continuous path showing user location.
+
+**Best practices:**
+- Align elements along clear paths (horizontal, vertical, curved)
+- Use continuation to guide eye movement toward important content
+- Avoid disrupting natural flow with misaligned elements
+
+## 5. Figure/Ground (Figure-Ground)
+
+**Definition**: People instinctively separate visual elements into foreground (figure) and background (ground), distinguishing objects from their surroundings.
+
+**How it works:**
+- Creates depth and focal hierarchy
+- Contrast helps define figure vs. ground
+- Can be ambiguous or clearly defined
+
+**UX applications:**
+- Use modal overlays with darkened backgrounds
+- Create cards with shadows to lift content from background
+- Design hero sections with contrasting foreground text
+- Employ color contrast to highlight interactive elements
+
+**Example**: Modal dialogs appear as figures over dimmed background, focusing user attention.
+
+**Best practices:**
+- Ensure sufficient contrast between figure and ground (4.5:1 for text)
+- Use shadows, borders, or color to define separation
+- Make important elements clearly distinguishable from background
+
+## 6. Common fate
+
+**Definition**: Elements moving in the same direction, at the same speed, or changing together are perceived as a unified group.
+
+**How it works:**
+- Synchronized movement creates perceived relationship
+- Applies to animation, scrolling, transitions
+- Overrides static grouping principles when active
+
+**UX applications:**
+- Animate related elements together (e.g., menu items sliding in)
+- Scroll related content in sync (parallax effects)
+- Show grouped items responding to same interaction
+- Transition card sets simultaneously
+
+**Example**: Notification cards dismissing together when "Clear All" is clicked.
+
+**Best practices:**
+- Use consistent animation timing for related elements
+- Keep animations smooth and synchronized
+- Don't overuse—can become distracting
+
+## 7. Symmetry
+
+**Definition**: Symmetrical elements are perceived as belonging together and forming coherent, stable shapes, even when separated by distance.
+
+**How it works:**
+- Creates sense of balance and order
+- Brain naturally seeks symmetrical patterns
+- Can be vertical, horizontal, or radial symmetry
+
+**UX applications:**
+- Center-align logos and headlines for balance
+- Create symmetrical button layouts (e.g., "Cancel" and "Confirm")
+- Design balanced grid layouts
+- Use symmetrical icon designs
+
+**Example**: Login forms with vertically symmetrical input fields create organized, balanced appearance.
+
+**Best practices:**
+- Use symmetry for formal, professional designs
+- Break symmetry intentionally to draw attention
+- Balance symmetry with visual interest
+
+## 8. Common region
+
+**Definition**: Elements enclosed within the same boundary (border, background color, container) are perceived as grouped together.
+
+**How it works:**
+- Visible boundaries create strong grouping
+- Works with boxes, borders, background colors, containers
+- One of the strongest grouping principles
+
+**UX applications:**
+- Use cards to contain related information
+- Create bordered sections for form groups
+- Apply background colors to distinguish content areas
+- Design panels or containers for widgets
+
+**Example**: Dashboard widgets enclosed in bordered cards clearly separate different data sets.
+
+**Best practices:**
+- Use subtle borders or backgrounds (avoid heavy visual weight)
+- Ensure clear visual separation between regions
+- Don't over-containerize—can create cluttered appearance
+
+## Applying Gestalt principles in practice
+
+Effective UX design typically combines multiple Gestalt principles simultaneously:
+
+- **Navigation menus**: proximity (grouped items) + Similarity (consistent styling) + Common Region (bordered containers)
+- **Form design**: proximity (labels near inputs) + Common Region (fieldsets) + Continuity (vertical flow)
+- **Card layouts**: common Region (borders) + Similarity (uniform cards) + Proximity (grouped within sections)
+
+1. **Audit existing designs**: Identify which principles are (or aren't) being applied
+2. **Plan visual groupings**: Decide which elements should be perceived together
+3. **Use consistent patterns**: Apply principles consistently across entire interface
+4. **Test with users**: Verify that perceived groupings match intended organization
+5. **Iterate based on feedback**: Adjust spacing, styling, and organization as needed
+
+## Common mistakes to avoid
+
+- **Inconsistent spacing**: undermines proximity principle
+- **Too many visual styles**: confuses similarity-based groupings
+- **Overcrowding**: prevents clear figure/ground separation
+- **Breaking expected patterns**: disrupts continuity and flow
+- **Over-reliance on single principle**: combine multiple principles for clarity
+
 # Image attributions
 
 - Responsive design
@@ -1031,3 +1246,5 @@ Desktop (text + icons), Tablet (selective mix), Mobile (icon-only for secondary 
   - https://www.pexels.com/pl-pl/zdjecie/partie-ksiazek-na-drewnianej-polce-1565245/
 - Common website UI components
   - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/
+- Gestalt principles
+  - https://www.pexels.com/pl-pl/zdjecie/mezczyzna-ubrany-w-niebieska-koszule-sukienka-naprzeciw-tablicy-1181343/
