@@ -20,7 +20,7 @@ Responsive web design allows a website to automatically adapt its appearance bas
 2. **UX designer job market**
    - 90% of UX designers work on websites or web-based applications
    - 76% work on mobile apps
-   - WResponsive web design skills make portfolios more attractive to employers
+   - Responsive web design skills make portfolios more attractive to employers
 3. **Easy screen adaptation**
    - Layouts adapt seamlessly to any screen size
    - Increases usability across all devices
@@ -51,7 +51,7 @@ Both approaches have their place in UX design. Understanding the trade-offs help
 - Takes up device storage space
 - Challenging for devices with limited storage
 
-### Responsive Web Apps
+### Responsive web apps
 
 **Responsive web app** is a website accessed through mobile browser and it adapts to device.
 
@@ -177,7 +177,7 @@ Effective information architecture should be informed by:
 - **Example**: Car insurance quote forms, online surveys
 - **Purpose**: Move users toward an end goal through sequential steps
 
-### 3. **Matrix model** (Web Model)
+### 3. **Matrix model** (Web model)
 
 - **Structure**: Content linked in multiple ways, allowing users to follow their own path
 - **Navigation**: Users can access any page while still reaching all other pages
@@ -229,7 +229,7 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 5. **Search engine indexing**: Helps Google and other search engines understand site content
 6. **Accessibility**: Creates organized flow for all users, especially those using assistive technology
 
-## Sitemap Structure (hierarchical example)
+## Sitemap structure (hierarchical example)
 
 - **Top rectangle**: Homepage (user entry point)
 - **Row of rectangles below**: Main categories connected to homepage
@@ -495,9 +495,9 @@ When adapting for responsive layouts, verify:
 
 **"Above the fold"** is content on webpage that doesn't require scrolling to experience.
 
-## Transition to digital versions
+## Lorem Ipsum
 
-After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping. At this point placeholders should be filled with images or components.
+**Lorem Ipsum** is placeholder text used in design to fill space where real content will eventually go. Lorem ipsum allows designers to visualize text-heavy areas without being distracted by actual content meaning.
 
 ## Best practices
 
@@ -508,6 +508,54 @@ After completing paper wireframes for all screen sizes, transition to digital wi
 5. **Progressive refinement**: Paper sketches → digital wireframes
 6. **Use standard visual conventions** - Improves communication with team members
 7. **Always reference sitemap** - Ensures all required elements are included
+
+## Transition to digital versions
+
+After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping. At this point placeholders should be filled with images or components.
+
+### Applying layout grid in Figma
+
+1. **Select Frame**
+   - Click on frame where layout grid is needed
+   - Ensure correct frame is active
+
+2. **Access Layout Grid Section**
+   - Right-hand sidebar
+   - Find **Layout Grid** section
+   - Click **"+" button** to create new grid
+
+3. **Open Grid Panel**
+   - Click **grid icon** to left of new grid
+   - Opens detailed grid settings panel
+
+4. **Change View to Columns**
+   - Use drop-down menu
+   - Change from **Grid** to **Columns**
+   - This creates columnar structure
+
+5. **Adjust Grid Properties**
+   - Enter **count** of columns
+   - Choose **color** for visibility
+   - Adjust other properties:
+     * Type
+     * Width
+     * Gutter size
+   - Customize according to design requirements
+
+6. **Finalize Settings**
+   - Close panel when complete
+   - Or click outside grid settings panel
+   - Grid now active on frame
+
+### Tips
+
+- Upload paper wireframe photos to Figma for constant reference
+- Set up grid system once, then duplicate frame for other pages
+- Create reusable components for repeated elements (navigation, footer)
+- Use keyboard shortcuts
+- Use same placeholder conventions across all pages
+- Keep visual hierarchy consistent
+- Apply same fold principles to every page
 
 # Example wireframe
 
@@ -618,7 +666,7 @@ Once you've identified the best parts, combine them into one new wireframe.
 
 | Element | Description | Use Case |
 |---------|-------------|----------|
-| **Hamburger Menus** | Collapsible navigation with three-line icon. Hide full navigation lists behind a clickable icon, revealing them only when needed (vs. showing all navigation links at once) | Condenses navigation lists for small screens |
+| **Hamburger menus** | Collapsible navigation with three-line icon. Hide full navigation lists behind a clickable icon, revealing them only when needed (vs. showing all navigation links at once) | Condenses navigation lists for small screens |
 | **Cards** | Surfaces containing content about a single subject. Fit related information into compact, stackable units that can be arranged efficiently in vertical columns on narrow screens | Organizes information in scannable, stackable units |
 | **Carousels** | Scrollable feeds of images or cards. Allow multiple images/items to occupy the same horizontal space by letting users swipe through them sequentially (vs. displaying all items side-by-side) | Displays multiple items in limited horizontal space |
 | **CTA buttons** | Call-to-action buttons that prompt users to take specific actions. Feature prominent styling with action-oriented text (e.g., "Get Started", "Buy Now", "Sign Up") to drive conversions and guide users toward desired outcomes | Drives user actions and conversions with clear, visible prompts |
