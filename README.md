@@ -1014,6 +1014,8 @@ Desktop (text + icons), Tablet (selective mix), Mobile (icon-only for secondary 
 
 # Gestalt principles
 
+![Gestalt principles](/images/gestalt-principles.png)
+
 ## What are Gestalt principles?
 
 Originating from Gestalt psychology in the 1920s, these principles explain how people naturally group visual elements, recognize patterns, and simplify complex images into organized, meaningful wholes.
