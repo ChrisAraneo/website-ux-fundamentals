@@ -683,13 +683,10 @@ Headings are titles or subtitles that organize website content into clear sectio
 
 ### Visual characteristics
 
-**Structure:**
 - Larger font size than body text (H1: 32-48px, H2: 24-32px, H3: 20-24px)
 - Bolder weight than surrounding text (600-700)
 - Increased spacing above and below (16-32px margins)
 - Clear visual hierarchy showing importance levels
-
-**Variations:** Different sizes for heading levels (H1-H6), color variations, underlines or dividers
 
 ### Functionality
 
@@ -728,15 +725,12 @@ The hamburger menu icon toggles hidden navigation menus, primarily for responsiv
 
 ### Visual characteristics
 
-**Structure:**
 - Three horizontal lines stacked vertically with equal spacing
 - Uniform line thickness and equal length
 - Minimal, unambiguous design
 - Monochromatic, matching site color scheme
 - Square aspect ratio (approximately 1:1)
 - Typical size: 24x24px to 48x48px
-
-**Variations:** Rounded ends, animated transformations to "X" or arrow when activated
 
 ### Functionality
 
@@ -1045,6 +1039,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Position related buttons together (e.g., "Save" and "Cancel")
 
 **Example:**
+
 Navigation menus group related links together with spacing between different categories.
 
 **Best practices:**
@@ -1068,6 +1063,7 @@ Navigation menus group related links together with spacing between different cat
 - Unify icon styles throughout interface
 
 **Example:**
+
 All primary CTA buttons share the same color and style, making them instantly recognizable.
 
 **Best practices:**
@@ -1091,6 +1087,7 @@ All primary CTA buttons share the same color and style, making them instantly re
 - Employ progress indicators with partial fills
 
 **Example:**
+
 Hamburger menu icon (three lines) suggests a complete menu without showing all elements.
 
 **Best practices:**
@@ -1114,6 +1111,7 @@ Hamburger menu icon (three lines) suggests a complete menu without showing all e
 - Design step indicators showing sequential progress
 
 **Example:**
+
 Breadcrumb navigation creates continuous path showing user location.
 
 **Best practices:**
@@ -1137,6 +1135,7 @@ Breadcrumb navigation creates continuous path showing user location.
 - Employ color contrast to highlight interactive elements
 
 **Example:**
+
 Modal dialogs appear as figures over dimmed background, focusing user attention.
 
 **Best practices:**
@@ -1160,6 +1159,7 @@ Modal dialogs appear as figures over dimmed background, focusing user attention.
 - Transition card sets simultaneously
 
 **Example:**
+
 Notification cards dismissing together when "Clear All" is clicked.
 
 **Best practices:**
@@ -1183,6 +1183,7 @@ Notification cards dismissing together when "Clear All" is clicked.
 - Use symmetrical icon designs
 
 **Example:**
+
 Login forms with vertically symmetrical input fields create organized, balanced appearance.
 
 **Best practices:**
@@ -1206,6 +1207,7 @@ Login forms with vertically symmetrical input fields create organized, balanced 
 - Design panels or containers for widgets
 
 **Example:**
+
 Dashboard widgets enclosed in bordered cards clearly separate different data sets.
 
 **Best practices:**
@@ -1215,17 +1217,17 @@ Dashboard widgets enclosed in bordered cards clearly separate different data set
 
 ## Applying Gestalt principles in practice
 
-Effective UX design typically combines multiple Gestalt principles simultaneously:
+1. **Audit existing designs** - identify which principles are (or aren't) being applied
+2. **Plan visual groupings** - decide which elements should be perceived together
+3. **Use consistent patterns** - apply principles consistently across entire interface
+4. **Test with users** - verify that perceived groupings match intended organization
+5. **Iterate based on feedback** - adjust spacing, styling, and organization as needed
 
-- **Navigation menus** - proximity (grouped items) + Similarity (consistent styling) + Common Region (bordered containers)
-- **Form design** - proximity (labels near inputs) + Common Region (fieldsets) + Continuity (vertical flow)
-- **Card layouts** - common Region (borders) + Similarity (uniform cards) + Proximity (grouped within sections)
+## Using Gestalt principles in common components
 
-1. **Audit existing designs** - Identify which principles are (or aren't) being applied
-2. **Plan visual groupings** - Decide which elements should be perceived together
-3. **Use consistent patterns** - Apply principles consistently across entire interface
-4. **Test with users** - Verify that perceived groupings match intended organization
-5. **Iterate based on feedback** - Adjust spacing, styling, and organization as needed
+- **Navigation menus** - Proximity (grouped items) + Similarity (consistent styling) + Common Region (bordered containers)
+- **Form design** - Proximity (labels near inputs) + Common Region (fieldsets) + Continuity (vertical flow)
+- **Card layouts** - Common Region (borders) + Similarity (uniform cards) + Proximity (grouped within sections)
 
 ## Common mistakes to avoid
 
