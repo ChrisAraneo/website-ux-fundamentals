@@ -1044,7 +1044,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Separate content blocks with white space
 - Position related buttons together (e.g., "Save" and "Cancel")
 
-**Example** - Navigation menus group related links together with spacing between different categories.
+**Example:**
+Navigation menus group related links together with spacing between different categories.
 
 **Best practices:**
 - Use consistent spacing within groups
@@ -1066,7 +1067,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Match card designs for similar content types
 - Unify icon styles throughout interface
 
-**Example** - All primary CTA buttons share the same color and style, making them instantly recognizable.
+**Example:**
+All primary CTA buttons share the same color and style, making them instantly recognizable.
 
 **Best practices:**
 - Maintain consistent styling for same element types
@@ -1088,7 +1090,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Design logos with negative space
 - Employ progress indicators with partial fills
 
-**Example** - Hamburger menu icon (three lines) suggests a complete menu without showing all elements.
+**Example:**
+Hamburger menu icon (three lines) suggests a complete menu without showing all elements.
 
 **Best practices:**
 - Ensure missing parts are predictable
@@ -1110,7 +1113,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Connect related elements with lines or arrows
 - Design step indicators showing sequential progress
 
-**Example** - Breadcrumb navigation creates continuous path showing user location.
+**Example:**
+Breadcrumb navigation creates continuous path showing user location.
 
 **Best practices:**
 - Align elements along clear paths (horizontal, vertical, curved)
@@ -1132,7 +1136,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Design hero sections with contrasting foreground text
 - Employ color contrast to highlight interactive elements
 
-**Example** - Modal dialogs appear as figures over dimmed background, focusing user attention.
+**Example:**
+Modal dialogs appear as figures over dimmed background, focusing user attention.
 
 **Best practices:**
 - Ensure sufficient contrast between figure and ground (4.5:1 for text)
@@ -1154,7 +1159,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Show grouped items responding to same interaction
 - Transition card sets simultaneously
 
-**Example** - Notification cards dismissing together when "Clear All" is clicked.
+**Example:**
+Notification cards dismissing together when "Clear All" is clicked.
 
 **Best practices:**
 - Use consistent animation timing for related elements
@@ -1176,7 +1182,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Design balanced grid layouts
 - Use symmetrical icon designs
 
-**Example** - Login forms with vertically symmetrical input fields create organized, balanced appearance.
+**Example:**
+Login forms with vertically symmetrical input fields create organized, balanced appearance.
 
 **Best practices:**
 - Use symmetry for formal, professional designs
@@ -1198,7 +1205,8 @@ Gestalt principles guide how UX designers organize interface elements to create 
 - Apply background colors to distinguish content areas
 - Design panels or containers for widgets
 
-**Example** - Dashboard widgets enclosed in bordered cards clearly separate different data sets.
+**Example:**
+Dashboard widgets enclosed in bordered cards clearly separate different data sets.
 
 **Best practices:**
 - Use subtle borders or backgrounds (avoid heavy visual weight)
