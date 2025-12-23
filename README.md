@@ -1249,4 +1249,4 @@ Effective UX design typically combines multiple Gestalt principles simultaneousl
 - Common website UI components
   - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/
 - Gestalt principles
-  - https://www.pexels.com/pl-pl/zdjecie/mezczyzna-ubrany-w-niebieska-koszule-sukienka-naprzeciw-tablicy-1181343/
+  - https://unsplash.com/photos/N7G5xtR28fo
