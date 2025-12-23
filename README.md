@@ -1031,7 +1031,7 @@ Gestalt principles guide how UX designers organize interface elements to create 
 
 ## 1. Proximity
 
-**Definition** - Elements close to each other are perceived as related or belonging to the same group.
+***Elements close to each other are perceived as related or belonging to the same group.***
 
 **How it works:**
 - Spatial distance indicates relationships between elements
@@ -1054,7 +1054,7 @@ Navigation menus group related links together with spacing between different cat
 
 ## 2. Similarity
 
-**Definition** - Elements sharing visual characteristics (color, shape, size, orientation) are perceived as related or part of the same group.
+***Elements sharing visual characteristics (color, shape, size, orientation) are perceived as related or part of the same group.***
 
 **How it works:**
 - Similar visual appearance suggests similar function or category
@@ -1077,7 +1077,7 @@ All primary CTA buttons share the same color and style, making them instantly re
 
 ## 3. Closure
 
-**Definition** - People mentally complete incomplete shapes or patterns, filling in missing information to perceive whole objects.
+***People mentally complete incomplete shapes or patterns, filling in missing information to perceive whole objects.***
 
 **How it works:**
 - Brain fills gaps to see complete forms
@@ -1100,7 +1100,7 @@ Hamburger menu icon (three lines) suggests a complete menu without showing all e
 
 ## 4. Continuity (Continuation)
 
-**Definition** - Elements arranged on a line or curve are perceived as related and following a path, and the eye naturally follows continuous lines.
+***Elements arranged on a line or curve are perceived as related and following a path, and the eye naturally follows continuous lines.***
 
 **How it works:**
 - Eyes follow smooth paths rather than jumping between disconnected elements
@@ -1123,7 +1123,7 @@ Breadcrumb navigation creates continuous path showing user location.
 
 ## 5. Figure/Ground (Figure-Ground)
 
-**Definition** - People instinctively separate visual elements into foreground (figure) and background (ground), distinguishing objects from their surroundings.
+***People instinctively separate visual elements into foreground (figure) and background (ground), distinguishing objects from their surroundings.***
 
 **How it works:**
 - Creates depth and focal hierarchy
@@ -1146,7 +1146,7 @@ Modal dialogs appear as figures over dimmed background, focusing user attention.
 
 ## 6. Common fate
 
-**Definition** - Elements moving in the same direction, at the same speed, or changing together are perceived as a unified group.
+***Elements moving in the same direction, at the same speed, or changing together are perceived as a unified group.***
 
 **How it works:**
 - Synchronized movement creates perceived relationship
@@ -1169,7 +1169,7 @@ Notification cards dismissing together when "Clear All" is clicked.
 
 ## 7. Symmetry
 
-**Definition** - Symmetrical elements are perceived as belonging together and forming coherent, stable shapes, even when separated by distance.
+***Symmetrical elements are perceived as belonging together and forming coherent, stable shapes, even when separated by distance.***
 
 **How it works:**
 - Creates sense of balance and order
@@ -1192,7 +1192,7 @@ Login forms with vertically symmetrical input fields create organized, balanced 
 
 ## 8. Common region
 
-**Definition** - Elements enclosed within the same boundary (border, background color, container) are perceived as grouped together.
+***Elements enclosed within the same boundary (border, background color, container) are perceived as grouped together.***
 
 **How it works:**
 - Visible boundaries create strong grouping
