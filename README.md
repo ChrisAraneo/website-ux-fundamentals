@@ -670,11 +670,57 @@ Once you've identified the best parts, combine them into one new wireframe.
 
 | Element | Description | Use Case |
 |---------|-------------|----------|
+| **Headings** | Titles or subtitles that organize content into clear sections using hierarchical levels (H1-H6). Larger and bolder than body text with increased spacing to establish visual hierarchy and content structure | Organizes content for visual scanning and enables screen reader navigation to specific sections |
 | **Hamburger menus** | Collapsible navigation with three-line icon. Hide full navigation lists behind a clickable icon, revealing them only when needed (vs. showing all navigation links at once) | Condenses navigation lists for small screens |
 | **Cards** | Surfaces containing content about a single subject. Fit related information into compact, stackable units that can be arranged efficiently in vertical columns on narrow screens | Organizes information in scannable, stackable units |
 | **Carousels** | Scrollable feeds of images or cards. Allow multiple images/items to occupy the same horizontal space by letting users swipe through them sequentially (vs. displaying all items side-by-side) | Displays multiple items in limited horizontal space |
 | **CTA buttons** | Call-to-action buttons that prompt users to take specific actions. Feature prominent styling with action-oriented text (e.g., "Get Started", "Buy Now", "Sign Up") to drive conversions and guide users toward desired outcomes | Drives user actions and conversions with clear, visible prompts |
 | **Icons** | Simple visual symbols replacing text labels in mobile interfaces. Provide compact shortcuts for common actions (search, cart, account, menu) using universally recognized imagery instead of words | Maximizes limited screen space while maintaining functionality |
+
+## Headings
+
+### Purpose
+
+Headings are titles or subtitles that organize website content into clear sections and establish visual hierarchy. They help all users navigate and scan content efficiently while enabling screen reader users to jump directly to specific sections without experiencing the entire page sequentially.
+
+### Visual characteristics
+
+**Structure:**
+- Larger font size than body text (H1: 32-48px, H2: 24-32px, H3: 20-24px)
+- Bolder weight than surrounding text (600-700)
+- Increased spacing above and below (16-32px margins)
+- Clear visual hierarchy showing importance levels
+
+**Variations:** Different sizes for heading levels (H1-H6), color variations, underlines or dividers
+
+### Functionality
+
+**Visual hierarchy support:**
+- Creates clear organizational structure for sighted users
+- Guides eye movement through page content
+- Enables quick content scanning and comprehension
+
+**Screen reader navigation:**
+- Screen readers navigate via headings menu
+- Users listen to list of all headings at once
+- Users jump directly to desired heading
+- Dramatically faster than listening to entire page
+
+### Placement and usage
+
+**Heading hierarchy:**
+- **H1**: Main page title (one per page)
+- **H2**: Major section headings
+- **H3**: Subsections within H2 sections
+- **H4-H6**: Further nested subsections as needed
+
+**Best practices:**
+- Never skip heading levels (H1 → H2 → H3, not H1 → H3)
+- Don't use headings for styling only
+- Maintain logical document outline
+- Keep heading text concise (5-10 words maximum)
+- Annotate heading levels in wireframes for developer handoff
+- Test with screen readers to verify navigation flow
 
 ## Hamburger menu icon
 
