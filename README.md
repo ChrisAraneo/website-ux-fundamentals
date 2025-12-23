@@ -499,6 +499,10 @@ When adapting for responsive layouts, verify:
 
 **Lorem Ipsum** is placeholder text used in design to fill space where real content will eventually go. Lorem ipsum allows designers to visualize text-heavy areas without being distracted by actual content meaning.
 
+## Icon placeholders
+
+Icon placeholders are visual markers used in wireframes to indicate where icons will appear in the final design. They help designers plan layout and spacing for functional icons without committing to specific icon designs during the wireframing phase.
+
 ## Best practices
 
 1. **Focus on structure, not aesthetics** - Detailed design comes later
@@ -670,6 +674,7 @@ Once you've identified the best parts, combine them into one new wireframe.
 | **Cards** | Surfaces containing content about a single subject. Fit related information into compact, stackable units that can be arranged efficiently in vertical columns on narrow screens | Organizes information in scannable, stackable units |
 | **Carousels** | Scrollable feeds of images or cards. Allow multiple images/items to occupy the same horizontal space by letting users swipe through them sequentially (vs. displaying all items side-by-side) | Displays multiple items in limited horizontal space |
 | **CTA buttons** | Call-to-action buttons that prompt users to take specific actions. Feature prominent styling with action-oriented text (e.g., "Get Started", "Buy Now", "Sign Up") to drive conversions and guide users toward desired outcomes | Drives user actions and conversions with clear, visible prompts |
+| **Icons** | Simple visual symbols replacing text labels in mobile interfaces. Provide compact shortcuts for common actions (search, cart, account, menu) using universally recognized imagery instead of words | Maximizes limited screen space while maintaining functionality |
 
 ## Hamburger menu icon
 
@@ -884,6 +889,60 @@ Common uses: Sign-ups, purchases, downloads, subscriptions, form submissions, na
 **When to avoid:** Overusing multiple CTAs that compete for attention, unclear value proposition, premature asks before establishing trust
 
 **Common types:** Primary CTA (most important action), secondary CTA (alternative action), tertiary CTA (low-priority action), floating/sticky CTA (persistent visibility)
+
+## Icons
+
+### Purpose
+
+Icons replace text labels in mobile interfaces to maximize limited screen space while maintaining functionality. They serve as compact visual shortcuts for quick recognition and interaction, reducing clutter and improving navigation efficiency on small screens.
+
+### Visual characteristics
+
+**Structure:**
+- Simple, recognizable symbols representing actions or concepts
+- Minimal visual complexity for quick comprehension
+- Consistent visual style across entire interface
+- Monochromatic or limited color palette
+- Typical size: 24x24px to 48x48px
+
+**Variations:** Filled vs. outlined styles, active vs. inactive states, labeled icons (icon + minimal text), icon badges (notification counters)
+
+### Functionality
+
+**Space efficiency:**
+- Reduces horizontal space by 60-80% compared to text labels
+- Allows more navigation options in limited screen width
+- Frees vertical space for primary content
+
+**User benefits:**
+- Faster visual scanning than reading text
+- Language-independent communication
+- Instant recognition for common actions
+- Reduced cognitive load through familiar symbols
+
+**Common icon replacements:**
+Search → magnifying glass, Shopping Cart → cart, User Account → person/avatar, Menu → hamburger, Share → share arrow, Favorites → heart, Settings → gear, Home → house
+
+### Placement and usage
+
+**Optimal placement:**
+- **Top navigation**: Primary actions (search, cart, account) right-aligned
+- **Bottom navigation**: 3-5 main sections as icon-only tabs
+- **Floating action buttons**: Primary action icon prominently displayed
+
+**When to use icons:** Screen width under 768px, universally recognized actions, repeated actions across screens, status indicators requiring minimal space
+
+**When to keep text:** Primary CTAs (conversions matter), unfamiliar actions, complex concepts, first-time experiences, accessibility-critical actions
+
+**Best practices:**
+- Use standard, widely-recognized icons
+- Maintain minimum 44x44px touch targets
+- Provide aria-label for screen readers
+- Test icon recognition with users
+- Ensure 3:1 minimum color contrast
+
+**Responsive strategy:**
+Desktop (text + icons), Tablet (selective mix), Mobile (icon-only for secondary actions, labeled for primary CTAs)
 
 ## Choosing components for your project
 
