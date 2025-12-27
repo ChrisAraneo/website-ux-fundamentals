@@ -1212,7 +1212,9 @@ Dashboard widgets enclosed in bordered cards clearly separate different data set
 - **Breaking expected patterns** - disrupts continuity and flow
 - **Over-reliance on single principle** - combine multiple principles for clarity
 
-# Low-fidelity Prototypes
+# Low-fidelity prototypes
+
+![Low-fidelity prototypes](/images/low-fidelity-prototypes.png)
 
 ## What are prototypes?
 
@@ -1331,3 +1333,5 @@ When evaluating your own low-fidelity prototype, ask yourself:
   - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/
 - Gestalt principles
   - https://unsplash.com/photos/N7G5xtR28fo
+- Low-fidelity prototypes
+  - https://www.pexels.com/pl-pl/zdjecie/selektywna-ostrosc-fotografii-zoltego-samochodu-zabawkowego-243206/
