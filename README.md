@@ -1312,6 +1312,171 @@ When evaluating your own low-fidelity prototype, ask yourself:
 
 # Mockups
 
+## Mockups vs wireframes
+
+Wireframes are simple sketches or outlines that show the basic structure and layout of a screen or product. You can draw them on paper or create them digitally, but they don't include colors or detailed design elements.
+
+Mockups are more polished versions that look closer to the final product. They include colors, fonts, and icons to show what the design will actually look like, but you can't click or interact with them yet.
+
+| Wireframes | Mockups |
+|------------|---------|
+| Static images | Static high-fidelity designs |
+| Show page layout & hierarchy | Show visual details & UI elements |
+| No color or detail | Include color, typography, iconography |
+| Outline content structure | Represent near-final appearance |
+| Blueprint phase | Visual refinement phase |
+
+## Transitioning to mockups
+
+Creating mockups from wireframes isn't just about copying what you already have. You should make improvements and changes to ensure the design looks good, works well for users, and is accessible to everyone. Like wireframes, you'll create multiple versions of your mockups, getting feedback each time and continuously improving them until they're ready.
+
+# Visual design
+
+## What is visual design?
+
+**Visual design** refers to how a product or technology appears to the user.
+
+Foundational elements of visual design are typography, color and iconography.
+
+These three foundational elements work together to:
+- Create appealing user interfaces
+- Improve user experience
+- Communicate information effectively
+- Establish visual hierarchy
+- Maintain brand consistency
+
+## Typography
+
+**Typography** is the practice of arranging text and typefaces (fonts) to make language legible, readable, and visually appealing.
+
+**Purpose:**
+- Add hierarchy to designs
+- Make text easy to read
+- Add visual style
+
+## Color
+
+**Color** is one of the most impactful visual design elements.
+
+**Considerations:**
+- Messages or emotions colors communicate
+- How people understand color
+- How colors mix, match, or contrast
+
+**Examples:**
+- **Red:** Attracts attention
+- **Blue:** Communicates serenity, calmness, and peace
+
+## Iconography
+
+**Iconography** are images or symbols associated with a subject or idea. For example Power icon = circle with a line (⏻)
+
+**Benefits:**
+- Limit wasted text space
+- Catch the user's attention
+- Provide easy transitions to other pages or locations
+
+## Layouts
+
+Beyond typography, color, and iconography, successful designs require careful consideration of **layouts** and how elements are arranged on a page. Great layouts present information in a logical way, making important elements standout.
+
+There are three key tools for effective layouts:
+- Grids
+- Containment
+- Negative space
+
+## Grids
+
+Lines that are evenly spaced to help you design consistently and manage the spacing of elements.
+
+**Layout grid:**
+- Vertical columns with spaces (alleys) between them
+- Common for responsive web design
+- Helps align elements consistently
+
+**Uniform Grid:**
+- Intersecting vertical and horizontal lines
+- Creates a matrix of evenly spaced guidelines
+- Called "Uniform Grids" in Figma
+
+## Containment
+
+Visual barriers that keep designs neat and organized.
+
+There are four methods for containment: dividers, borders, fill, shadows.
+
+### Method 1: Dividers
+
+**Dividers** are single lines to separate sections of a page.
+
+**Example:** Horizontal lines separating messages in an inbox.
+
+- Separating list items
+- Dividing content sections
+- Creating visual breaks between information
+
+### Method 2: Borders
+
+**Borders** are continuous lines forming shapes (squares, rectangles) to break up sections.
+
+**Example:** Borders around size options (pink borders for unselected, black for selected).
+
+- Highlighting selections
+- Grouping related content
+- Creating distinct content areas
+- Showing interactive states
+
+### Method 3: Fill
+
+Shapes should have colors inside.
+
+- Creating prominent call-to-action buttons
+- Distinguishing different element states
+- Adding visual emphasis
+- Creating depth and hierarchy
+
+#### Method 4: Shadows
+
+**Shadows** are creating dimension in combination with borders or fill.
+
+**Key characteristics:**
+- Add depth to designs
+- Signal interactivity (e.g., selected items)
+- Shadow depth can change element perspective
+- Vary from subtle (2px) to dramatic (24px)
+
+**Use Case:**
+- Indicating selected items
+- Creating card-style layouts
+- Showing elevated elements
+- Adding realistic depth
+
+## Negative space
+
+**Negative space** is the area that surrounds an object within an image; the gaps between elements or space not being used.
+
+**Improves readability:**
+- Helps users read content more easily
+- Reduces visual clutter
+- Prevents information overload
+
+**Enhances identification:**
+- Makes important information stand out
+- Guides user attention
+- Creates visual hierarchy
+
+**Visual appeal:**
+- Makes content easier to engage with
+- Creates a cleaner, more professional look
+- Provides visual rest areas
+
+| Less negative space | More negative space |
+|---------------------|---------------------|
+| Crowded elements | Spacious layout |
+| Harder to read | Easier to read |
+| Overwhelming | Calm and organized |
+| Less engaging | More visually appealing |
+
 # Image attributions
 
 - Responsive design
