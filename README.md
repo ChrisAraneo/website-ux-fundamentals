@@ -1514,15 +1514,61 @@ Design systems have four main components that work together to create consistent
 3. **UI components** - are ready-to-use interface elements like buttons, cards, and forms that maintain consistency and speed up the design process.
 4. **Supporting code for developers** - gives developers the technical specifications and code snippets they need to build the designs correctly and bridge the gap between design and development.
 
-# Sticker sheets
+## Sticker sheets
 
-Sticker sheet is a frame within Figma where you **save colors and components that you can copy-and-paste into designs**.
+Sticker sheet is a frame within Figma where you **save colors and components that you can copy-and-paste into designs**. Sticker sheet is your design toolkit - a centralized collection of all reusable design elements that ensures consistency, saves time, and facilitates collaboration. 
 
 What to include in a sticket sheet?
 - Components
 - Typography
 - Color
 - Iconography
+
+- Sticker sheets are **essential** for maintaining consistency
+- Larger companies have **comprehensive design systems** built on this concept
+- **Time saved** using sticker sheets = more time for creative problem-solving
+- Sticker sheets are often **shared across teams** for collaboration
+- They serve as **living documentation** of design decisions
+
+## Popular big company design systems
+
+- Google Material Design
+- Apple Human Interface Guidelines
+- Microsoft Fluent Design System
+
+## UI kits
+
+UI kit is a **collection of elements, components, and files** that help UX designers create apps and websites.
+
+Figma Community has numerous UI kits available for download.
+
+What's included
+- Pre-designed components (buttons, cards, forms)
+- Typography sets
+- Icon libraries
+- Color palettes
+- Layout templates
+
+**Key difference:** UI kits are like simplified design systems - they include design components you don't need to create yourself.
+
+## Applying for your project
+
+Step 1: Apply visual design principles to your mockups
+- Review each principle
+- Identify where to apply them
+- Iterate based on principles
+
+Step 2: Create a simple sticker sheet
+- Collect your most-used components
+- Organize by category
+- Label everything clearly
+- Use consistent spacing
+
+Step 3: Explore existing design systems
+- Study major company systems
+- Download and experiment with UI kits
+- Understand why certain decisions were made
+- Apply learnings to your own work
 
 # Image attributions
 
