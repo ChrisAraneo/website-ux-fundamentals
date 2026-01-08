@@ -1492,8 +1492,6 @@ Unity is about **making all parts of your design feel connected and like they be
 
 The variety principle involves **introducing different shapes or patterns with the same size and color to make designs more interesting**. It helps stop designs from looking boring and keeps users interested. The trick is to add enough variety to be interesting, but not so much that the design looks chaotic or confusing.
 
-
-
 # Image attributions
 
 - Responsive design
