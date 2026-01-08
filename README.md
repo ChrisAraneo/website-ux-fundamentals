@@ -1312,6 +1312,15 @@ When evaluating your own low-fidelity prototype, ask yourself:
 
 # Mockups
 
+## Mockup
+
+**Mockup** is a static, high-fidelity design that represents the final product. Think of it as a detailed visual representation of your product that:
+
+- Shows more detail than wireframes
+- Requires less work than full interactive prototypes
+- Helps refine layouts, colors, and user interfaces
+- Serves as a bridge between wireframes and prototypes
+
 ## Mockups vs wireframes
 
 Wireframes are simple sketches or outlines that show the basic structure and layout of a screen or product. You can draw them on paper or create them digitally, but they don't include colors or detailed design elements.
