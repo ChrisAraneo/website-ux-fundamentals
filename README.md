@@ -1326,7 +1326,7 @@ Mockups are more polished versions that look closer to the final product. They i
 | Outline content structure | Represent near-final appearance |
 | Blueprint phase | Visual refinement phase |
 
-## Transitioning to mockups
+## Transition to mockups
 
 Creating mockups from wireframes isn't just about copying what you already have. You should make improvements and changes to ensure the design looks good, works well for users, and is accessible to everyone. Like wireframes, you'll create multiple versions of your mockups, getting feedback each time and continuously improving them until they're ready.
 
@@ -1336,34 +1336,24 @@ Creating mockups from wireframes isn't just about copying what you already have.
 
 **Visual design** refers to how a product or technology appears to the user.
 
-Foundational elements of visual design are typography, color and iconography.
-
-These three foundational elements work together to:
-- Create appealing user interfaces
-- Improve user experience
-- Communicate information effectively
-- Establish visual hierarchy
-- Maintain brand consistency
+The three main elements of visual design are typography (text and fonts), color, and iconography (icons and symbols). These elements work together to make designs look good, help users navigate easily, communicate information clearly, and keep the brand looking consistent.
 
 ## Typography
 
 **Typography** is the practice of arranging text and typefaces (fonts) to make language legible, readable, and visually appealing.
 
-**Purpose:**
-- Add hierarchy to designs
-- Make text easy to read
-- Add visual style
+- Adds hierarchy to designs
+- Makes text easy to read
+- Adds visual style
 
 ## Color
 
 **Color** is one of the most impactful visual design elements.
 
-**Considerations:**
-- Messages or emotions colors communicate
-- How people understand color
-- How colors mix, match, or contrast
+- How color communicates messages and emotions?
+- How people understand color?
+- How colors mix, match, or contrast?
 
-**Examples:**
 - **Red:** Attracts attention
 - **Blue:** Communicates serenity, calmness, and peace
 
@@ -1371,10 +1361,9 @@ These three foundational elements work together to:
 
 **Iconography** are images or symbols associated with a subject or idea. For example Power icon = circle with a line (⏻)
 
-**Benefits:**
-- Limit wasted text space
-- Catch the user's attention
-- Provide easy transitions to other pages or locations
+- Icons limits used text space
+- Icons and symbols catch the user's attention
+- They provide easy transitions to other pages or locations
 
 ## Layouts
 
@@ -1409,22 +1398,24 @@ There are four methods for containment: dividers, borders, fill, shadows.
 
 **Dividers** are single lines to separate sections of a page.
 
-**Example:** Horizontal lines separating messages in an inbox.
-
 - Separating list items
 - Dividing content sections
 - Creating visual breaks between information
+
+**Example:**
+Horizontal lines separating messages in an inbox.
 
 ### Method 2: Borders
 
 **Borders** are continuous lines forming shapes (squares, rectangles) to break up sections.
 
-**Example:** Borders around size options (pink borders for unselected, black for selected).
-
 - Highlighting selections
 - Grouping related content
 - Creating distinct content areas
 - Showing interactive states
+
+**Example:**
+Borders around size options (pink borders for unselected, black for selected).
 
 ### Method 3: Fill
 
@@ -1476,6 +1467,32 @@ Shapes should have colors inside.
 | Harder to read | Easier to read |
 | Overwhelming | Calm and organized |
 | Less engaging | More visually appealing |
+
+## Emphasis
+
+**Emphasis** is about making **the most important parts of your design stand out** so users notice them first. You can do this by making key elements larger, brighter, or more prominent than other elements. This helps guide users to the most important content or actions they need to take.
+
+## Hierarchy
+
+Hierarchy is about **organizing your design so users can easily see what's most important**. You do this by making important elements bigger and brighter, while less important elements are smaller and less noticeable. This creates a clear order that helps users understand what to look at first and guides them through the content naturally.
+
+## Scale
+
+Scale is about **changing the size of elements to show how important they are** and create visual contrast. By making some elements bigger and others smaller, you can draw attention to specific parts of your design. Even when you change the size, the elements should still be easy to recognize.
+
+## Proportion
+
+Proportion is about **keeping consistent size relationships between elements** in your design. When you change the size of elements, they should maintain the same ratio to each other, which creates a balanced and harmonious look. This ensures that all parts of your design feel like they belong together and look visually pleasing.
+
+## Unity
+
+Unity is about **making all parts of your design feel connected and like they belong together**. You achieve this by grouping related elements together and using consistent colors, styles, and patterns throughout your design. This creates a cohesive look that feels like one complete design rather than separate pieces, and helps strengthen the brand's identity.
+
+## Variety
+
+The variety principle involves **introducing different shapes or patterns with the same size and color to make designs more interesting**. It helps stop designs from looking boring and keeps users interested. The trick is to add enough variety to be interesting, but not so much that the design looks chaotic or confusing.
+
+
 
 # Image attributions
 
