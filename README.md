@@ -1492,6 +1492,38 @@ Unity is about **making all parts of your design feel connected and like they be
 
 The variety principle involves **introducing different shapes or patterns with the same size and color to make designs more interesting**. It helps stop designs from looking boring and keeps users interested. The trick is to add enough variety to be interesting, but not so much that the design looks chaotic or confusing.
 
+# Design systems
+
+## What is a design system?
+
+Design system is a series of reusable elements and guidelines that allow teams to design and develop a product following predetermined standards. Think of it as a comprehensive toolkit and rulebook for creating consistent designs across all products and platforms.
+
+## Benefits of using design system
+
+- **Consistency** ensures designers work in a standardized way while users get familiar, predictable experiences that reinforce brand identity.
+- **Scalability** makes it easy to expand designs to new products and platforms while maintaining consistency.
+- **Efficiency** saves time and money by eliminating the need to redesign common elements and enabling faster prototyping.
+- **Collaboration** improves by creating a common language between designers and developers, making it easier to onboard new team members and communicate design decisions clearly.
+
+## Components of a design system
+
+Design systems have four main components that work together to create consistent products.
+
+1. **Visual styles** - include typography, color palettes with HEX codes, and iconography to express the brand consistently across all touchpoints. 
+2. **Guidelines** - provide design principles and rules that help designers make consistent decisions about when and how to use components.
+3. **UI components** - are ready-to-use interface elements like buttons, cards, and forms that maintain consistency and speed up the design process.
+4. **Supporting code for developers** - gives developers the technical specifications and code snippets they need to build the designs correctly and bridge the gap between design and development.
+
+# Sticker sheets
+
+Sticker sheet is a frame within Figma where you **save colors and components that you can copy-and-paste into designs**.
+
+What to include in a sticket sheet?
+- Components
+- Typography
+- Color
+- Iconography
+
 # Image attributions
 
 - Responsive design
