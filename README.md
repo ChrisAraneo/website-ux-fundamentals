@@ -2,7 +2,18 @@
 
 Welcome to the comprehensive guide to web UX fundamentals, covering responsive design, information architecture, wireframing, prototyping, and visual design principles.
 
-## Table of Contents
+- **Responsive design**: learn about responsive web design, breakpoints, and designing for multiple devices
+- **Information architecture**: understand how to organize content effectively
+- **Website structures**: explore hierarchical, sequential, matrix, and database models
+- **Sitemaps**: create and use sitemaps for planning website architecture
+- **Homepage layouts**: discover different layout patterns and when to use them
+- **Wireframes**: learn wireframing techniques for both paper and digital
+- **Common components**: understand key UI components like headings, cards, carousels, and CTAs
+- **Gestalt principles**: apply visual perception principles to design
+- **Prototyping**: build low-fidelity prototypes for testing
+- **Mockups & visual design**: create high-fidelity designs with proper visual hierarchy
+
+## Table of contents
 
 1. [Responsive Design](01-responsive-design.md)
 2. [Information Architecture](02-information-architecture.md)
@@ -15,16 +26,3 @@ Welcome to the comprehensive guide to web UX fundamentals, covering responsive d
 9. [Gestalt Principles](09-gestalt-principles.md)
 10. [Low-Fidelity Prototypes](10-low-fidelity-prototypes.md)
 11. [Mockups and Visual Design](11-mockups-and-visual-design.md)
-
-## Topics Covered
-
-- **Responsive design**: learn about responsive web design, breakpoints, and designing for multiple devices
-- **Information architecture**: understand how to organize content effectively
-- **Website structures**: explore hierarchical, sequential, matrix, and database models
-- **Sitemaps**: create and use sitemaps for planning website architecture
-- **Homepage layouts**: discover different layout patterns and when to use them
-- **Wireframes**: learn wireframing techniques for both paper and digital
-- **Common components**: understand key UI components like headings, cards, carousels, and CTAs
-- **Gestalt principles**: apply visual perception principles to design
-- **Prototyping**: build low-fidelity prototypes for testing
-- **Mockups & visual design**: create high-fidelity designs with proper visual hierarchy
