@@ -231,8 +231,6 @@ Dashboard widgets enclosed in bordered cards clearly separate different data set
 - **Breaking expected patterns** - disrupts continuity and flow
 - **Over-reliance on single principle** - combine multiple principles for clarity
 
----
-
 ## Image attributions
 
 - https://unsplash.com/photos/N7G5xtR28fo

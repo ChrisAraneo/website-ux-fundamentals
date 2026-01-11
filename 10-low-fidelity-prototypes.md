@@ -96,8 +96,6 @@ When evaluating your own low-fidelity prototype, ask yourself:
 2. **Navigation** - can users move **forward and backward**? Are there **clear navigation cues**? Are there **multiple entry points**?
 3. ** Completion & feedback** - are there **messaging or navigational cues** that indicate successful completion? Can users **return to the starting point** after completing the flow sequence?
 
----
-
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/selektywna-ostrosc-fotografii-zoltego-samochodu-zabawkowego-243206/

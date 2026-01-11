@@ -342,8 +342,6 @@ Desktop (text + icons), Tablet (selective mix), Mobile (icon-only for secondary 
    - Need to drive conversions?
    - Consider: CTA buttons
 
----
-
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/

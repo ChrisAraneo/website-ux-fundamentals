@@ -99,8 +99,6 @@ Once you've identified the best parts, combine them into one new wireframe.
 8. **Combine strengths** - Final wireframe can merge best parts from all variations
 9. **Wireframes are only blueprints** - They're meant to be rough, fast, and iterative. The goal is exploring ideas, not creating polished designs at this stage.
 
----
-
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/partie-ksiazek-na-drewnianej-polce-1565245/

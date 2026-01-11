@@ -71,8 +71,6 @@ Common website structures help users browse more efficiently by providing famili
 - Can go beyond these models for unique brand requirements
 - **Users must be able to easily and effectively navigate the website**
 
----
-
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/symetryczna-perspektywa-stalowego-mostu-kolejowego-35064415/

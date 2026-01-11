@@ -69,8 +69,6 @@ Sitemaps are essential tools for planning website architecture and ensuring all 
 - **Flat sitemaps** - small websites (under 100 pages) with maximum 4 vertical levels
 - **Deep sitemaps** - large websites (1,000+ pages) with 5 or more vertical levels
 
----
-
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/edukacja-mapa-strony-widok-z-gory-15835241/

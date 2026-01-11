@@ -98,8 +98,6 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 - Balance aesthetics with functionality
 - Test layouts with actual users to validate effectiveness
 
----
-
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/krajobraz-domy-znane-miejsce-podroz-21631486/
