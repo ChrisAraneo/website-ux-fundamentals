@@ -390,6 +390,54 @@ Flyout menu is a hidden navigation panel that slides out from the screen edge wh
 - Animate smoothly (200-300ms)
 - Ensure 44x44px minimum touch targets
 
+## Challenges and solutions
+
+### Challenge 1: "Too much navigation to fit in flyout menu"
+
+**Solutions:**
+- Group related items under category headers
+- Use accordion pattern (collapsible sections)
+- Prioritize—remove truly unnecessary items
+- Consider second level of flyout for subcategories
+- Use search functionality to reduce visible navigation
+
+### Challenge 2: "Hero image looks bad when scaled down"
+
+**Solutions:**
+- Use different crop/aspect ratio for mobile
+- Choose mobile-specific hero image if needed
+- Focus on different part of image (reposition, not just scale)
+- Consider using smaller, more focused image
+- Test with actual content, not just placeholder
+
+### Challenge 3: "Desktop layout has 4 columns, how do I adapt?"
+
+**Solutions:**
+- **Option 1:** Stack vertically (1 column)
+- **Option 2:** Use 2 columns if items are small
+- **Option 3:** Use carousel/slider for horizontal browsing
+- **Option 4:** Show fewer items with "see more" option
+- Choose based on content type and user needs
+
+### Challenge 4: "Text becomes unreadable when scaled down"
+
+**Solutions:**
+- Don't just scale—reset text sizes for mobile
+- Use mobile-specific text styles
+- Increase line height for better readability
+- Reduce text amount (be more concise)
+- Increase contrast for better visibility
+- Test on actual device screens
+
+### Challenge 5: "Components from desktop don't work on mobile"
+
+**Solutions:**
+- Create mobile-specific component variants
+- Use component properties for responsive behavior
+- Build separate mobile component library
+- Detach instances and customize for mobile (if necessary)
+- Document differences between desktop and mobile components
+
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/
