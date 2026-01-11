@@ -1,6 +1,6 @@
 # Website UX Fundamentals
 
-Welcome to the comprehensive guide to web UX fundamentals, covering responsive design, information architecture, wireframing, prototyping, and visual design principles.
+Comprehensive guide to website UX fundamentals covering essential topics:
 
 - **Responsive design**: learn about responsive web design, breakpoints, and designing for multiple devices
 - **Information architecture**: understand how to organize content effectively
