@@ -342,6 +342,54 @@ Desktop (text + icons), Tablet (selective mix), Mobile (icon-only for secondary 
    - Need to drive conversions?
    - Consider: CTA buttons
 
+## Flyout menu
+
+### Purpose
+
+Flyout menu is a hidden navigation panel that slides out from the screen edge when triggered, typically by a hamburger menu icon. It shows navigation options without cluttering the main screen.
+
+### Visual characteristics
+
+- Vertical panel that slides from screen edge
+- Width: 250-350px on desktop, 70-85% on mobile
+- Different background color from main content
+- Shadow or blur to separate from page
+- Dark overlay on remaining screen (optional)
+- Smooth slide-in animation
+
+### Functionality
+
+**Primary interaction:**
+- Opens when you tap hamburger menu icon
+- Slides in from left or right edge
+- Shows navigation links in a vertical list
+- Closes with close button (X), tapping outside, or selecting a link
+
+**Accessibility:**
+- Include ARIA labels (`role="navigation"`, `aria-label="Main menu"`)
+- Keyboard accessible (Tab + Enter/Space)
+- Close with Escape key
+- Minimum touch target: 44x44px
+
+### Placement and usage
+
+**Optimal placement:**
+- **Mobile** - slides from left edge (most common) or right edge
+- **Desktop/Tablet** - less common; used when navigation doesn't fit
+- **Fixed position** - stays visible while scrolling
+
+**When to use:**
+- Mobile websites with multiple navigation items
+- Clean layouts with hidden navigation
+- Sites with many menu options
+
+**Best practices:**
+- Keep menu under 85% of screen width
+- Include clear close button (X) in top corner
+- Add dark overlay for separation
+- Animate smoothly (200-300ms)
+- Ensure 44x44px minimum touch targets
+
 ## Image attributions
 
 - https://www.pexels.com/pl-pl/zdjecie/burger-z-plasterkami-warzyw-z-bliska-fotografia-2702674/
