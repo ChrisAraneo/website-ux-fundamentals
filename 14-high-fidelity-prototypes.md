@@ -7,52 +7,11 @@ Prototype is an early model of a product that demonstrates functionality. **High
 ## Interactive mockups
 
 High-fidelity prototypes take the design work already done in mockups and make it interactive.
+Remember that mockups focus on visual design, while **prototypes focus on functionality**.
 
-## Focus on functionality
+## Implementing high-fidelity prototypes
 
-Remember that mockups focus on visual design, while prototypes focus on functionality.
-
-## Three core pieces of high-fidelity prototypes
-
-### 1. Visual elements
-Finalize all visual elements within the prototype, including:
-- Color
-- Images
-- Icons
-- Typography
-- Written content
-- Illustrations
-- Graphics
-- External links
-
-**Goal**: Use realistic content instead of placeholders to simulate the real app experience.
-
-**Example difference**:
-- Lo-fi prototype: Uses lines or placeholder text like "First name, Last name" or "Dog Walker A"
-- Hi-fi prototype: Includes actual names, descriptions, and profile photos
-
-### 2. Navigation
-Finalize the navigation for the user flow you want to test. Navigation helps users explore and enjoy your product.
-
-**Critical user journey**: The main user flow that should already be established in your low-fidelity prototypes.
-
-**Why it matters**: Without good navigation, users will struggle or stop using your product.
-
-**Navigation checklist**:
-- How does a user get from one screen to the next?
-- How easy is it to locate navigation-related icons (back arrows, X buttons)?
-- At what point does the user journey end?
-- Do you have the right buttons or icons on each screen?
-
-### 3. Interactivity
-Add interaction between each screen to make the prototype function. Interactivity includes gestures and motion.
-
-**Creating connections in Figma**:
-1. **Select the hotspot** - the item where the user's interaction will take place (button, icon, heading, etc.)
-2. **Make the connection** - the arrow (also called "noodle") that connects the hotspot to the destination
-3. **Indicate the destination** - where the connection ends (must be a frame or screen, not an item within a frame)
-
-## Six-step process to create high-fidelity prototypes in Figma
+## Creating high-fidelity prototypes in Figma
 
 ### Step 1: Lay out the mockups
 - Copy and paste mockups into the hi-fi prototype page
@@ -84,6 +43,7 @@ Export or share the prototype for testing and feedback.
 ## Web accessibility for high-fidelity prototypes
 
 ### Web Content Accessibility Guidelines (WCAG)
+
 WCAG documents explain how to make web content more accessible to people with disabilities. Most standards focus on incorporating text, sounds, and images in ways that support more users.
 
 ## Three ways to make web designs accessible
@@ -161,9 +121,21 @@ When designing responsive websites:
 - **The A11Y Project** - Community resources for digital accessibility
 - **WebAIM** - Contrast and color requirement guidelines
 
-## Quality checklist
+## Finalizing high-fidelity prototypes
 
-Before finalizing your high-fidelity prototype, verify:
+### Visual elements
+
+Finalize all visual elements within the prototype, including:
+- Color
+- Images
+- Icons
+- Typography
+- Written content
+- Illustrations
+- Graphics
+- External links
+
+Use **realistic content** instead of placeholders to simulate the real app experience.
 
 **Visual elements**:
 - [ ] All placeholder content replaced with realistic content
@@ -171,17 +143,40 @@ Before finalizing your high-fidelity prototype, verify:
 - [ ] Typography consistent throughout
 - [ ] External links functional
 
+### Navigation
+
+Finalize the navigation for the user flow you want to test. Navigation helps users explore and enjoy your product. Without good navigation, users will struggle or stop using your product.
+
+The **main user flow** that should already be established in your low-fidelity prototypes.
+
+**Navigation checklist**:
+- How does a user get from one screen to the next?
+- How easy is it to locate navigation-related icons (back arrows, X buttons)?
+- At what point does the user journey end?
+- Do you have the right buttons or icons on each screen?
+
 **Navigation**:
 - [ ] User can move from screen to screen
 - [ ] Navigation icons clearly visible
 - [ ] User journey has clear beginning and end
 - [ ] Back arrows and exit buttons present
 
+### Interactivity
+
+Add interaction between each screen to make the prototype function. Interactivity includes gestures and motion.
+
+**Creating connections in Figma**:
+1. **Select the hotspot** - the item where the user's interaction will take place (button, icon, heading, etc.)
+2. **Make the connection** - the arrow (also called "noodle") that connects the hotspot to the destination
+3. **Indicate the destination** - where the connection ends (must be a frame or screen, not an item within a frame)
+
 **Interactivity**:
 - [ ] All buttons and interactive elements connected
 - [ ] Hotspots properly defined
 - [ ] Connections lead to correct destinations
 - [ ] Starting frame is the first user action
+
+### Accessibility
 
 **Accessibility**:
 - [ ] Navigation order annotated
