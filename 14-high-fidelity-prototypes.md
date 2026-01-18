@@ -77,7 +77,7 @@ Add interaction between each screen to make the prototype function. Interactivit
 
 WCAG documents explain how to make web content more accessible to people with disabilities. Most standards focus on incorporating text, sounds, and images in ways that support more users.
 
-There are **three ways to make web designs accessible**.
+There are **three ways to make web designs more accessible**.
 
 ### Annotations
 

@@ -70,8 +70,7 @@ There are four methods for containment: dividers, borders, fill, shadows.
 - Dividing content sections
 - Creating visual breaks between information
 
-**Example:**
-Horizontal lines separating messages in an inbox.
+*Example:* Horizontal lines separating messages in an inbox.
 
 ### Method 2: Borders
 
@@ -82,8 +81,7 @@ Horizontal lines separating messages in an inbox.
 - Creating distinct content areas
 - Showing interactive states
 
-**Example:**
-Borders around size options (pink borders for unselected, black for selected).
+*Example:* Borders around size options (pink borders for unselected, black for selected).
 
 ### Method 3: Fill
 

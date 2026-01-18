@@ -14,9 +14,7 @@
 - Parent pages (main categories) in navigation bar
 - Child pages (subcategories) under each parent
 
-**Example:**
-
-HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
+*Example:* HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured Series, Specials, Sports)
 
 ### 2. **Sequential model**
 
@@ -26,9 +24,7 @@ HBO.com with main categories (Series, Movies, Docs) and subcategories (Featured 
 - **Limitations** - cannot skip pages or navigate out of order in true sequential structures
 - **Purpose** - move users toward an end goal through sequential steps
 
-**Example:**
-
-Car insurance quote forms, online surveys.
+*Example:* Car insurance quote forms, online surveys.
 
 ### 3. **Matrix model** (Web model)
 
@@ -39,9 +35,7 @@ Car insurance quote forms, online surveys.
 - **Caution** - considered outdated by some UX designers; can be difficult to navigate without clear direction
 - **Use case** - websites wanting users to interact with lots of content rather than following a specific journey
 
-**Example:**
-
-News websites with navigation menus, featured content, and hyperlinked related articles.
+*Example:* News websites with navigation menus, featured content, and hyperlinked related articles.
 
 ### 4. **Database model**
 
@@ -50,9 +44,7 @@ News websites with navigation menus, featured content, and hyperlinked related a
 - **Features** - advanced filtering and search capabilities
 - **Dynamic experience** - content categorized with tags for easy searching
 
-**Example:**
-
-Social media networks (location tags), Google Maps (searchable addresses and categories).
+*Example:* Social media networks (location tags), Google Maps (searchable addresses and categories).
 
 ## Advantages of using common website structures
 
