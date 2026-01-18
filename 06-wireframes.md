@@ -133,7 +133,7 @@ When adapting for responsive layouts, verify:
 
 After completing paper wireframes for all screen sizes, transition to digital wireframing tools to refine designs and prepare for prototyping. At this point placeholders should be filled with images or components.
 
-### Applying layout grid in Figma
+## Layout grid in Figma
 
 1. **Select Frame**
    - Click on frame where layout grid is needed
@@ -167,7 +167,7 @@ After completing paper wireframes for all screen sizes, transition to digital wi
    - Or click outside grid settings panel
    - Grid now active on frame
 
-### Tips
+## Tips for wireframing in Figma
 
 - Upload paper wireframe photos to Figma for constant reference
 - Set up grid system once, then duplicate frame for other pages

@@ -6,9 +6,7 @@
 
 ### 1. **Hierarchical model** (most popular)
 
-***Top-down approach with parent and child levels, similar to a family tree.***
-
-***Organizes content by importance-what's most/least important and how content connects.***
+***Top-down approach with parent and child levels, similar to a family tree. Organizes content by importance-what's most/least important and how content connects.***
 
 - Homepage at the top
 - Parent pages (main categories) in navigation bar
