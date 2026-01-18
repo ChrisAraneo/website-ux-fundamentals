@@ -53,16 +53,6 @@ Many UX designers start with paper wireframes and later switch to digital to bal
 
 Implement layout changes based on device/screen size to improve user experience and accessibility across devices. Best practice is to create at least 5 versions of every important page.
 
-### Design strategy: largest to smallest
-
-- Assume the desktop homepage wireframe is the **largest screen** to design for
-- Create progressively smaller versions by asking:
-  - "What would a medium version look like?"
-  - "What would a small version look like?"
-  - "Which components will be **removed**?"
-  - "Which will **stay**?"
-  - "Which will **shift position** or **change format**?"
-
 ### Mobile wireframe
 
 - Draw smaller, portrait-oriented outline (narrower than desktop)
@@ -75,6 +65,17 @@ Implement layout changes based on device/screen size to improve user experience 
 - Draw outline larger than mobile, smaller than desktop
 - Still portrait-oriented
 - Scale elements proportionally using grid
+
+## Responsive design strategy: largest to smallest
+
+Assume the desktop homepage wireframe is the **largest screen** to design for.
+
+Create progressively smaller versions by asking:
+- "What would a medium version look like?"
+- "What would a small version look like?"
+- "Which components will be **removed**?"
+- "Which will **stay**?"
+- "Which will **shift position** or **change format**?"
 
 ## Usability, accessibility and visual clutter
 
