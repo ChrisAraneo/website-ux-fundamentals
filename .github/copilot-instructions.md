@@ -4,18 +4,17 @@
 This project contains summaries of educational materials found online on User Experience. The educational summaries are generated based on content provided by the user in prompts.
 
 ## Primary Use Case
-When working with content in this repository, assist with creating summaries that will be the best study materials.
-
-## Make Summaries and Extend Learning Materials With Your Own Knowledge
-You should create summaries of the educational materials provided in the repository files. Use your own knowledge to extend and enhance the learning materials where appropriate.
+When working with content in this repository, assist with creating summaries that will be the best study materials. When given prompts, generate detailed summaries that capture the key concepts and information. Use your own knowledge to enhance the summaries where appropriate. You should create summaries of the educational materials provided in the repository files. Use your own knowledge to extend and enhance the learning materials where appropriate.
 
 ## Style Guidelines
 
 ### Clear and Concise Language
 Use clear and concise language suitable for educational content.
 
-### Avoid Short Lists and Bullet Points
+### Avoid Simple Lists
 Where possible, avoid lists with short list items (less than one sentence) and bullet points. Instead, use full sentences and paragraphs to explain concepts in detail. Make key phrases bold to highlight important information.
+
+
 
 **Example**: Instead of writing:
 ```
@@ -35,6 +34,8 @@ Write:
 ```
 
 ### Use Numbered Lists With Complex Concepts Or Steps
+When dealing with similar complex concepts, that cannot be easily explained in a sentence or two, use lists to break down the information.
+
 Use numbered lists when listing multiple complex concepts that require one or two sentences description for better understanding. Also use numbered lists for step-by-step instructions.
 
 **Example**:
