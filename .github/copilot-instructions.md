@@ -114,3 +114,12 @@ When using lists, use dash symbols after double asterisks for bolded key phrases
 2. **Reference sitemap** - use sitemap to determine page structure and element prioritization
 3. **Gather materials** - grid paper (or template), pen/pencil
 ```
+
+#### Rule 6: Avoid Unnecessary Capitalization In Headings
+Avoid unnecessary capitalization in headings.
+
+**Example**: AVOID writing:
+```### Accessible Color and Contrast
+```INSTEAD, write:
+```### Accessible color and contrast
+```
