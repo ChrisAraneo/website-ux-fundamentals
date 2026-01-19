@@ -11,10 +11,21 @@ When working with content in this repository, assist with creating summaries tha
 ### Clear and Concise Language
 Use clear and concise language suitable for educational content.
 
-### Avoid Simple Lists
-Where possible, avoid lists with short list items (less than one sentence) and bullet points. Instead, use full sentences and paragraphs to explain concepts in detail. Make key phrases bold to highlight important information.
+### Use Numbered Lists With Complex Concepts Or Steps
+When dealing with similar complex concepts, that cannot be easily explained in a sentence or two, use lists to break down the information.
 
+Use numbered lists when listing multiple complex concepts that require one or two sentences description for better understanding. Also use numbered lists for step-by-step instructions.
 
+**Example**:
+```
+### Creating connections in Figma
+1. **Select the hotspot** - the item where the user's interaction will take place (button, icon, heading, etc.)
+2. **Make the connection** - the arrow (also called "noodle") that connects the hotspot to the destination
+3. **Indicate the destination** - where the connection ends (must be a frame or screen, not an item within a frame)
+```
+
+### Avoid Lists With Items Less Than Three Words
+Where possible, avoid lists with list items that are less than three words. Instead, use full sentences and paragraphs to explain concepts in detail. Make key phrases bold to highlight important information.
 
 **Example**: Instead of writing:
 ```
@@ -31,19 +42,6 @@ Finalize all visual elements within the prototype, including:
 Write:
 ```
 **Finalize all visual elements** within the prototype, including color, images, icons, typography, written content, illustrations, graphics, and external links.
-```
-
-### Use Numbered Lists With Complex Concepts Or Steps
-When dealing with similar complex concepts, that cannot be easily explained in a sentence or two, use lists to break down the information.
-
-Use numbered lists when listing multiple complex concepts that require one or two sentences description for better understanding. Also use numbered lists for step-by-step instructions.
-
-**Example**:
-```
-### Creating connections in Figma
-1. **Select the hotspot** - the item where the user's interaction will take place (button, icon, heading, etc.)
-2. **Make the connection** - the arrow (also called "noodle") that connects the hotspot to the destination
-3. **Indicate the destination** - where the connection ends (must be a frame or screen, not an item within a frame)
 ```
 
 ### Avoid Using Checkboxes
