@@ -6,8 +6,7 @@ Prototype is an early model of a product that demonstrates functionality. **High
 
 ## Interactive mockups
 
-High-fidelity prototypes take the design work already done in mockups and make it interactive.
-Remember that mockups focus on visual design, while **prototypes focus on functionality**.
+High-fidelity prototypes take the design work already done in mockups and make it interactive. Remember that mockups focus on visual design, while **prototypes focus on functionality**.
 
 ## Completion best practices
 
