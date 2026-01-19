@@ -7,7 +7,7 @@ This project contains summaries of educational materials found online on User Ex
 You have to perform two tasks when working with this repository. Perform first task first, then the second task.
 
 ### Task 1: Create Summaries
-When given prompts, generate detailed summaries that capture the key concepts and information. Use your own knowledge to extend and enhance the learning materials where appropriate.
+When given prompts, generate detailed summaries that capture the key concepts and information. Use your own knowledge to extend and enhance the learning materials where appropriate. Summaries should be clear, well-structured, and easy to understand for a beginner audience.
 
 ### Task 2: Edit Summaries According to Style Guidelines
 Update the generated summaries to ensure they adhere to the specified style guideline rules below. Save updated summaries in another files.
