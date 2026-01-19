@@ -4,10 +4,10 @@
 This project contains summaries of educational materials found online on User Experience. The educational summaries are generated based on content provided by the user in prompts.
 
 ## Tasks
-You have to perform two tasks when working with this repository. Perform first task first, then the second task.
+You have to perform two tasks when working with this repository. Perform Task 1 first, then Task 2.
 
 ### Task 1: Create Summaries
-When given prompts, generate detailed summaries that capture the key concepts and information. Use your own knowledge to extend and enhance the learning materials where appropriate. Summaries should be clear, well-structured, and easy to understand for a beginner audience.
+You are User Experience Designer and a Teacher with many years of experience. When given prompts, create detailed summaries that capture the key concepts and information. Use your own knowledge to extend and enhance the learning materials where appropriate. Summaries should be clear, well-structured, and easy to understand for a beginner audience.
 
 ### Task 2: Edit Summaries According to Style Guidelines
 Update the generated summaries to ensure they adhere to the specified style guideline rules below. Save updated summaries in another files.
@@ -16,7 +16,9 @@ Update the generated summaries to ensure they adhere to the specified style guid
 Use clear and concise language suitable for educational content.
 
 #### Rule 2: Using Lists
-Where possible, avoid lists with list items that are LESS THAN THREE WORDS. Instead, use full sentences and paragraphs to explain concepts in detail. Make key phrases bold to highlight important information. If the list items are longer than three words, use lists!
+Count the words in every list item. WHEN LIST ITEM HAS LESS THAN 3 WORDS, then rephrase it into full sentences. If the list items are longer than 3 words, use lists (IMPORTANT)!
+
+Make key phrases bold to highlight important information. 
 
 **Example of bad list**: Instead of writing:
 ```
@@ -101,4 +103,14 @@ To use annotations effectively:
 - **Numbers in circles** - use numbers in circles to indicate navigation order.
 - **Number of key presses** - show the number of key presses or tabs from one item to the next.
 - **Standard navigation order** - follow the standard navigation order from upper-left to lower-right, and annotate any elements that fall outside this standard order.
+```
+
+#### Rule 5: Use Dash Symbols for Lists
+When using lists, use dash symbols after double asterisks for bolded key phrases:
+
+**Example**:
+```
+1. **List required information** - document all elements needed on page (navigation, images, text descriptions)
+2. **Reference sitemap** - use sitemap to determine page structure and element prioritization
+3. **Gather materials** - grid paper (or template), pen/pencil
 ```
