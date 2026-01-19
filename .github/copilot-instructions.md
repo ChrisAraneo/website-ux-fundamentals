@@ -3,15 +3,19 @@
 ## Project Context
 This project contains summaries of educational materials found online on User Experience. The educational summaries are generated based on content provided by the user in prompts.
 
-## Primary Use Case
-When working with content in this repository, assist with creating summaries that will be the best study materials. When given prompts, generate detailed summaries that capture the key concepts and information. Use your own knowledge to enhance the summaries where appropriate. You should create summaries of the educational materials provided in the repository files. Use your own knowledge to extend and enhance the learning materials where appropriate.
+## Tasks
+You have to perform two tasks when working with this repository. Perform first task first, then the second task.
 
-## Style Guidelines
+### Task 1: Create Summaries
+When given prompts, generate detailed summaries that capture the key concepts and information. Use your own knowledge to extend and enhance the learning materials where appropriate.
 
-### Clear and Concise Language
+### Task 2: Edit Summaries According to Style Guidelines
+Update the generated summaries to ensure they adhere to the specified style guideline rules below. Save updated summaries in another files.
+
+#### Rule 1: Clear and Concise Language
 Use clear and concise language suitable for educational content.
 
-### Using Lists
+#### Rule 2: Using Lists
 Where possible, avoid lists with list items that are LESS THAN THREE WORDS. Instead, use full sentences and paragraphs to explain concepts in detail. Make key phrases bold to highlight important information. If the list items are longer than three words, use lists!
 
 **Example of bad list**: Instead of writing:
@@ -63,7 +67,7 @@ Include additional content for variety:
   - Other relevant information
 ```
 
-### Avoid Using Checkboxes
+#### Rule 3: Avoid Using Checkboxes
 Avoid using checkboxes in lists. Instead, use descriptive sentences to convey the same information.
 
 **Example**: AVOID writing:
@@ -78,7 +82,7 @@ INSTEAD, write:
 Ensure that all interactive elements are connected, hotspots are properly defined, connections lead to correct destinations, and the starting frame is the first user action.
 ```
 
-### Avoid Using Bold Headings
+#### Rule 4: Avoid Using Bold Headings
 Avoid using bold text and immediately following it by lists.
 
 **Example**: AVOID writing:
