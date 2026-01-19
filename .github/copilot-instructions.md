@@ -14,7 +14,7 @@ Use clear and concise language suitable for educational content.
 ### Using Lists
 Where possible, avoid lists with list items that are LESS THAN THREE WORDS. Instead, use full sentences and paragraphs to explain concepts in detail. Make key phrases bold to highlight important information. If the list items are longer than three words, use lists!
 
-**Example**: Instead of writing:
+**Example of bad list**: Instead of writing:
 ```
 Finalize all visual elements within the prototype, including:
 - Color
@@ -31,7 +31,7 @@ Write:
 **Finalize all visual elements** within the prototype, including color, images, icons, typography, written content, illustrations, graphics, and external links.
 ```
 
-**Example**: Following list is very good:
+**Example of good list**: Following list is very good:
 ```
 - **Meets user expectations** - users have prior experience with these structures across different websites
 - **Improves navigation** - adds organization and logical cues to orient and direct users
@@ -43,12 +43,24 @@ When dealing with similar complex concepts, that cannot be easily explained in a
 
 Use numbered lists when listing multiple complex concepts that require one or two sentences description for better understanding. Also use numbered lists for step-by-step instructions.
 
-**Example**:
+**Example of good numbered list**:
 ```
 ### Creating connections in Figma
 1. **Select the hotspot** - the item where the user's interaction will take place (button, icon, heading, etc.)
 2. **Make the connection** - the arrow (also called "noodle") that connects the hotspot to the destination
 3. **Indicate the destination** - where the connection ends (must be a frame or screen, not an item within a frame)
+```
+
+**Example of good list**:
+```
+## Below the fold
+Include additional content for variety:
+- Create new section for more books
+- List six books in two groups of three rectangles
+- Add lines below each for:
+  - Book title
+  - Author name
+  - Other relevant information
 ```
 
 ### Avoid Using Checkboxes
