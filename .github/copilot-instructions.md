@@ -20,7 +20,18 @@ Count the words in every list item. WHEN LIST ITEM HAS LESS THAN 3 WORDS, then r
 
 Make key phrases bold to highlight important information. 
 
-**Example of bad list**: Instead of writing:
+**Example of good list**: If list items are longer than 3 words, use lists. For example:
+```
+- Upload paper wireframe photos to Figma for constant reference
+- Set up grid system once, then duplicate frame for other pages
+- Create reusable components for repeated elements (navigation, footer)
+- Use keyboard shortcuts
+- Use same placeholder conventions across all pages
+- Keep visual hierarchy consistent
+- Apply same fold principles to every page
+```
+
+**Example of bad list**: List items are too short and should be rephrased into full sentences. For example:
 ```
 Finalize all visual elements within the prototype, including:
 - Color
@@ -67,6 +78,18 @@ Include additional content for variety:
   - Book title
   - Author name
   - Other relevant information
+```
+
+**Example of bad list**:
+```
+- iPhone 14 Pro: 393px × 852px
+- iPhone 14 Pro Max: 430px × 932px
+- Android Large: 360px × 800px
+- Android Small: 360px × 640px
+```
+Write:
+```
+iPhone 14 Pro (393px × 852px), iPhone 14 Pro Max (430px × 932px), Android Large (360px × 800px), and Android Small (360px × 640px).
 ```
 
 #### Rule 3: Avoid Using Checkboxes
