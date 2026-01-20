@@ -296,8 +296,7 @@ Icons replace text labels in mobile interfaces to maximize limited screen space 
 - Instant recognition for common actions
 - Reduced cognitive load through familiar symbols
 
-**Common icon replacements:**
-Search → magnifying glass, Shopping Cart → cart, User Account → person/avatar, Menu → hamburger, Share → share arrow, Favorites → heart, Settings → gear, Home → house
+**Common icon replacements:** Search becomes magnifying glass, Shopping Cart becomes cart icon, User Account becomes person/avatar, Menu becomes hamburger icon, Share becomes share arrow, Favorites becomes heart, Settings becomes gear, and Home becomes house.
 
 ### Placement and usage
 

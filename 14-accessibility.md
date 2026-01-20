@@ -84,9 +84,4 @@ When designing responsive websites:
 
 ## Accessibility checklist
 
-**Accessibility**:
-- [ ] Navigation order annotated
-- [ ] Hierarchical headings (H1, H2, H3) marked
-- [ ] Interactive elements have labels
-- [ ] Color contrast meets WCAG standards
-- [ ] Responsive behavior documented
+Ensure that navigation order is annotated, hierarchical headings (H1, H2, H3) are marked, interactive elements have labels, color contrast meets WCAG standards, and responsive behavior is documented.

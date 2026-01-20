@@ -19,23 +19,11 @@ A high-fidelity prototype is complete when all of the following elements are fin
 
 ## Visual elements
 
-Finalize all visual elements within the prototype, including:
-- Color
-- Images
-- Icons
-- Typography
-- Written content
-- Illustrations
-- Graphics
-- External links
+**Finalize all visual elements** within the prototype, including color, images, icons, typography, written content, illustrations, graphics, and external links.
 
 Use **realistic content** instead of placeholders to simulate the real app experience.
 
-**Visual elements checklist**:
-- [ ] All placeholder content replaced with realistic content
-- [ ] Images, icons, and graphics finalized
-- [ ] Typography consistent throughout
-- [ ] External links functional
+Ensure that all placeholder content is replaced with realistic content, images/icons/graphics are finalized, typography is consistent throughout, and external links are functional.
 
 ## Navigation
 
@@ -49,11 +37,7 @@ The **main user flow** that should already be established in your low-fidelity p
 - At what point does the user journey end?
 - Do you have the right buttons or icons on each screen?
 
-**Navigation checklist**:
-- [ ] User can move from screen to screen
-- [ ] Navigation icons clearly visible
-- [ ] User journey has clear beginning and end
-- [ ] Back arrows and exit buttons present
+Verify that users can move from screen to screen, navigation icons are clearly visible, user journey has clear beginning and end, and back arrows and exit buttons are present.
 
 ## Interactivity
 
@@ -64,11 +48,7 @@ Add interaction between each screen to make the prototype function. Interactivit
 2. **Make the connection** - the arrow (also called "noodle") that connects the hotspot to the destination
 3. **Indicate the destination** - where the connection ends (must be a frame or screen, not an item within a frame)
 
-**Interactivity**:
-- [ ] All buttons and interactive elements connected
-- [ ] Hotspots properly defined
-- [ ] Connections lead to correct destinations
-- [ ] Starting frame is the first user action
+Ensure that all buttons and interactive elements are connected, hotspots are properly defined, connections lead to correct destinations, and the starting frame is the first user action.
 
 ## Accessibility
 
@@ -158,12 +138,7 @@ When designing responsive websites:
 
 ## Accessibility checklist
 
-**Accessibility**:
-- [ ] Navigation order annotated
-- [ ] Hierarchical headings (H1, H2, H3) marked
-- [ ] Interactive elements have labels
-- [ ] Color contrast meets WCAG standards
-- [ ] Responsive behavior documented
+Ensure that navigation order is annotated, hierarchical headings (H1, H2, H3) are marked, interactive elements have labels, color contrast meets WCAG standards, and responsive behavior is documented.
 
 ## Creating high-fidelity prototypes in Figma
 

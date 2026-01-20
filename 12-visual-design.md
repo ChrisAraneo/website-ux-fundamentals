@@ -60,7 +60,7 @@ Lines that are evenly spaced to help you design consistently and manage the spac
 
 Visual barriers that keep designs neat and organized.
 
-There are four methods for containment: dividers, borders, fill, shadows.
+There are four methods for containment: dividers, borders, fill, and shadows.
 
 ### Method 1: Dividers
 
@@ -92,7 +92,7 @@ Shapes should have colors inside.
 - Adding visual emphasis
 - Creating depth and hierarchy
 
-#### Method 4: Shadows
+### Method 4: Shadows
 
 **Shadows** are creating dimension in combination with borders or fill.
 
@@ -184,11 +184,7 @@ Design systems have four main components that work together to create consistent
 
 Sticker sheet is a frame within Figma where you **save colors and components that you can copy-and-paste into designs**. Sticker sheet is your design toolkit - a centralized collection of all reusable design elements that ensures consistency, saves time, and facilitates collaboration. 
 
-What to include in a sticket sheet?
-- Components
-- Typography
-- Color
-- Iconography
+What to include in a sticker sheet? Components, typography, color, and iconography should all be part of your sticker sheet.
 
 - Sticker sheets are **essential** for maintaining consistency
 - Larger companies have **comprehensive design systems** built on this concept
@@ -208,12 +204,7 @@ UI kit is a **collection of elements, components, and files** that help UX desig
 
 Figma Community has numerous UI kits available for download.
 
-What's included
-- Pre-designed components (buttons, cards, forms)
-- Typography sets
-- Icon libraries
-- Color palettes
-- Layout templates
+**What's included:** Pre-designed components (buttons, cards, forms), typography sets, icon libraries, color palettes, and layout templates.
 
 **Key difference:** UI kits are like simplified design systems - they include design components you don't need to create yourself.
 

@@ -71,10 +71,7 @@ With breakpoints you **don't** have to create a different design for every poten
 
 ## Common mobile screen sizes
 
-- iPhone 14 Pro: 393px × 852px
-- iPhone 14 Pro Max: 430px × 932px
-- Android Large: 360px × 800px
-- Android Small: 360px × 640px
+Common screen sizes include iPhone 14 Pro (393px × 852px), iPhone 14 Pro Max (430px × 932px), Android Large (360px × 800px), and Android Small (360px × 640px).
 
 **Pro tip:** Start with a common size like 375px × 667px (iPhone SE) or 360px × 800px (Android). You can adjust later for specific devices.
 

@@ -74,7 +74,7 @@ Purposefully imbalanced designs emphasizing specific elements through natural ey
 - **Distinction** - no all-encompassing container or long sidebars (unlike multicolumn)
 - **Desktop to mobile** - multiple columns collapse to single column
 
-## Takeways
+## Takeaways
 
 1. **Simplicity vs. Complexity** - choose layout complexity based on content needs and screen size
 2. **Responsive design** - different layouts may be appropriate for different device sizes (single-column for mobile, multicolumn for desktop)

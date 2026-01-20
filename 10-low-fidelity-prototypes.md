@@ -91,10 +91,7 @@ Creating user flow:
 
 ## Quality checklist
 
-When evaluating your own low-fidelity prototype, ask yourself:
-1. **Structure & flow** - does it connect **at least four distinct wireframes**? Does it allow completion of a **main user flow**?
-2. **Navigation** - can users move **forward and backward**? Are there **clear navigation cues**? Are there **multiple entry points**?
-3. ** Completion & feedback** - are there **messaging or navigational cues** that indicate successful completion? Can users **return to the starting point** after completing the flow sequence?
+When evaluating your own low-fidelity prototype, ensure it connects at least four distinct wireframes and allows completion of a main user flow. Check that users can move forward and backward with clear navigation cues and multiple entry points. Verify there are messaging or navigational cues indicating successful completion, and that users can return to the starting point after completing the flow sequence.
 
 ## Image attributions
 

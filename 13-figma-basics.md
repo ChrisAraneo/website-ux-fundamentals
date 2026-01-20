@@ -68,10 +68,7 @@ This guide covers how to use **styles** and **components** in Figma to keep your
 
 ### How to save effect styles
 
-**Effects include:**
-- Shadows (drop shadows, inner shadows)
-- Blurs (layer blur, background blur)
-- Other visual effects
+Effects include shadows (drop shadows, inner shadows), blurs (layer blur, background blur), and other visual effects.
 
 1. Select the element with the effect you want to save
 2. Go to the **Design** tab
@@ -151,39 +148,17 @@ This guide covers how to use **styles** and **components** in Figma to keep your
 
 **For a website design, create components for:**
 
-**Navigation Elements:**
-- Navigation bar
-- Menu items
-- Breadcrumbs
+**Navigation elements:** Navigation bar, menu items, and breadcrumbs.
 
-**Interactive Elements:**
-- Primary buttons
-- Secondary buttons
-- Text links
-- Icon buttons
+**Interactive elements:** Primary buttons, secondary buttons, text links, and icon buttons.
 
-**Content Containers:**
-- Product cards
-- Blog post cards
-- Team member cards
-- Testimonial boxes
+**Content containers:** Product cards, blog post cards, team member cards, and testimonial boxes.
 
-**Form Elements:**
-- Input fields
-- Checkboxes
-- Radio buttons
-- Dropdown menus
+**Form elements:** Input fields, checkboxes, radio buttons, and dropdown menus.
 
-**Media Elements:**
-- Image placeholders
-- Video containers
-- Icon sets
+**Media elements:** Image placeholders, video containers, and icon sets.
 
-**Layout Elements:**
-- Headers
-- Footers
-- Sidebars
-- Grid sections
+**Layout elements:** Headers, footers, sidebars, and grid sections.
 
 ### Component variants
 
